@@ -1,381 +1,381 @@
-Vol,characteres,tipo 2
-V005,682,1_scontro
-V005,18159,2_flashback
-V005,3297,3_partenza/sparizione
-V005,5988,4_viaggio
-V005,23428,5_incontro femminile
-V005,19359,6_incontro di gruppo
-V005,5977,7_pausa
-V005,6200,8_incontro di gruppo
-V005,98,9_partenza/separazione
-V005,16383,10_incontro femminile
-V005,2721,11_partenza/separazione
-V005,37423,12_pausa
-V005,8192,13_incontro animale
-V005,3907,14_pausa
-V005,76905,15_incontro maschile
-V005,1966,16_partenza/separazione
-V005,1734,17_metanarrazione
-V005,2680,18_partenza/separazione
-V005,7268,19_angoscia
-V005,20402,20_incontro di gruppo
-V005,2705,21_partenza/separazione
-V005,12467,22_pausa
-V005,3350,23_partenza/separazione
-V005,1635,24_angoscia
-V005,7390,25_partenza/sparizione
-V005,35287,26_incontro femminile
-V005,12081,27_incontro maschile
-V005,657,28_partenza/separazione
-V005,2414,29_partenza/separazione
-V005,2257,30_angoscia
-V005,6129,31_smarrimento
-V005,5860,32_scontro
-V005,6174,33_scontro
-V005,5221,34_incontro di gruppo
-V005,1317,35_partenza/separazione
-V005,10146,36_incontro di gruppo
-V005,1743,37_partenza/separazione
-V005,12318,38_racconto incastonato
-V005,2859,39_incontro maschile
-V005,2055,40_angoscia
-V005,2451,41_incontro maschile
-V005,585,42_partenza/separazione
-V005,4693,43_incontro maschile
-V005,1302,44_incontro maschile
-V005,1058,45_incontro maschile
-V005,398,46_partenza/separazione
-V005,825,47_partenza/separazione
-V005,3570,48_angoscia
-V005,3271,49_partenza/separazione
-V005,1645,50_epilogo
-V007,4748,1_angoscia
-V007,3066,2_rasserenamento
-V007,5252,3_rivelazione
-V007,530,4_angoscia
-V007,1517,5_angoscia
-V007,978,6_rasserenamento
-V007,2576,7_angoscia
-V007,5243,8_incontro di gruppo
-V007,808,9_rasserenamento
-V007,1477,10_angoscia
-V007,8927,11_incontro di gruppo
-V007,272,12_rasserenamento
-V007,1391,13_angoscia
-V007,3232,14_angoscia
-V007,1403,15_rasserenamento
-V007,332,16_angoscia
-V007,2092,17_incontro di gruppo
-V007,1444,18_incontro di gruppo
-V007,3750,19_incontro di gruppo
-V007,2314,20_incontro maschile
-V007,2761,21_angoscia
-V007,6648,22_incontro femminile
-V007,985,23_angoscia
-V007,3021,24_incontro di gruppo
-V007,3733,25_incontro maschile
-V007,1026,26_angoscia
-V007,563,27_rasserenamento
-V007,1026,28_angoscia
-V007,687,29_rasserenamento
-V008,5013,1_incontro di gruppo
-V008,9397,2_smarrimento
-V008,4100,3_smarrimento
-V008,1499,4_smarrimento
-V008,2184,5_smarrimento
-V008,11339,6_incontro maschile
-V008,2652,7_cornice
-V008,1316,8_smarrimento
-V008,4497,9_scontro
-V008,1636,10_smarrimento
-V008,2294,11_scontro
-V008,1855,12_cornice
-V008,5546,13_compito/missione
-V008,5748,14_compito/missione
-V008,2022,15_compito/missione
-V008,954,16_cornice
-V008,2155,17_incontro femminile
-V008,3971,18_incontro maschile
-V008,1984,19_cornice
-V008,17795,20_incontro di gruppo
-V008,1032,21_partenza/sparizione
-V008,1140,22_partenza/sparizione
-V008,917,23_partenza/sparizione
-V008,462,24_partenza/sparizione
-V008,1077,25_cornice
-V008,3953,26_viaggio
-V008,742,27_incontro femminile
-V008,1585,28_incontro maschile
-V008,480,29_scontro
-V008,3798,30_incontro femminile
-V008,2225,31_smarrimento
-V008,7563,32_incontro femminile
-V008,449,33_partenza/sparizione
-V008,4343,34_cornice
-V008,1797,35_viaggio
-V008,1117,36_viaggio
-V008,2181,37_incontro di gruppo
-V008,1393,38_incontro femminile
-V008,572,39_partenza/sparizione
-V008,620,40_viaggio
-V008,1260,41_ricerca
-V008,13086,42_incontro di gruppo
-V008,210,43_partenza/sparizione
-V008,252,44_smarrimento
-V008,1966,45_incontro femminile
-V008,533,46_rivelazione
-V008,132,47_partenza/sparizione
-V008,131,48_partenza/sparizione
-V008,2573,49_rivelazione
-V008,2183,50_ricerca
-V008,1343,51_scontro
-V008,3509,52_incontro femminile
-V008,367,53_ricerca
-V008,574,54_ricerca
-V008,351,55_ricerca
-V008,489,56_incontro maschile
-V008,2225,57_incontro di gruppo
-V008,3155,58_cornice
-V009,564,1_viaggio
-V009,4620,2_riflessione
-V009,284,3_arrivo
-V009,5443,4_riflessione
-V009,4524,5_riflessione
-V009,621,6_inconto di gruppo
-V009,6509,7_riflessione
-V009,2031,8_incontro di gruppo
-V009,2131,9_riflessione
-V009,801,10_incontro maschile
-V009,1413,11_riflessione
-V009,1613,12_scontro
-V009,1640,13_riflessione
-V009,5637,14_scontro
-V009,8188,15_riflessione
-V009,890,16_compito/missione
-V009,1675,17_riflessione
-V009,4632,18_scontro
-V009,940,19_pausa/sospensione
-V009,6571,20_incontro maschile
-V009,20398,21_pausa
-V009,5807,22_incontro maschile
-V009,6859,23_scontro
-V009,1696,24_incontro maschile
-V009,3964,25_incontro femminile
-V009,2919,26_pausa
-V009,2432,27_incontro femminile
-V009,1262,28_riflessione
-V009,2498,29_incontro maschile
-V009,1027,30_riflessione
-V010,2880,1_viaggio
-V010,3523,2_incontro femminile
-V010,1435,3_riflessione
-V010,4418,4_decisione
-V010,575,5_incontro femminile
-V010,284,6_decisione
-V010,7035,7_incontro maschile
-V010,82,8_decisione
-V010,4967,9_incontro maschile
-V010,1188,10_viaggio
-V010,4789,11_incontro maschile
-V010,866,12_decisione
-V010,4075,13_incontro maschile
-V010,794,14_decisione
-V010,9120,15_incontro di gruppo
-V010,1013,16_decisione
-V010,988,17_decisione
-V010,4882,18_incontro maschile
-V010,6261,19_incontro maschile
-V010,16457,20_incontro maschile
-V010,9471,21_incontro di gruppo
-V010,4013,22_attesa
-V010,1068,23_incontro maschile
-V010,929,24_incontro maschile
-V010,4117,25_incontro femminile
-V010,2645,26_scontro
-V010,1525,27_scontro
-V010,6535,28_incontro maschile
-V010,697,29_rivelazione
-V010,968,30_decisione
-V010,7031,31_incontro maschile
-V010,1428,32_attesa
-V010,2915,33_incontro di gruppo
-V010,2785,34_incontro maschile
-V010,6975,35_scontro
-V010,1200,36_attesa
-V010,5155,37_scontro
-V010,1482,38_viaggio
-V010,1816,39_attesa
-V010,2637,40_incontro maschile
-V010,666,41_attesa
-V010,1451,42_scontro
-V010,5270,43_incontro femminile
-V010,3971,44_incontro di gruppo
-V010,385,45_incontro maschile
-V010,2013,46_incontro maschile
-V010,115,47_decisione
-V010,2069,48_incontro maschile
-V010,211,49_pentimento
-V011,6505,1_primavera
-V011,14003,2_estate
-V011,4278,3_autunno
-V011,8741,4_inverno
-V011,8053,5_primavera
-V011,7838,6_estate
-V011,7069,7_autunno
-V011,5431,8_inverno
-V011,7594,9_primavera
-V011,8752,10_estate
-V011,16872,11_autunno
-V011,13030,12_inverno
-V011,5787,13_primavera
-V011,10513,14_estate
-V011,12518,15_autunno
-V011,10606,16_inverno
-V011,12414,17_primavera
-V011,6089,18_estate
-V011,20899,19_autunno
-V011,15228,20_inverno
-V013,29710,1_terra
-V013,19444,2_spazio
-V013,19215,3_spazio
-V013,9472,4_spazio
-V013,18933,5_terra
-V013,11673,6_spazio
-V013,21379,7_terra
-V013,16942,8_spazio
-V013,32526,9_terra
-V013,20385,10_spazio
-V013,26646,11_spazio
-V013,27744,12_terra
-V014,16589,1_terra
-V014,21352,2_terra
-V014,15759,3_terra
-V014,21024,4_terra
-V014,27471,5_terra
-V014,18942,6_terra
-V014,9287,7_terra
-V014,27715,8_terra
-V014,26498,9_terra
-V014,14556,10_terra
-V014,22351,11_terra
-V016,5655,1_cornice
-V016,11155,2_storia
-V016,8423,3_storia
-V016,5076,4_storia
-V016,4142,5_storia
-V016,8674,6_storia
-V016,6818,7_storia
-V016,8198,8_storia
-V018,1584,1_Kublai Kan
-V018,731,2_città
-V018,765,3_città
-V018,1436,4_città
-V018,1647,5_città
-V018,1398,6_città
-V018,2397,7_città
-V018,1732,8_città
-V018,1590,9_città
-V018,1161,10_città
-V018,1268,11_città
-V018,3114,12_Kublai Kan
-V018,3881,13_Kublai Kan
-V018,1844,14_città
-V018,1499,15_città
-V018,1466,16_città
-V018,1480,17_città
-V018,1599,18_città
-V018,2736,19_Kublai Kan
-V018,2194,20_Kublai Kan
-V018,1587,21_città
-V018,2471,22_città
-V018,1971,23_città
-V018,1690,24_città
-V018,1786,25_città
-V018,1314,26_Kublai Kan
-V018,2300,27_Kublai Kan
-V018,1933,28_città
-V018,1192,29_città
-V018,1740,30_città
-V018,1034,31_città
-V018,1874,32_città
-V018,1172,33_Kublai Kan
-V018,2095,34_Kublai Kan
-V018,1010,35_città
-V018,1050,36_città
-V018,906,37_città
-V018,2613,38_città
-V018,2145,39_città
-V018,397,40_Kublai Kan
-V018,2815,41_Kublai Kan
-V018,2163,42_città
-V018,2043,43_città
-V018,1608,44_città
-V018,2544,45_città
-V018,2301,46_città
-V018,1966,47_Kublai Kan
-V018,1920,48_Kublai Kan
-V018,1068,49_città
-V018,3697,50_città
-V018,2631,51_città
-V018,2941,52_città
-V018,3485,53_città
-V018,1271,54_Kublai Kan
-V018,3856,55_Kublai Kan
-V018,1826,56_città
-V018,763,57_città
-V018,1222,58_città
-V018,1052,59_città
-V018,1708,60_città
-V018,1692,61_Kublai Kan
-V018,1610,62_Kublai Kan
-V018,2549,63_Kublai Kan
-V018,2228,64_Kublai Kan
-V018,4205,65_città
-V018,1530,66_città
-V018,2631,67_città
-V018,1837,68_città
-V018,2386,69_città
-V018,2302,70_città
-V018,2470,71_città
-V018,2772,72_città
-V018,2262,73_città
-V018,3178,74_città
-V018,1945,75_Kublai Kan
-V019,3231,1_cornice
-V019,5655,2_cornice
-V019,14131,3_storia
-V019,11155,4_storia
-V019,8423,5_storia
-V019,7653,6_storia
-V019,10854,7_storia
-V019,5076,8_storia
-V019,4142,9_storia
-V019,8674,10_storia
-V019,15626,11_storia
-V019,6818,12_storia
-V019,8198,13_storia
-V019,12657,14_storia
-V019,20943,15_storia
-V019,12504,16_storia
-V021,26102,1_incipit
-V021,5179,2_incontro femminile
-V021,13648,3_incipit
-V021,2304,4_incontro femminile
-V021,2076,5_incontro femminile
-V021,2946,6_incontro maschile
-V021,45030,7_incontro maschile
-V021,27985,8_incontro di gruppo
-V021,3891,9_incontro femminile
-V021,13597,10_incipit
-V021,10811,11_incontro femminile
-V021,8322,12_incontro maschile
-V021,28544,13_incontro femminile
-V021,53561,14_diario di Silas Flannery
-V021,21550,15_incipit
-V021,8323,16_incontro femminile
-V021,6485,17_incontro femminile
-V021,15064,18_incontro maschile
-V021,1047,19_incontro maschile
-V021,15434,20_incipit
-V021,10821,21_incontro di gruppo
-V021,347,22_incontro femminile
+volume,tipo,caratteri
+V005,1_scontro,682
+V005,2_flashback,18159
+V005,3_partenza/sparizione,3297
+V005,4_viaggio,5988
+V005,5_incontro femminile,23428
+V005,6_incontro di gruppo,19359
+V005,7_pausa,5977
+V005,8_incontro di gruppo,6200
+V005,9_partenza/separazione,98
+V005,10_incontro femminile,16383
+V005,11_partenza/separazione,2721
+V005,12_pausa,37423
+V005,13_incontro animale,8192
+V005,14_pausa,3907
+V005,15_incontro maschile,76905
+V005,16_partenza/separazione,1966
+V005,17_metanarrazione,1734
+V005,18_partenza/separazione,2680
+V005,19_angoscia,7268
+V005,20_incontro di gruppo,20402
+V005,21_partenza/separazione,2705
+V005,22_pausa,12467
+V005,23_partenza/separazione,3350
+V005,24_angoscia,1635
+V005,25_partenza/sparizione,7390
+V005,26_incontro femminile,35287
+V005,27_incontro maschile,12081
+V005,28_partenza/separazione,657
+V005,29_partenza/separazione,2414
+V005,30_angoscia,2257
+V005,31_smarrimento,6129
+V005,32_scontro,5860
+V005,33_scontro,6174
+V005,34_incontro di gruppo,5221
+V005,35_partenza/separazione,1317
+V005,36_incontro di gruppo,10146
+V005,37_partenza/separazione,1743
+V005,38_racconto incastonato,12318
+V005,39_incontro maschile,2859
+V005,40_angoscia,2055
+V005,41_incontro maschile,2451
+V005,42_partenza/separazione,585
+V005,43_incontro maschile,4693
+V005,44_incontro maschile,1302
+V005,45_incontro maschile,1058
+V005,46_partenza/separazione,398
+V005,47_partenza/separazione,825
+V005,48_angoscia,3570
+V005,49_partenza/separazione,3271
+V005,50_epilogo,1645
+V007,1_angoscia,4748
+V007,2_rasserenamento,3066
+V007,3_rivelazione,5252
+V007,4_angoscia,530
+V007,5_angoscia,1517
+V007,6_rasserenamento,978
+V007,7_angoscia,2576
+V007,8_incontro di gruppo,5243
+V007,9_rasserenamento,808
+V007,10_angoscia,1477
+V007,11_incontro di gruppo,8927
+V007,12_rasserenamento,272
+V007,13_angoscia,1391
+V007,14_angoscia,3232
+V007,15_rasserenamento,1403
+V007,16_angoscia,332
+V007,17_incontro di gruppo,2092
+V007,18_incontro di gruppo,1444
+V007,19_incontro di gruppo,3750
+V007,20_incontro maschile,2314
+V007,21_angoscia,2761
+V007,22_incontro femminile,6648
+V007,23_angoscia,985
+V007,24_incontro di gruppo,3021
+V007,25_incontro maschile,3733
+V007,26_angoscia,1026
+V007,27_rasserenamento,563
+V007,28_angoscia,1026
+V007,29_rasserenamento,687
+V008,1_incontro di gruppo,5013
+V008,2_smarrimento,9397
+V008,3_smarrimento,4100
+V008,4_smarrimento,1499
+V008,5_smarrimento,2184
+V008,6_incontro maschile,11339
+V008,7_cornice,2652
+V008,8_smarrimento,1316
+V008,9_scontro,4497
+V008,10_smarrimento,1636
+V008,11_scontro,2294
+V008,12_cornice,1855
+V008,13_compito/missione,5546
+V008,14_compito/missione,5748
+V008,15_compito/missione,2022
+V008,16_cornice,954
+V008,17_incontro femminile,2155
+V008,18_incontro maschile,3971
+V008,19_cornice,1984
+V008,20_incontro di gruppo,17795
+V008,21_partenza/sparizione,1032
+V008,22_partenza/sparizione,1140
+V008,23_partenza/sparizione,917
+V008,24_partenza/sparizione,462
+V008,25_cornice,1077
+V008,26_viaggio,3953
+V008,27_incontro femminile,742
+V008,28_incontro maschile,1585
+V008,29_scontro,480
+V008,30_incontro femminile,3798
+V008,31_smarrimento,2225
+V008,32_incontro femminile,7563
+V008,33_partenza/sparizione,449
+V008,34_cornice,4343
+V008,35_viaggio,1797
+V008,36_viaggio,1117
+V008,37_incontro di gruppo,2181
+V008,38_incontro femminile,1393
+V008,39_partenza/sparizione,572
+V008,40_viaggio,620
+V008,41_ricerca,1260
+V008,42_incontro di gruppo,13086
+V008,43_partenza/sparizione,210
+V008,44_smarrimento,252
+V008,45_incontro femminile,1966
+V008,46_rivelazione,533
+V008,47_partenza/sparizione,132
+V008,48_partenza/sparizione,131
+V008,49_rivelazione,2573
+V008,50_ricerca,2183
+V008,51_scontro,1343
+V008,52_incontro femminile,3509
+V008,53_ricerca,367
+V008,54_ricerca,574
+V008,55_ricerca,351
+V008,56_incontro maschile,489
+V008,57_incontro di gruppo,2225
+V008,58_cornice,3155
+V009,1_viaggio,564
+V009,2_riflessione,4620
+V009,3_arrivo,284
+V009,4_riflessione,5443
+V009,5_riflessione,4524
+V009,6_inconto di gruppo,621
+V009,7_riflessione,6509
+V009,8_incontro di gruppo,2031
+V009,9_riflessione,2131
+V009,10_incontro maschile,801
+V009,11_riflessione,1413
+V009,12_scontro,1613
+V009,13_riflessione,1640
+V009,14_scontro,5637
+V009,15_riflessione,8188
+V009,16_compito/missione,890
+V009,17_riflessione,1675
+V009,18_scontro,4632
+V009,19_pausa/sospensione,940
+V009,20_incontro maschile,6571
+V009,21_pausa,20398
+V009,22_incontro maschile,5807
+V009,23_scontro,6859
+V009,24_incontro maschile,1696
+V009,25_incontro femminile,3964
+V009,26_pausa,2919
+V009,27_incontro femminile,2432
+V009,28_riflessione,1262
+V009,29_incontro maschile,2498
+V009,30_riflessione,1027
+V010,1_viaggio,2880
+V010,2_incontro femminile,3523
+V010,3_riflessione,1435
+V010,4_decisione,4418
+V010,5_incontro femminile,575
+V010,6_decisione,284
+V010,7_incontro maschile,7035
+V010,8_decisione,82
+V010,9_incontro maschile,4967
+V010,10_viaggio,1188
+V010,11_incontro maschile,4789
+V010,12_decisione,866
+V010,13_incontro maschile,4075
+V010,14_decisione,794
+V010,15_incontro di gruppo,9120
+V010,16_decisione,1013
+V010,17_decisione,988
+V010,18_incontro maschile,4882
+V010,19_incontro maschile,6261
+V010,20_incontro maschile,16457
+V010,21_incontro di gruppo,9471
+V010,22_attesa,4013
+V010,23_incontro maschile,1068
+V010,24_incontro maschile,929
+V010,25_incontro femminile,4117
+V010,26_scontro,2645
+V010,27_scontro,1525
+V010,28_incontro maschile,6535
+V010,29_rivelazione,697
+V010,30_decisione,968
+V010,31_incontro maschile,7031
+V010,32_attesa,1428
+V010,33_incontro di gruppo,2915
+V010,34_incontro maschile,2785
+V010,35_scontro,6975
+V010,36_attesa,1200
+V010,37_scontro,5155
+V010,38_viaggio,1482
+V010,39_attesa,1816
+V010,40_incontro maschile,2637
+V010,41_attesa,666
+V010,42_scontro,1451
+V010,43_incontro femminile,5270
+V010,44_incontro di gruppo,3971
+V010,45_incontro maschile,385
+V010,46_incontro maschile,2013
+V010,47_decisione,115
+V010,48_incontro maschile,2069
+V010,49_pentimento,211
+V011,1_primavera,6505
+V011,2_estate,14003
+V011,3_autunno,4278
+V011,4_inverno,8741
+V011,5_primavera,8053
+V011,6_estate,7838
+V011,7_autunno,7069
+V011,8_inverno,5431
+V011,9_primavera,7594
+V011,10_estate,8752
+V011,11_autunno,16872
+V011,12_inverno,13030
+V011,13_primavera,5787
+V011,14_estate,10513
+V011,15_autunno,12518
+V011,16_inverno,10606
+V011,17_primavera,12414
+V011,18_estate,6089
+V011,19_autunno,20899
+V011,20_inverno,15228
+V013,1_terra,29710
+V013,2_spazio,19444
+V013,3_spazio,19215
+V013,4_spazio,9472
+V013,5_terra,18933
+V013,6_spazio,11673
+V013,7_terra,21379
+V013,8_spazio,16942
+V013,9_terra,32526
+V013,10_spazio,20385
+V013,11_spazio,26646
+V013,12_terra,27744
+V014,1_terra,16589
+V014,2_terra,21352
+V014,3_terra,15759
+V014,4_terra,21024
+V014,5_terra,27471
+V014,6_terra,18942
+V014,7_terra,9287
+V014,8_terra,27715
+V014,9_terra,26498
+V014,10_terra,14556
+V014,11_terra,22351
+V016,1_cornice,5655
+V016,2_storia,11155
+V016,3_storia,8423
+V016,4_storia,5076
+V016,5_storia,4142
+V016,6_storia,8674
+V016,7_storia,6818
+V016,8_storia,8198
+V018,1_Kublai Kan,1584
+V018,2_città,731
+V018,3_città,765
+V018,4_città,1436
+V018,5_città,1647
+V018,6_città,1398
+V018,7_città,2397
+V018,8_città,1732
+V018,9_città,1590
+V018,10_città,1161
+V018,11_città,1268
+V018,12_Kublai Kan,3114
+V018,13_Kublai Kan,3881
+V018,14_città,1844
+V018,15_città,1499
+V018,16_città,1466
+V018,17_città,1480
+V018,18_città,1599
+V018,19_Kublai Kan,2736
+V018,20_Kublai Kan,2194
+V018,21_città,1587
+V018,22_città,2471
+V018,23_città,1971
+V018,24_città,1690
+V018,25_città,1786
+V018,26_Kublai Kan,1314
+V018,27_Kublai Kan,2300
+V018,28_città,1933
+V018,29_città,1192
+V018,30_città,1740
+V018,31_città,1034
+V018,32_città,1874
+V018,33_Kublai Kan,1172
+V018,34_Kublai Kan,2095
+V018,35_città,1010
+V018,36_città,1050
+V018,37_città,906
+V018,38_città,2613
+V018,39_città,2145
+V018,40_Kublai Kan,397
+V018,41_Kublai Kan,2815
+V018,42_città,2163
+V018,43_città,2043
+V018,44_città,1608
+V018,45_città,2544
+V018,46_città,2301
+V018,47_Kublai Kan,1966
+V018,48_Kublai Kan,1920
+V018,49_città,1068
+V018,50_città,3697
+V018,51_città,2631
+V018,52_città,2941
+V018,53_città,3485
+V018,54_Kublai Kan,1271
+V018,55_Kublai Kan,3856
+V018,56_città,1826
+V018,57_città,763
+V018,58_città,1222
+V018,59_città,1052
+V018,60_città,1708
+V018,61_Kublai Kan,1692
+V018,62_Kublai Kan,1610
+V018,63_Kublai Kan,2549
+V018,64_Kublai Kan,2228
+V018,65_città,4205
+V018,66_città,1530
+V018,67_città,2631
+V018,68_città,1837
+V018,69_città,2386
+V018,70_città,2302
+V018,71_città,2470
+V018,72_città,2772
+V018,73_città,2262
+V018,74_città,3178
+V018,75_Kublai Kan,1945
+V019,1_cornice,3231
+V019,2_cornice,5655
+V019,3_storia,14131
+V019,4_storia,11155
+V019,5_storia,8423
+V019,6_storia,7653
+V019,7_storia,10854
+V019,8_storia,5076
+V019,9_storia,4142
+V019,10_storia,8674
+V019,11_storia,15626
+V019,12_storia,6818
+V019,13_storia,8198
+V019,14_storia,12657
+V019,15_storia,20943
+V019,16_storia,12504
+V021,1_incipit,26102
+V021,2_incontro femminile,5179
+V021,3_incipit,13648
+V021,4_incontro femminile,2304
+V021,5_incontro femminile,2076
+V021,6_incontro maschile,2946
+V021,7_incontro maschile,45030
+V021,8_incontro di gruppo,27985
+V021,9_incontro femminile,3891
+V021,10_incipit,13597
+V021,11_incontro femminile,10811
+V021,12_incontro maschile,8322
+V021,13_incontro femminile,28544
+V021,14_diario di Silas Flannery,53561
+V021,15_incipit,21550
+V021,16_incontro femminile,8323
+V021,17_incontro femminile,6485
+V021,18_incontro maschile,15064
+V021,19_incontro maschile,1047
+V021,20_incipit,15434
+V021,21_incontro di gruppo,10821
+V021,22_incontro femminile,347
