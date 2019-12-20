@@ -1,0 +1,565 @@
+,ID,Cluster tipolegie,somma ripetizioni,
+1,V001,,,1_
+2,V001,interazione,3199,2_interazione
+3,V001,interazione,688,3_interazione
+4,V001,interazione,1162,4_interazione
+5,V001,angoscia/delusione,2879,5_angoscia/delusione
+6,V001,interazione,1529,6_interazione
+7,V001,spostamento,113,7_spostamento
+8,V001,angoscia/delusione,2208,8_angoscia/delusione
+9,V001,interazione,4563,9_interazione
+10,V001,spostamento,671,10_spostamento
+11,V001,angoscia/delusione,136,11_angoscia/delusione
+12,V001,interazione,1137,12_interazione
+13,V001,smarrimento/dubbio,1048,13_smarrimento/dubbio
+14,V001,intenzione,773,14_intenzione
+15,V001,angoscia/delusione,2080,15_angoscia/delusione
+16,V001,intenzione,1549,16_intenzione
+17,V001,spostamento,232,17_spostamento
+18,V001,smarrimento/dubbio,3010,18_smarrimento/dubbio
+19,V001,smarrimento/dubbio,10789,19_smarrimento/dubbio
+20,V001,intenzione,928,20_intenzione
+21,V001,interazione,3792,21_interazione
+22,V001,spostamento,81,22_spostamento
+23,V001,intenzione,1042,23_intenzione
+24,V001,spostamento,877,24_spostamento
+25,V001,illusione/speranza,482,25_illusione/speranza
+26,V001,interazione,965,26_interazione
+27,V001,smarrimento/dubbio,1188,27_smarrimento/dubbio
+28,V001,pausa/sospensione,203,28_pausa/sospensione
+29,V001,morte,0,29_morte
+30,V001,spostamento,909,30_spostamento
+31,V001,interazione,1224,31_interazione
+32,V001,angoscia/delusione,935,32_angoscia/delusione
+33,V001,racconto incastonato,2275,33_racconto incastonato
+34,V001,interazione,1462,34_interazione
+35,V001,smarrimento/dubbio,451,35_smarrimento/dubbio
+36,V001,intenzione,717,36_intenzione
+37,V001,angoscia/delusione,1587,37_angoscia/delusione
+38,V001,interazione,1519,38_interazione
+39,V001,smarrimento/dubbio,1219,39_smarrimento/dubbio
+40,V001,interazione,8661,40_interazione
+41,V001,spostamento,738,41_spostamento
+42,V001,interazione,5226,42_interazione
+43,V001,spostamento,333,43_spostamento
+44,V001,interazione,13350,44_interazione
+45,V001,spostamento,792,45_spostamento
+46,V001,attesa,1959,46_attesa
+47,V001,spostamento,2210,47_spostamento
+48,V001,illusione/speranza,661,48_illusione/speranza
+49,V001,angoscia/delusione,479,49_angoscia/delusione
+50,V001,interazione,12557,50_interazione
+51,V001,spostamento,353,51_spostamento
+52,V001,interazione,2671,52_interazione
+53,V001,illusione/speranza,1922,53_illusione/speranza
+54,V001,interazione,1664,54_interazione
+55,V001,interazione,93097,55_interazione
+56,V001,pausa/sospensione,13078,56_pausa/sospensione
+57,V001,situazione,1982,57_situazione
+58,V001,interazione,21330,58_interazione
+59,V001,spostamento,1096,59_spostamento
+60,V001,angoscia/delusione,772,60_angoscia/delusione
+61,V001,illusione/speranza,1245,61_illusione/speranza
+62,V001,angoscia/delusione,708,62_angoscia/delusione
+63,V001,interazione,313,63_interazione
+64,V001,spostamento,226,64_spostamento
+65,V001,interazione,405,65_interazione
+66,V001,spostamento,423,66_spostamento
+67,V001,illusione/speranza,503,67_illusione/speranza
+68,V001,rivelazione,674,68_rivelazione
+69,V001,angoscia/delusione,563,69_angoscia/delusione
+70,V001,interazione,1904,70_interazione
+71,V001,rivelazione,830,71_rivelazione
+72,V001,spostamento,149,72_spostamento
+73,V001,smarrimento/dubbio,433,73_smarrimento/dubbio
+74,V001,interazione,5563,74_interazione
+75,V002,,,75_
+76,V002,struttura,16624,76_struttura
+77,V002,struttura,9906,77_struttura
+78,V002,struttura,8487,78_struttura
+79,V002,struttura,13871,79_struttura
+80,V002,struttura,8291,80_struttura
+81,V002,struttura,9042,81_struttura
+82,V002,struttura,10063,82_struttura
+83,V002,struttura,9860,83_struttura
+84,V002,struttura,14313,84_struttura
+85,V002,struttura,9240,85_struttura
+86,V002,struttura,7418,86_struttura
+87,V002,struttura,12987,87_struttura
+88,V002,struttura,15582,88_struttura
+89,V002,struttura,19473,89_struttura
+90,V002,struttura,13175,90_struttura
+91,V002,struttura,11391,91_struttura
+92,V002,struttura,10457,92_struttura
+93,V002,struttura,10809,93_struttura
+94,V002,struttura,14887,94_struttura
+95,V002,struttura,15495,95_struttura
+96,V002,struttura,9702,96_struttura
+97,V002,struttura,8658,97_struttura
+98,V002,struttura,14106,98_struttura
+99,V002,struttura,21698,99_struttura
+100,V002,struttura,19767,100_struttura
+101,V002,struttura,12910,101_struttura
+102,V002,struttura,14101,102_struttura
+103,V002,struttura,15971,103_struttura
+104,V002,struttura,12933,104_struttura
+105,V002,struttura,10472,105_struttura
+106,V003,,,106_
+107,V003,angoscia/delusione,8658,107_angoscia/delusione
+108,V003,situazione,6822,108_situazione
+109,V003,spostamento,5643,109_spostamento
+110,V003,interazione,664,110_interazione
+111,V003,interazione,1761,111_interazione
+112,V003,spostamento,2689,112_spostamento
+113,V003,interazione,1052,113_interazione
+114,V003,interazione,1664,114_interazione
+115,V003,interazione,1127,115_interazione
+116,V003,interazione,3855,116_interazione
+117,V003,interazione,2127,117_interazione
+118,V003,interazione,4751,118_interazione
+119,V003,interazione,4350,119_interazione
+120,V003,interazione,2352,120_interazione
+121,V003,interazione,2659,121_interazione
+122,V003,interazione,14264,122_interazione
+123,V003,interazione,2069,123_interazione
+124,V003,interazione,10828,124_interazione
+125,V003,smarrimento/dubbio,1171,125_smarrimento/dubbio
+126,V003,interazione,4046,126_interazione
+127,V003,interazione,1974,127_interazione
+128,V003,interazione,3563,128_interazione
+129,V003,interazione,1493,129_interazione
+130,V003,interazione,970,130_interazione
+131,V003,mistero/assurdità,2970,131_mistero/assurdità
+132,V003,interazione,5856,132_interazione
+133,V003,interazione,2186,133_interazione
+134,V003,interazione,680,134_interazione
+135,V003,interazione,3247,135_interazione
+136,V003,interazione,7057,136_interazione
+137,V003,interazione,2251,137_interazione
+138,V003,interazione,2926,138_interazione
+139,V003,interazione,1690,139_interazione
+140,V003,angoscia/delusione,2354,140_angoscia/delusione
+141,V003,intenzione,7648,141_intenzione
+142,V003,interazione,4748,142_interazione
+143,V003,metanarrazione,2448,143_metanarrazione
+144,V004,,,144_
+145,V004,struttura,51187,145_struttura
+146,V004,struttura,27190,146_struttura
+147,V004,struttura,39484,147_struttura
+148,V005,,,148_
+149,V005,interazione,682,149_interazione
+150,V005,racconto incastonato,18159,150_racconto incastonato
+151,V005,spostamento,3297,151_spostamento
+152,V005,spostamento,5988,152_spostamento
+153,V005,interazione,23428,153_interazione
+154,V005,interazione,19359,154_interazione
+155,V005,pausa/sospensione,5977,155_pausa/sospensione
+156,V005,interazione,6200,156_interazione
+157,V005,spostamento,98,157_spostamento
+158,V005,interazione,16383,158_interazione
+159,V005,spostamento,2721,159_spostamento
+160,V005,pausa/sospensione,37423,160_pausa/sospensione
+161,V005,interazione,8192,161_interazione
+162,V005,pausa/sospensione,3907,162_pausa/sospensione
+163,V005,interazione,76905,163_interazione
+164,V005,interazione,21258,164_interazione
+165,V005,spostamento,2308,165_spostamento
+166,V005,interazione,5116,166_interazione
+167,V005,spostamento,3301,167_spostamento
+168,V005,interazione,13727,168_interazione
+169,V005,interazione,16064,169_interazione
+170,V005,spostamento,1966,170_spostamento
+171,V005,spostamento,2680,171_spostamento
+172,V005,angoscia/delusione,7268,172_angoscia/delusione
+173,V005,interazione,10079,173_interazione
+174,V005,spostamento,2705,174_spostamento
+175,V005,pausa/sospensione,12467,175_pausa/sospensione
+176,V005,spostamento,3350,176_spostamento
+177,V005,angoscia/delusione,1635,177_angoscia/delusione
+178,V005,spostamento,7390,178_spostamento
+179,V005,interazione,35287,179_interazione
+180,V005,interazione,12081,180_interazione
+181,V005,spostamento,657,181_spostamento
+182,V005,spostamento,2414,182_spostamento
+183,V005,angoscia/delusione,2257,183_angoscia/delusione
+184,V005,smarrimento/dubbio,6129,184_smarrimento/dubbio
+185,V005,interazione,5860,185_interazione
+186,V005,interazione,1654,186_interazione
+187,V005,interazione,5772,187_interazione
+188,V005,spostamento,1317,188_spostamento
+189,V005,interazione,10146,189_interazione
+190,V005,spostamento,1743,190_spostamento
+191,V005,racconto incastonato,12318,191_racconto incastonato
+192,V005,interazione,2859,192_interazione
+193,V005,angoscia/delusione,2055,193_angoscia/delusione
+194,V005,interazione,0,194_interazione
+195,V005,spostamento,3036,195_spostamento
+196,V005,interazione,4693,196_interazione
+197,V005,interazione,1302,197_interazione
+198,V005,interazione,1058,198_interazione
+199,V005,spostamento,398,199_spostamento
+200,V005,spostamento,825,200_spostamento
+201,V005,angoscia/delusione,3570,201_angoscia/delusione
+202,V005,spostamento,3271,202_spostamento
+203,V005,metanarrazione,1645,203_metanarrazione
+204,V006,,,204_
+205,V006,struttura,413374,205_struttura
+206,V006,struttura,170394,206_struttura
+207,V006,struttura,159597,207_struttura
+208,V006,struttura,341674,208_struttura
+209,V007,,,209_
+210,V007,illusione/speranza,2217,210_illusione/speranza
+211,V007,angoscia/delusione,2530,211_angoscia/delusione
+212,V007,illusione/speranza,1279,212_illusione/speranza
+213,V007,interazione,1562,213_interazione
+214,V007,spostamento,224,214_spostamento
+215,V007,rivelazione,1608,215_rivelazione
+216,V007,angoscia/delusione,4811,216_angoscia/delusione
+217,V007,intenzione,541,217_intenzione
+218,V007,angoscia/delusione,338,218_angoscia/delusione
+219,V007,illusione/speranza,783,219_illusione/speranza
+220,V007,angoscia/delusione,2771,220_angoscia/delusione
+221,V007,interazione,4466,221_interazione
+222,V007,illusione/speranza,2013,222_illusione/speranza
+223,V007,angoscia/delusione,935,223_angoscia/delusione
+224,V007,interazione,559,224_interazione
+225,V007,illusione/speranza,272,225_illusione/speranza
+226,V007,intenzione,590,226_intenzione
+227,V007,angoscia/delusione,2372,227_angoscia/delusione
+228,V007,smarrimento/dubbio,644,228_smarrimento/dubbio
+229,V007,angoscia/delusione,1015,229_angoscia/delusione
+230,V007,visione,1403,230_visione
+231,V007,angoscia/delusione,1012,231_angoscia/delusione
+232,V007,interazione,1412,232_interazione
+233,V007,interazione,1444,233_interazione
+234,V007,interazione,2878,234_interazione
+235,V007,angoscia/delusione,871,235_angoscia/delusione
+236,V007,interazione,626,236_interazione
+237,V007,spostamento,666,237_spostamento
+238,V007,intenzione,518,238_intenzione
+239,V007,angoscia/delusione,1177,239_angoscia/delusione
+240,V007,interazione,4657,240_interazione
+241,V007,spostamento,293,241_spostamento
+242,V007,angoscia/delusione,2232,242_angoscia/delusione
+243,V007,intenzione,475,243_intenzione
+244,V007,spostamento,1298,244_spostamento
+245,V007,interazione,1284,245_interazione
+246,V007,angoscia/delusione,949,246_angoscia/delusione
+247,V007,spostamento,1105,247_spostamento
+248,V007,angoscia/delusione,984,248_angoscia/delusione
+249,V007,illusione/speranza,2713,249_illusione/speranza
+250,V008,,,250_
+251,V008,interazione,5013,251_interazione
+252,V008,smarrimento/dubbio,9397,252_smarrimento/dubbio
+253,V008,smarrimento/dubbio,4100,253_smarrimento/dubbio
+254,V008,smarrimento/dubbio,1499,254_smarrimento/dubbio
+255,V008,smarrimento/dubbio,2184,255_smarrimento/dubbio
+256,V008,interazione,11339,256_interazione
+257,V008,cornice,2652,257_cornice
+258,V008,smarrimento/dubbio,1316,258_smarrimento/dubbio
+259,V008,interazione,4497,259_interazione
+260,V008,smarrimento/dubbio,1636,260_smarrimento/dubbio
+261,V008,interazione,2294,261_interazione
+262,V008,interazione,-59866,262_interazione
+263,V008,cornice,1855,263_cornice
+264,V008,interazione,5546,264_interazione
+265,V008,interazione,5748,265_interazione
+266,V008,interazione,2022,266_interazione
+267,V008,cornice,954,267_cornice
+268,V008,interazione,2155,268_interazione
+269,V008,interazione,3971,269_interazione
+270,V008,cornice,1984,270_cornice
+271,V008,interazione,17795,271_interazione
+272,V008,spostamento,1032,272_spostamento
+273,V008,spostamento,1140,273_spostamento
+274,V008,spostamento,917,274_spostamento
+275,V008,spostamento,462,275_spostamento
+276,V008,cornice,1077,276_cornice
+277,V008,spostamento,3953,277_spostamento
+278,V008,interazione,742,278_interazione
+279,V008,interazione,1585,279_interazione
+280,V008,interazione,480,280_interazione
+281,V008,interazione,3798,281_interazione
+282,V008,smarrimento/dubbio,2225,282_smarrimento/dubbio
+283,V008,interazione,7563,283_interazione
+284,V008,spostamento,449,284_spostamento
+285,V008,cornice,4343,285_cornice
+286,V008,spostamento,1797,286_spostamento
+287,V008,spostamento,1117,287_spostamento
+288,V008,interazione,2181,288_interazione
+289,V008,interazione,1393,289_interazione
+290,V008,spostamento,572,290_spostamento
+291,V008,spostamento,620,291_spostamento
+292,V008,spostamento,1260,292_spostamento
+293,V008,interazione,13086,293_interazione
+294,V008,spostamento,210,294_spostamento
+295,V008,smarrimento/dubbio,252,295_smarrimento/dubbio
+296,V008,interazione,1966,296_interazione
+297,V008,rivelazione,533,297_rivelazione
+298,V008,spostamento,132,298_spostamento
+299,V008,spostamento,131,299_spostamento
+300,V008,rivelazione,2573,300_rivelazione
+301,V008,spostamento,2183,301_spostamento
+302,V008,interazione,1343,302_interazione
+303,V008,interazione,3509,303_interazione
+304,V008,spostamento,367,304_spostamento
+305,V008,spostamento,574,305_spostamento
+306,V008,spostamento,351,306_spostamento
+307,V008,interazione,489,307_interazione
+308,V008,interazione,2225,308_interazione
+309,V008,cornice,3155,309_cornice
+310,V009,,,310_
+311,V009,spostamento,564,311_spostamento
+312,V009,riflessione,4620,312_riflessione
+313,V009,spostamento,284,313_spostamento
+314,V009,riflessione,5443,314_riflessione
+315,V009,riflessione,4524,315_riflessione
+316,V009,interazione,621,316_interazione
+317,V009,riflessione,6509,317_riflessione
+318,V009,interazione,2031,318_interazione
+319,V009,riflessione,2131,319_riflessione
+320,V009,interazione,801,320_interazione
+321,V009,riflessione,1413,321_riflessione
+322,V009,interazione,1613,322_interazione
+323,V009,riflessione,1640,323_riflessione
+324,V009,interazione,5637,324_interazione
+325,V009,riflessione,8188,325_riflessione
+326,V009,interazione,890,326_interazione
+327,V009,riflessione,1675,327_riflessione
+328,V009,interazione,4632,328_interazione
+329,V009,pausa/sospensione,940,329_pausa/sospensione
+330,V009,interazione,6571,330_interazione
+331,V009,pausa/sospensione,20398,331_pausa/sospensione
+332,V009,interazione,5807,332_interazione
+333,V009,interazione,6859,333_interazione
+334,V009,interazione,1696,334_interazione
+335,V009,interazione,3964,335_interazione
+336,V009,pausa/sospensione,2919,336_pausa/sospensione
+337,V009,interazione,2432,337_interazione
+338,V009,riflessione,1262,338_riflessione
+339,V009,interazione,2498,339_interazione
+340,V009,riflessione,1027,340_riflessione
+341,V010,,,341_
+342,V010,spostamento,2880,342_spostamento
+343,V010,interazione,3523,343_interazione
+344,V010,riflessione,1435,344_riflessione
+345,V010,intenzione,4418,345_intenzione
+346,V010,interazione,575,346_interazione
+347,V010,intenzione,284,347_intenzione
+348,V010,interazione,7035,348_interazione
+349,V010,intenzione,82,349_intenzione
+350,V010,interazione,4967,350_interazione
+351,V010,spostamento,1188,351_spostamento
+352,V010,interazione,4789,352_interazione
+353,V010,intenzione,866,353_intenzione
+354,V010,interazione,4075,354_interazione
+355,V010,intenzione,794,355_intenzione
+356,V010,interazione,9120,356_interazione
+357,V010,intenzione,1013,357_intenzione
+358,V010,intenzione,988,358_intenzione
+359,V010,interazione,4882,359_interazione
+360,V010,interazione,6261,360_interazione
+361,V010,interazione,16457,361_interazione
+362,V010,interazione,9471,362_interazione
+363,V010,attesa,4013,363_attesa
+364,V010,interazione,1068,364_interazione
+365,V010,interazione,929,365_interazione
+366,V010,interazione,4117,366_interazione
+367,V010,interazione,2645,367_interazione
+368,V010,interazione,1525,368_interazione
+369,V010,interazione,6535,369_interazione
+370,V010,rivelazione,697,370_rivelazione
+371,V010,intenzione,968,371_intenzione
+372,V010,interazione,7031,372_interazione
+373,V010,attesa,1428,373_attesa
+374,V010,interazione,2915,374_interazione
+375,V010,interazione,2785,375_interazione
+376,V010,interazione,6975,376_interazione
+377,V010,attesa,1200,377_attesa
+378,V010,interazione,5155,378_interazione
+379,V010,spostamento,1482,379_spostamento
+380,V010,attesa,1816,380_attesa
+381,V010,interazione,2637,381_interazione
+382,V010,attesa,666,382_attesa
+383,V010,interazione,1451,383_interazione
+384,V010,interazione,5270,384_interazione
+385,V010,interazione,3971,385_interazione
+386,V010,interazione,385,386_interazione
+387,V010,interazione,2013,387_interazione
+388,V010,intenzione,115,388_intenzione
+389,V010,interazione,2069,389_interazione
+390,V010,angoscia/delusione,211,390_angoscia/delusione
+391,V011,,,391_
+392,V011,struttura,6505,392_struttura
+393,V011,struttura,14003,393_struttura
+394,V011,struttura,103087,394_struttura
+395,V011,struttura,4278,395_struttura
+396,V011,struttura,8741,396_struttura
+397,V011,struttura,8053,397_struttura
+398,V011,struttura,7838,398_struttura
+399,V011,struttura,7069,399_struttura
+400,V011,struttura,5431,400_struttura
+401,V011,struttura,7594,401_struttura
+402,V011,struttura,8752,402_struttura
+403,V011,struttura,16872,403_struttura
+404,V011,struttura,13030,404_struttura
+405,V011,struttura,10513,405_struttura
+406,V011,struttura,12518,406_struttura
+407,V011,struttura,10606,407_struttura
+408,V011,struttura,12414,408_struttura
+409,V011,struttura,6089,409_struttura
+410,V011,struttura,20899,410_struttura
+411,V011,struttura,15228,411_struttura
+412,V012,,,412_
+413,V012,struttura,101372,413_struttura
+414,V012,struttura,71831,414_struttura
+415,V013,,,415_
+416,V013,struttura,29710,416_struttura
+417,V013,struttura,19444,417_struttura
+418,V013,struttura,19215,418_struttura
+419,V013,struttura,9472,419_struttura
+420,V013,struttura,18933,420_struttura
+421,V013,struttura,11673,421_struttura
+422,V013,struttura,21379,422_struttura
+423,V013,struttura,16942,423_struttura
+424,V013,struttura,32526,424_struttura
+425,V013,struttura,20385,425_struttura
+426,V013,struttura,26646,426_struttura
+427,V013,struttura,27744,427_struttura
+428,V014,,,428_
+429,V014,struttura,16589,429_struttura
+430,V014,struttura,21352,430_struttura
+431,V014,struttura,15759,431_struttura
+432,V014,struttura,21024,432_struttura
+433,V014,struttura,27471,433_struttura
+434,V014,struttura,18942,434_struttura
+435,V014,struttura,9287,435_struttura
+436,V014,struttura,27715,436_struttura
+437,V014,struttura,26498,437_struttura
+438,V014,struttura,14556,438_struttura
+439,V014,struttura,22351,439_struttura
+440,V015,,,440_
+441,V015,struttura,86718,441_struttura
+442,V015,struttura,66376,442_struttura
+443,V015,struttura,64455,443_struttura
+444,V015,struttura,83147,444_struttura
+445,V015,struttura,-300705,445_struttura
+446,V016,,,446_
+447,V016,cornice,5655,447_cornice
+448,V016,racconto incastonato,11155,448_racconto incastonato
+449,V016,racconto incastonato,8423,449_racconto incastonato
+450,V016,racconto incastonato,5076,450_racconto incastonato
+451,V016,racconto incastonato,4142,451_racconto incastonato
+452,V016,racconto incastonato,8674,452_racconto incastonato
+453,V016,racconto incastonato,6818,453_racconto incastonato
+454,V016,racconto incastonato,8198,454_racconto incastonato
+455,V017,,,455_
+456,V017,struttura,236791,456_struttura
+457,V017,struttura,173243,457_struttura
+458,V018,cornice,1584,458_cornice
+459,V018,racconto incastonato,731,459_racconto incastonato
+460,V018,racconto incastonato,765,460_racconto incastonato
+461,V018,racconto incastonato,1436,461_racconto incastonato
+462,V018,racconto incastonato,1647,462_racconto incastonato
+463,V018,racconto incastonato,1398,463_racconto incastonato
+464,V018,racconto incastonato,2397,464_racconto incastonato
+465,V018,racconto incastonato,1732,465_racconto incastonato
+466,V018,racconto incastonato,1590,466_racconto incastonato
+467,V018,racconto incastonato,1161,467_racconto incastonato
+468,V018,racconto incastonato,1268,468_racconto incastonato
+469,V018,cornice,3114,469_cornice
+470,V018,cornice,3881,470_cornice
+471,V018,racconto incastonato,1844,471_racconto incastonato
+472,V018,racconto incastonato,1499,472_racconto incastonato
+473,V018,racconto incastonato,1466,473_racconto incastonato
+474,V018,racconto incastonato,1480,474_racconto incastonato
+475,V018,racconto incastonato,1599,475_racconto incastonato
+476,V018,cornice,2736,476_cornice
+477,V018,cornice,2194,477_cornice
+478,V018,racconto incastonato,1587,478_racconto incastonato
+479,V018,racconto incastonato,2471,479_racconto incastonato
+480,V018,racconto incastonato,1971,480_racconto incastonato
+481,V018,racconto incastonato,1690,481_racconto incastonato
+482,V018,racconto incastonato,1786,482_racconto incastonato
+483,V018,cornice,1314,483_cornice
+484,V018,cornice,2300,484_cornice
+485,V018,racconto incastonato,1933,485_racconto incastonato
+486,V018,racconto incastonato,1192,486_racconto incastonato
+487,V018,racconto incastonato,1740,487_racconto incastonato
+488,V018,racconto incastonato,1034,488_racconto incastonato
+489,V018,racconto incastonato,1874,489_racconto incastonato
+490,V018,cornice,1172,490_cornice
+491,V018,cornice,2095,491_cornice
+492,V018,racconto incastonato,1010,492_racconto incastonato
+493,V018,racconto incastonato,1050,493_racconto incastonato
+494,V018,racconto incastonato,906,494_racconto incastonato
+495,V018,racconto incastonato,2613,495_racconto incastonato
+496,V018,racconto incastonato,2145,496_racconto incastonato
+497,V018,cornice,397,497_cornice
+498,V018,cornice,2815,498_cornice
+499,V018,racconto incastonato,2163,499_racconto incastonato
+500,V018,racconto incastonato,2043,500_racconto incastonato
+501,V018,racconto incastonato,1608,501_racconto incastonato
+502,V018,racconto incastonato,2544,502_racconto incastonato
+503,V018,racconto incastonato,2301,503_racconto incastonato
+504,V018,cornice,1966,504_cornice
+505,V018,cornice,1920,505_cornice
+506,V018,racconto incastonato,1068,506_racconto incastonato
+507,V018,racconto incastonato,3697,507_racconto incastonato
+508,V018,racconto incastonato,2631,508_racconto incastonato
+509,V018,racconto incastonato,2941,509_racconto incastonato
+510,V018,racconto incastonato,3485,510_racconto incastonato
+511,V018,cornice,1271,511_cornice
+512,V018,cornice,3856,512_cornice
+513,V018,cornice,1826,513_cornice
+514,V018,racconto incastonato,763,514_racconto incastonato
+515,V018,racconto incastonato,1222,515_racconto incastonato
+516,V018,racconto incastonato,1052,516_racconto incastonato
+517,V018,racconto incastonato,1708,517_racconto incastonato
+518,V018,cornice,1692,518_cornice
+519,V018,cornice,1610,519_cornice
+520,V018,cornice,2549,520_cornice
+521,V018,cornice,2228,521_cornice
+522,V018,racconto incastonato,4205,522_racconto incastonato
+523,V018,racconto incastonato,1530,523_racconto incastonato
+524,V018,racconto incastonato,2631,524_racconto incastonato
+525,V018,racconto incastonato,1837,525_racconto incastonato
+526,V018,racconto incastonato,2386,526_racconto incastonato
+527,V018,racconto incastonato,2302,527_racconto incastonato
+528,V018,racconto incastonato,2470,528_racconto incastonato
+529,V018,racconto incastonato,2772,529_racconto incastonato
+530,V018,racconto incastonato,2262,530_racconto incastonato
+531,V018,racconto incastonato,3178,531_racconto incastonato
+532,V018,cornice,1945,532_cornice
+533,V019,struttura,62830,533_struttura
+534,V019,struttura,98778,534_struttura
+535,V021,racconto incastonato,26102,535_racconto incastonato
+536,V021,interazione,5179,536_interazione
+537,V021,racconto incastonato,13648,537_racconto incastonato
+538,V021,interazione,2304,538_interazione
+539,V021,interazione,2076,539_interazione
+540,V021,interazione,2946,540_interazione
+541,V021,interazione,45030,541_interazione
+542,V021,interazione,27985,542_interazione
+543,V021,interazione,3891,543_interazione
+544,V021,interazione,-158356,544_interazione
+545,V021,racconto incastonato,13597,545_racconto incastonato
+546,V021,interazione,10811,546_interazione
+547,V021,interazione,8322,547_interazione
+548,V021,interazione,28544,548_interazione
+549,V021,racconto incastonato,53561,549_racconto incastonato
+550,V021,racconto incastonato,21550,550_racconto incastonato
+551,V021,interazione,8323,551_interazione
+552,V021,interazione,6485,552_interazione
+553,V021,interazione,15064,553_interazione
+554,V021,interazione,1047,554_interazione
+555,V021,racconto incastonato,15434,555_racconto incastonato
+556,V021,interazione,10821,556_interazione
+557,V021,interazione,347,557_interazione
+558,V022,struttura,65001,558_struttura
+559,V022,struttura,52483,559_struttura
+560,V022,struttura,47075,560_struttura
+561,V023,struttura,281176,561_struttura
+562,V023,struttura,129693,562_struttura
+563,V023,struttura,104541,563_struttura
+564,V023,struttura,91199,564_struttura
