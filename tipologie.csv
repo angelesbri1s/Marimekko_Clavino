@@ -1,17 +1,12 @@
 volume,tipo,caratteri
-V001,,
 V001,aggressione/scontro,3199
 V001,incontro maschile,688
 V001,aggressione/scontro,1162
 V001,angoscia/delusione,2879
 V001,incontro maschile,1529
-V001,aggressione/scontro,699
 V001,fuga,113
 V001,angoscia/delusione,2208
 V001,incontro di gruppo,4563
-V001,aggressione/scontro,2271
-V001,compito/missione,676
-V001,aggressione/scontro,1239
 V001,fuga,671
 V001,angoscia/delusione,136
 V001,incontro femminile,1137
@@ -21,15 +16,9 @@ V001,angoscia/delusione,2080
 V001,successo,1549
 V001,fuga,232
 V001,smarrimento/dubbio,3010
-V001,visione,328
-V001,visione,647
-V001,visione,798
 V001,smarrimento/dubbio,10789
 V001,iniziativa/piano,928
 V001,incontro di gruppo,3792
-V001,smarrimento/dubbio,1667
-V001,angoscia/delusione,958
-V001,aggressione/scontro,480
 V001,fuga,81
 V001,iniziativa/piano,1042
 V001,viaggio,877
@@ -41,147 +30,32 @@ V001,morte,0
 V001,ritorno,909
 V001,aggressione/scontro,1224
 V001,angoscia/delusione,935
-V001,aggressione/scontro,922
 V001,racconto incastonato,2275
-V001,angoscia/delusione,910
-V001,illusione/speranza,441
 V001,aggressione/scontro,1462
 V001,smarrimento/dubbio,451
 V001,iniziativa/piano,717
 V001,angoscia/delusione,1587
 V001,incontro maschile,1519
-V001,offerta,82
-V001,rifiuto,250
 V001,smarrimento/dubbio,1219
 V001,incontro maschile,8661
-V001,offerta,793
-V001,rivelazione,1397
-V001,aggressione/scontro,2747
-V001,iniziativa/piano,831
-V001,illusione/speranza,1095
 V001,partenza/sparizione,738
 V001,incontro maschile,5226
-V001,riflessione,996
-V001,angoscia/delusione,1977
-V001,iniziativa/piano,662
 V001,partenza/sparizione,333
-V001,compito/missione,1230
 V001,incontro maschile,13350
-V001,iniziativa/piano,1193
-V001,attesa,2144
-V001,aggressione/scontro,573
-V001,fuga,2436
-V001,attesa,1954
-V001,smarrimento/dubbio,1136
-V001,aggressione/scontro,593
-V001,smarrimento/dubbio,2083
 V001,partenza/sparizione,792
 V001,attesa,1959
-V001,visione,1428
 V001,viaggio,2210
 V001,illusione/speranza,661
 V001,angoscia/delusione,479
-V001,aiuto/salvataggio,3683
 V001,incontro maschile,12557
-V001,viaggio,1631
-V001,riflessione,1256
-V001,arrivo,822
-V001,incontro maschile,2632
-V001,incontro animale,1267
-V001,incontro femminile,1257
 V001,partenza/sparizione,353
 V001,aggressione/scontro,2671
 V001,illusione/speranza,1922
 V001,compito/missione,1664
 V001,incontro di gruppo,93097
-V001,visione,657
-V001,incontro maschile,2667
-V001,situazione,3045
-V001,incontro maschile,2673
-V001,smarrimento/dubbio,756
-V001,aggressione/scontro,2352
-V001,incontro maschile,3472
-V001,aggressione/scontro,2110
-V001,iniziativa/piano,453
-V001,aggressione/scontro,907
-V001,partenza/sparizione,446
-V001,incontro di gruppo,1829
-V001,incontro maschile,2854
-V001,pausa/sospensione,1219
-V001,smarrimento/dubbio,530
-V001,rivelazione,1647
-V001,morte,3120
-V001,aggressione/scontro,2742
-V001,innamoramento,3281
-V001,cambiamento,3939
-V001,fuga,388
-V001,compito/missione,1940
-V001,visione,703
-V001,partenza/sparizione,905
-V001,illusione/speranza,1647
-V001,angoscia/delusione,404
-V001,smarrimento/dubbio,1177
-V001,incontro maschile,2388
-V001,compito/missione,354
-V001,illusione/speranza,1103
-V001,smarrimento/dubbio,1158
-V001,incontro maschile,862
-V001,aggressione/scontro,5340
-V001,incontro maschile,3529
-V001,riflessione,1534
-V001,incontro maschile,2703
-V001,aggressione/scontro,1148
-V001,incontro di gruppo,8190
-V001,compito/missione,758
-V001,rivelazione,1100
-V001,angoscia/delusione,1245
-V001,iniziativa/piano,605
-V001,compito/missione,2010
-V001,partenza/sparizione,17506
-V001,viaggio,118
-V001,riflessione,9048
-V001,partenza/sparizione,193
-V001,riflessione,843
-V001,smarrimento/dubbio,3009
-V001,riflessione,2585
-V001,illusione/speranza,419
-V001,arrivo,1284
-V001,attesa,1214
-V001,aggressione/scontro,666
-V001,angoscia/delusione,1618
-V001,iniziativa/piano,1029
-V001,riflessione,707
-V001,aggressione/scontro,1600
-V001,morte,494
-V001,partenza/sparizione,130
 V001,pausa/sospensione,13078
-V001,incontro femminile,834
-V001,incontro maschile,837
-V001,innamoramento,1516
-V001,compito/missione,1544
-V001,ritorno,640
-V001,compito/missione,1294
-V001,ritorno,1440
-V001,compito/missione,1195
-V001,angoscia/delusione,1461
-V001,ritorno,1055
-V001,scena erotica,202
 V001,guerra,1982
-V001,attesa,1756
 V001,incontro di gruppo,21330
-V001,incontro maschile,1646
-V001,rivelazione,618
-V001,rivelazione,1145
-V001,rivelazione,1042
-V001,incontro maschile,4775
-V001,rivelazione,343
-V001,racconto incastonato,3086
-V001,angoscia/delusione,1059
-V001,illusione/speranza,284
-V001,iniziativa/piano,307
-V001,attesa,1129
-V001,angoscia/delusione,1596
-V001,aggressione/scontro,8333
 V001,fuga,1096
 V001,angoscia/delusione,772
 V001,illusione/speranza,1245
@@ -198,817 +72,119 @@ V001,rivelazione,830
 V001,fuga,149
 V001,smarrimento/dubbio,433
 V001,incontro maschile,5563
-V001,illusione/speranza,1403
-V001,iniziativa/piano,1456
-V001,riflessione,702
-V001,angoscia/delusione,840
-V001,illusione/speranza,356
-V002,,
 V002,struttura,16624
-V002,incontro maschile,3324
-V002,offerta,837
-V002,rifiuto,2271
-V002,offerta,2526
-V002,rifiuto,474
-V002,offerta,1178
-V002,rifiuto,323
-V002,offerta,1365
-V002,rifiuto,344
-V002,offerta,523
-V002,rifiuto,48
-V002,offerta,643
-V002,rifiuto,56
-V002,offerta,140
-V002,rifiuto,44
-V002,aggressione/scontro,1266
-V002,offerta,107
-V002,rifiuto,48
-V002,aggressione/scontro,997
 V002,struttura,9906
-V002,iniziativa/piano,3810
-V002,iniziativa/piano,1289
-V002,incontro femminile,3195
-V002,incontro di gruppo,540
-V002,aggressione/scontro,762
-V002,fuga,755
-V002,aggressione/scontro,805
-V002,fuga,230
-V002,iniziativa/piano,540
 V002,struttura,8487
-V002,iniziativa/piano,590
-V002,fuga,1605
-V002,iniziativa/piano,1434
-V002,iniziativa/piano,548
-V002,iniziativa/piano,1171
-V002,iniziativa/piano,697
-V002,iniziativa/piano,522
-V002,incontro maschile,1470
-V002,fuga,187
-V002,iniziativa/piano,303
 V002,struttura,13871
-V002,compito/missione,1176
-V002,angoscia/delusione,2676
-V002,aggressione/scontro,744
-V002,iniziativa/piano,1534
-V002,visione,1290
-V002,angoscia/delusione,1888
-V002,pausa/sospensione,732
-V002,incontro maschile,763
-V002,iniziativa/piano,719
-V002,angoscia/delusione,1069
-V002,rivelazione,586
-V002,aggressione/scontro,661
 V002,struttura,8291
-V002,viaggio,1526
-V002,angoscia/delusione,1275
-V002,angoscia/delusione,639
-V002,angoscia/delusione,392
-V002,angoscia/delusione,1613
-V002,iniziativa/piano,1960
-V002,aggressione/scontro,861
 V002,struttura,9042
-V002,viaggio,1287
-V002,compito/missione,210
-V002,pausa/sospensione,2615
-V002,incontro maschile,2049
-V002,fallimento,104
-V002,fallimento,-39755
-V002,fallimento,210
-V002,fallimento,456
-V002,fallimento,179
-V002,partenza/sparizione,548
-V002,incontro femminile,787
-V002,incontro maschile,1880
-V002,angoscia/delusione,292
-V002,angoscia/delusione,337
-V002,fallimento,477
-V002,fallimento,274
-V002,fallimento,292
-V002,fallimento,203
-V002,fallimento,191
 V002,struttura,10063
-V002,compito/missione,1598
-V002,angoscia/delusione,676
-V002,incontro di gruppo,1578
-V002,angoscia/delusione,621
-V002,pausa/sospensione,619
-V002,angoscia/delusione,984
-V002,pausa/sospensione,438
-V002,angoscia/delusione,175
-V002,pausa/sospensione,736
-V002,angoscia/delusione,199
-V002,pausa/sospensione,1165
-V002,incontro femminile,889
-V002,angoscia/delusione,352
 V002,struttura,9860
-V002,incontro maschile,3830
-V002,compito/missione,1076
-V002,compito/missione,1236
-V002,compito/missione,129
-V002,partenza/sparizione,157
-V002,angoscia/delusione,814
-V002,incontro femminile,319
-V002,angoscia/delusione,1352
-V002,fallimento,811
-V002,fallimento,574
-V002,fallimento,869
-V002,fallimento,620
-V002,illusione/speranza,488
 V002,struttura,14313
-V002,angoscia/delusione,1015
-V002,incontro maschile,1264
-V002,angoscia/delusione,509
-V002,incontro femminile,593
-V002,angoscia/delusione,787
-V002,incontro femminile,928
-V002,angoscia/delusione,1209
-V002,rivelazione,1210
-V002,incontro maschile,839
-V002,angoscia/delusione,630
-V002,angoscia/delusione,972
-V002,angoscia/delusione,1617
-V002,angoscia/delusione,898
-V002,illusione/speranza,646
-V002,angoscia/delusione,1160
 V002,struttura,9240
-V002,incontro maschile,1057
-V002,angoscia/delusione,1315
-V002,iniziativa/piano,735
-V002,aggressione/scontro,1412
-V002,aggressione/scontro,1243
-V002,aggressione/scontro,770
-V002,angoscia/delusione,632
-V002,aggressione/scontro,1617
-V002,angoscia/delusione,430
 V002,struttura,7418
-V002,riflessione,7396
 V002,struttura,12987
-V002,fuga,637
-V002,compito/missione,1141
-V002,rivelazione,610
-V002,smarrimento/dubbio,1320
-V002,incontro maschile,2738
-V002,aiuto/salvataggio,462
-V002,fuga,401
-V002,angoscia/delusione,1996
-V002,attesa,1150
-V002,angoscia/delusione,383
-V002,illusione/speranza,669
-V002,incontro di gruppo,795
-V002,iniziativa/piano,646
 V002,struttura,15582
-V002,angoscia/delusione,1996
-V002,illusione/speranza,1246
-V002,angoscia/delusione,1901
-V002,partenza/sparizione,894
-V002,incontro maschile,2126
-V002,attesa,732
-V002,iniziativa/piano,276
-V002,angoscia/delusione,4703
-V002,visione,1546
-V002,visione,1322
-V002,illusione/speranza,1666
 V002,struttura,19473
-V002,visione,1504
-V002,iniziativa/piano,627
-V002,visione,265
-V002,riflessione,382
-V002,angoscia/delusione,813
-V002,incontro di gruppo,8865
-V002,angoscia/delusione,337
-V002,incontro di gruppo,716
-V002,incontro di gruppo,1762
-V002,angoscia/delusione,461
-V002,iniziativa/piano,857
-V002,visione,3728
-V002,angoscia/delusione,408
-V002,smarrimento/dubbio,1577
-V002,attesa,1553
-V002,rivelazione,1085
-V002,visione,1280
-V002,fuga,685
-V002,illusione/speranza,802
 V002,struttura,13175
-V002,viaggio,1101
-V002,riflessione,2133
-V002,compito/missione,707
-V002,smarrimento/dubbio,1064
-V002,angoscia/delusione,893
-V002,visione,5797
-V002,arrivo,673
-V002,successo,781
 V002,struttura,11391
-V002,attesa,1062
-V002,iniziativa/piano,954
-V002,compito/missione,1583
-V002,viaggio,974
-V002,riflessione,2050
-V002,successo,342
-V002,illusione/speranza,570
-V002,fuga,352
-V002,incontro di gruppo,3479
-V002,incontro di gruppo,791
-V002,fuga,193
-V002,incontro di gruppo,1358
-V002,fuga,75
-V002,incontro di gruppo,454
-V002,morte,603
 V002,struttura,10457
-V002,viaggio,9920
-V002,smarrimento/dubbio,1416
-V002,riflessione,706
-V002,smarrimento/dubbio,1125
-V002,riflessione,607
-V002,smarrimento/dubbio,734
-V002,riflessione,502
-V002,smarrimento/dubbio,182
-V002,riflessione,2497
-V002,smarrimento/dubbio,859
-V002,riflessione,430
-V002,smarrimento/dubbio,650
-V002,morte,518
 V002,struttura,10809
-V002,incontro maschile,1346
-V002,riflessione,1349
-V002,compito/missione,114
-V002,viaggio,1304
-V002,iniziativa/piano,1092
-V002,successo,149
-V002,successo,234
-V002,successo,265
-V002,successo,197
-V002,incontro di gruppo,519
-V002,aggressione/scontro,1167
-V002,successo,98
-V002,inseguimento/ricerca,554
-V002,pausa/sospensione,2695
-V002,smarrimento/dubbio,415
-V002,successo,172
-V002,illusione/speranza,150
-V002,successo,93
-V002,angoscia/delusione,42
-V002,successo,57
-V002,iniziativa/piano,364
-V002,successo,263
-V002,angoscia/delusione,120
-V002,iniziativa/piano,295
-V002,successo,174
-V002,smarrimento/dubbio,539
-V002,morte,638
 V002,struttura,14887
-V002,smarrimento/dubbio,1335
-V002,angoscia/delusione,984
-V002,aggressione/scontro,654
-V002,rivelazione,1407
-V002,aggressione/scontro,944
-V002,attesa,804
-V002,aggressione/scontro,-543
-V002,illusione/speranza,1202
-V002,aggressione/scontro,421
-V002,angoscia/delusione,609
-V002,aggressione/scontro,418
-V002,angoscia/delusione,705
-V002,viaggio,2420
-V002,illusione/speranza,776
 V002,struttura,15495
-V002,situazione,929
-V002,rivelazione,1492
-V002,fuga,879
-V002,illusione/speranza,1169
-V002,angoscia/delusione,1565
-V002,iniziativa/piano,766
-V002,angoscia/delusione,741
-V002,inseguimento/ricerca,858
-V002,smarrimento/dubbio,7259
-V002,ostacolo,718
-V002,incontro animale,554
-V002,ostacolo,552
-V002,incontro animale,481
-V002,ostacolo,435
-V002,incontro animale,638
-V002,ostacolo,432
-V002,incontro animale,836
-V002,ostacolo,394
-V002,incontro animale,492
-V002,ostacolo,614
-V002,incontro animale,1112
-V002,morte,385
-V002,successo,186
 V002,struttura,9702
-V002,incontro maschile,1183
-V002,smarrimento/dubbio,416
-V002,viaggio,7749
-V002,smarrimento/dubbio,993
-V002,visione,430
-V002,riflessione,619
-V002,rivelazione,432
-V002,angoscia/delusione,264
-V002,illusione/speranza,376
-V002,angoscia/delusione,817
-V002,iniziativa/piano,473
-V002,rivelazione,906
-V002,angoscia/delusione,1245
-V002,illusione/speranza,503
-V002,morte,337
 V002,struttura,8658
-V002,incontro femminile,1268
-V002,incontro maschile,877
-V002,pausa/sospensione,1158
-V002,angoscia/delusione,729
-V002,visione,339
-V002,angoscia/delusione,561
-V002,visione,71
-V002,angoscia/delusione,486
-V002,visione,59
-V002,angoscia/delusione,3084
 V002,struttura,14106
-V002,incontro di gruppo,1934
-V002,iniziativa/piano,439
-V002,rivelazione,1700
-V002,compito/missione,841
-V002,visione,993
-V002,compito/missione,998
-V002,illusione/speranza,1471
-V002,smarrimento/dubbio,1173
-V002,aggressione/scontro,1501
-V002,successo,210
-V002,fuga,664
-V002,iniziativa/piano,508
-V002,aggressione/scontro,406
-V002,fuga,880
-V002,successo,234
 V002,struttura,21698
-V002,iniziativa/piano,1507
-V002,incontro di gruppo,1330
-V002,smarrimento/dubbio,1189
-V002,angoscia/delusione,1685
-V002,iniziativa/piano,1670
-V002,incontro femminile,574
-V002,incontro femminile,320
-V002,fallimento,1867
-V002,innamoramento,774
-V002,angoscia/delusione,630
-V002,illusione/speranza,762
-V002,iniziativa/piano,1184
-V002,incontro di gruppo,2313
-V002,angoscia/delusione,3184
-V002,innamoramento,732
-V002,angoscia/delusione,529
-V002,fallimento,918
-V002,angoscia/delusione,1383
 V002,struttura,19767
-V002,incontro femminile,1943
-V002,iniziativa/piano,1686
-V002,smarrimento/dubbio,293
-V002,iniziativa/piano,524
-V002,iniziativa/piano,696
-V002,iniziativa/piano,1143
-V002,iniziativa/piano,373
-V002,iniziativa/piano,976
-V002,iniziativa/piano,224
-V002,smarrimento/dubbio,1118
-V002,iniziativa/piano,1160
-V002,smarrimento/dubbio,173
-V002,iniziativa/piano,708
-V002,smarrimento/dubbio,687
-V002,angoscia/delusione,1011
-V002,illusione/speranza,846
-V002,iniziativa/piano,1287
-V002,smarrimento/dubbio,490
-V002,iniziativa/piano,590
-V002,angoscia/delusione,1179
-V002,smarrimento/dubbio,483
-V002,iniziativa/piano,585
-V002,scena erotica,1074
-V002,angoscia/delusione,469
 V002,struttura,12910
-V002,angoscia/delusione,468
-V002,incontro di gruppo,0
-V002,illusione/speranza,3179
-V002,incontro di gruppo,638
-V002,illusione/speranza,766
-V002,angoscia/delusione,1305
-V002,incontro maschile,1592
-V002,angoscia/delusione,682
-V002,aggressione/scontro,530
-V002,iniziativa/piano,946
-V002,fallimento,219
-V002,illusione/speranza,942
-V002,iniziativa/piano,1183
-V002,successo,428
 V002,struttura,14101
-V002,situazione,2392
-V002,incontro maschile,1769
-V002,aggressione/scontro,1022
-V002,iniziativa/piano,888
-V002,successo,59
-V002,incontro maschile,1845
-V002,fallimento,1002
-V002,iniziativa/piano,684
-V002,illusione/speranza,1958
-V002,#N/A,791
-V002,illusione/speranza,1042
-V002,partenza/sparizione,486
-V002,iniziativa/piano,189
 V002,struttura,15971
-V002,angoscia/delusione,1654
-V002,riflessione,1339
-V002,incontro di gruppo,1168
-V002,incontro di gruppo,1338
-V002,riflessione,1789
-V002,angoscia/delusione,641
-V002,riflessione,1302
-V002,angoscia/delusione,1718
-V002,riflessione,946
-V002,angoscia/delusione,448
-V002,riflessione,474
-V002,angoscia/delusione,639
-V002,aggressione/scontro,1137
-V002,rivelazione,305
-V002,morte,1032
 V002,struttura,12933
-V002,angoscia/delusione,1776
-V002,compito/missione,1427
-V002,angoscia/delusione,768
-V002,incontro di gruppo,683
-V002,angoscia/delusione,820
-V002,smarrimento/dubbio,1615
-V002,incontro animale,489
-V002,inseguimento/ricerca,5099
-V002,incontro femminile,340
-V002,incontro maschile,577
-V002,incontro maschile,438
-V002,incontro maschile,385
-V002,incontro di gruppo,393
-V002,smarrimento/dubbio,1249
-V002,incontro femminile,1711
-V002,angoscia/delusione,223
 V002,struttura,10472
-V002,pausa/sospensione,1292
-V002,incontro maschile,2114
-V002,rivelazione,1367
-V002,partenza/sparizione,1254
-V002,inseguimento/ricerca,908
-V002,iniziativa/piano,1470
-V002,successo,748
-V002,illusione/speranza,1282
-V003,,
-V003,smarrimento/dubbio,1196
 V003,angoscia/delusione,8658
-V003,smarrimento/dubbio,1243
-V003,smarrimento/dubbio,1057
-V003,smarrimento/dubbio,481
-V003,smarrimento/dubbio,578
-V003,smarrimento/dubbio,618
-V003,smarrimento/dubbio,679
-V003,smarrimento/dubbio,597
 V003,guerra,6822
-V003,morte,353
-V003,rivelazione,660
-V003,attesa,3395
 V003,ritorno,5643
-V003,incontro di gruppo,150
-V003,rivelazione,1120
-V003,aggressione/scontro,1435
-V003,angoscia/delusione,664
 V003,incontro femminile,664
-V003,aggressione/scontro,1218
 V003,aggressione/scontro,1761
-V003,partenza/sparizione,542
 V003,inseguimento/ricerca,2689
-V003,terna,735
-V003,terna,280
-V003,terna,482
-V003,rivelazione,922
 V003,aggressione/scontro,1052
 V003,aggressione/scontro,1664
-V003,terna,143
-V003,terna,102
-V003,terna,197
-V003,angoscia/delusione,1127
 V003,incontro maschile,1127
 V003,incontro maschile,3855
-V003,terna,187
-V003,terna,172
-V003,terna,480
-V003,racconto incastonato,1035
 V003,aggressione/scontro,2127
 V003,aggressione/scontro,4751
-V003,angoscia/delusione,1355
 V003,incontro maschile,4350
-V003,terna,957
 V003,aggressione/scontro,2352
-V003,terna,647
-V003,terna,746
 V003,aggressione/scontro,2659
-V003,partenza/sparizione,1125
 V003,incontro di gruppo,14264
-V003,angoscia/delusione,3426
-V003,aggressione/scontro,545
 V003,aggressione/scontro,2069
 V003,incontro femminile,10828
-V003,innamoramento,741
-V003,terna,398
-V003,terna,577
-V003,terna,426
-V003,angoscia/delusione,1186
-V003,terna,2183
-V003,terna,1890
-V003,terna,1255
-V003,aggressione/scontro,1083
-V003,fuga,838
 V003,smarrimento/dubbio,1171
-V003,angoscia/delusione,2134
 V003,incontro di gruppo,4046
-V003,inseguimento/ricerca,883
-V003,scena erotica,1027
 V003,incontro femminile,1974
 V003,incontro maschile,3563
 V003,incontro femminile,1493
 V003,aggressione/scontro,970
 V003,mistero/assurdità,2970
 V003,incontro femminile,5856
-V003,rivelazione,2133
-V003,innamoramento,1164
 V003,aiuto/salvataggio,2186
-V003,terna,397
-V003,terna,398
-V003,terna,330
 V003,aggressione/scontro,680
-V003,terna,158
-V003,terna,156
-V003,terna,129
 V003,aggressione/scontro,3247
-V003,illusione/speranza,2235
 V003,incontro di gruppo,7057
-V003,aiuto/salvataggio,4821
-V003,compito/missione,1574
 V003,incontro maschile,2251
-V003,angoscia/delusione,676
-V003,compito/missione,1049
 V003,aggressione/scontro,2926
-V003,iniziativa/piano,1591
-V003,morte,284
 V003,incontro femminile,1690
 V003,angoscia/delusione,2354
 V003,iniziativa/piano,7648
-V003,terna,490
-V003,terna,822
-V003,terna,2370
-V003,smarrimento/dubbio,2083
-V003,aggressione/scontro,1257
-V003,fuga,255
 V003,aggressione/scontro,4748
-V003,successo,1357
 V003,metanarrazione,2448
-V003,partenza/sparizione,923
-V003,angoscia/delusione,348
-V004,,
 V004,struttura,51187
-V004,illusione/speranza,1243
-V004,iniziativa/piano,2398
-V004,inseguimento/ricerca,1342
-V004,incontro maschile,522
-V004,angoscia/delusione,2238
-V004,smarrimento/dubbio,1664
-V004,partenza/sparizione,241
-V004,pausa/sospensione,680
-V004,angoscia/delusione,2166
-V004,incontro maschile,805
-V004,viaggio,1353
-V004,arrivo,692
-V004,attesa,1365
-V004,smarrimento/dubbio,2907
-V004,incontro maschile,1039
-V004,angoscia/delusione,2332
-V004,incontro di gruppo,2656
-V004,angoscia/delusione,2295
-V004,incontro maschile,3036
-V004,inseguimento/ricerca,4252
-V004,iniziativa/piano,238
-V004,angoscia/delusione,705
-V004,inseguimento/ricerca,1882
-V004,partenza/sparizione,536
-V004,angoscia/delusione,2759
-V004,incontro maschile,1196
-V004,smarrimento/dubbio,829
-V004,compito/missione,1278
-V004,successo,400
-V004,incontro maschile,954
-V004,illusione/speranza,475
-V004,successo,857
-V004,smarrimento/dubbio,1898
-V004,incontro di gruppo,1123
-V004,angoscia/delusione,769
 V004,struttura,27190
-V004,attesa,466
-V004,incontro femminile,1836
-V004,guerra,237
-V004,incontro maschile,1629
-V004,morte,146
-V004,guerra,1130
-V004,morte,161
-V004,angoscia/delusione,858
-V004,pausa/sospensione,1628
-V004,compito/missione,1656
-V004,incontro di gruppo,1109
-V004,angoscia/delusione,475
-V004,smarrimento/dubbio,1135
-V004,incontro maschile,2390
-V004,attesa,1201
-V004,angoscia/delusione,1115
-V004,illusione/speranza,890
-V004,compito/missione,1112
-V004,incontro maschile,493
-V004,aggressione/scontro,2328
-V004,compito/missione,346
-V004,riflessione,669
-V004,illusione/speranza,1406
-V004,incontro maschile,1225
-V004,morte,120
-V004,angoscia/delusione,647
-V004,visione,491
-V004,angoscia/delusione,674
 V004,struttura,39484
-V004,compito/missione,411
-V004,illusione/speranza,1984
-V004,smarrimento/dubbio,1373
-V004,incontro maschile,975
-V004,aggressione/scontro,864
-V004,ostacolo,597
-V004,inseguimento/ricerca,1221
-V004,incontro femminile,3366
-V004,aggressione/scontro,680
-V004,ostacolo,1221
-V004,inseguimento/ricerca,479
-V004,attesa,2660
-V004,incontro maschile,2272
-V004,aggressione/scontro,677
-V004,compito/missione,1413
-V004,incontro maschile,1414
-V004,iniziativa/piano,2489
-V004,angoscia/delusione,1380
-V004,smarrimento/dubbio,90893
-V004,incontro di gruppo,1802
-V004,incontro maschile,1338
-V004,incontro femminile,1579
-V004,incontro maschile,735
-V004,incontro femminile,747
-V004,attesa,1630
-V004,incontro maschile,872
-V004,fuga,455
-V004,incontro femminile,735
-V004,partenza/sparizione,314
-V004,angoscia/delusione,1814
-V004,guerra,1076
-V004,incontro maschile,415
-V004,visione,1775
-V005,,
 V005,aggressione/scontro,682
 V005,racconto incastonato,18159
-V005,incontro maschile,516
-V005,incontro femminile,2439
-V005,incontro femminile,2999
-V005,iniziativa/piano,2250
-V005,fallimento,1384
 V005,partenza/sparizione,3297
 V005,viaggio,5988
 V005,incontro femminile,23428
-V005,aggressione/scontro,6658
-V005,fuga,828
-V005,incontro maschile,2406
-V005,compito/missione,2956
-V005,angoscia/delusione,4211
 V005,incontro di gruppo,19359
-V005,aggressione/scontro,1511
-V005,fuga,3375
-V005,aggressione/scontro,2187
-V005,fuga,2707
-V005,rivelazione,3442
-V005,digressione,977
 V005,pausa/sospensione,5977
-V005,digressione,3899
-V005,digressione,351
-V005,digressione,747
 V005,incontro di gruppo,6200
-V005,aggressione/scontro,1197
-V005,fuga,1517
-V005,smarrimento/dubbio,630
-V005,aggressione/scontro,414
 V005,partenza/sparizione,98
-V005,angoscia/delusione,1381
 V005,incontro femminile,16383
-V005,illusione/speranza,764
-V005,incontro maschile,6496
-V005,aggressione/scontro,385
-V005,aggressione/scontro,7346
 V005,partenza/sparizione,2721
-V005,digressione,890
 V005,pausa/sospensione,37423
-V005,digressione,4270
-V005,digressione,4594
-V005,incontro maschile,2872
-V005,aggressione/scontro,364
-V005,fuga,746
-V005,compito/missione,4683
-V005,incontro maschile,387
-V005,incontro di gruppo,3227
-V005,incontro di gruppo,5461
-V005,digressione,8502
 V005,incontro animale,8192
-V005,angoscia/delusione,1856
 V005,pausa/sospensione,3907
 V005,incontro maschile,76905
 V005,incontro maschile,21258
-V005,smarrimento/dubbio,4698
-V005,iniziativa/piano,4364
-V005,aggressione/scontro,1135
-V005,fallimento,1678
 V005,partenza/sparizione,2308
 V005,incontro maschile,5116
-V005,smarrimento/dubbio,1658
 V005,partenza/sparizione,3301
-V005,aggressione/scontro,5542
 V005,aggressione/scontro,13727
-V005,iniziativa/piano,4559
-V005,incontro maschile,3622
-V005,rivelazione,3997
 V005,incontro maschile,16064
-V005,iniziativa/piano,1590
-V005,aggressione/scontro,4539
-V005,fuga,280
-V005,inseguimento/ricerca,874
-V005,fuga,4780
 V005,partenza/sparizione,1966
 V005,partenza/sparizione,2680
 V005,angoscia/delusione,7268
 V005,incontro di gruppo,10079
-V005,incontro femminile,1851
-V005,scena erotica,514
-V005,aggressione/scontro,4743
-V005,angoscia/delusione,3201
 V005,partenza/sparizione,2705
-V005,partenza/sparizione,389
-V005,scena erotica,5576
 V005,pausa/sospensione,12467
-V005,angoscia/delusione,3250
-V005,iniziativa/piano,937
-V005,incontro maschile,2698
 V005,partenza/sparizione,3350
 V005,angoscia/delusione,1635
 V005,partenza/sparizione,7390
 V005,incontro femminile,35287
-V005,rivelazione,2514
-V005,iniziativa/piano,3083
-V005,angoscia/delusione,4127
-V005,scena erotica,3377
-V005,illusione/speranza,5137
-V005,aggressione/scontro,877
-V005,fuga,1606
-V005,ritorno,4315
-V005,fuga,2602
-V005,ritorno,706
-V005,angoscia/delusione,4103
 V005,incontro maschile,12081
-V005,aggressione/scontro,525
-V005,rivelazione,4711
-V005,iniziativa/piano,1599
-V005,aggressione/scontro,1578
-V005,fuga,340
-V005,angoscia/delusione,1489
 V005,partenza/sparizione,657
 V005,partenza/sparizione,2414
 V005,angoscia/delusione,2257
 V005,smarrimento/dubbio,6129
-V005,iniziativa/piano,2017
 V005,aggressione/scontro,5860
-V005,aggressione/scontro,2976
-V005,iniziativa/piano,1654
 V005,aggressione/scontro,1654
-V005,aggressione/scontro,4519
 V005,incontro di gruppo,5772
-V005,iniziativa/piano,2670
-V005,illusione/speranza,688
 V005,partenza/sparizione,1317
-V005,iniziativa/piano,3930
 V005,incontro di gruppo,10146
-V005,angoscia/delusione,386
-V005,iniziativa/piano,2113
-V005,aggressione/scontro,3713
 V005,partenza/sparizione,1743
 V005,racconto incastonato,12318
-V005,aggressione/scontro,8469
-V005,aggressione/scontro,306
-V005,aggressione/scontro,223
-V005,aggressione/scontro,429
-V005,aggressione/scontro,510
-V005,aggressione/scontro,4294
-V005,aggressione/scontro,250
-V005,aggressione/scontro,1595
-V005,incontro maschile,2336
-V005,angoscia/delusione,1055
-V005,iniziativa/piano,1280
-V005,partenza/sparizione,1267
 V005,incontro maschile,2859
 V005,angoscia/delusione,2055
 V005,incontro maschile,0
@@ -1021,1043 +197,10 @@ V005,partenza/sparizione,825
 V005,angoscia/delusione,3570
 V005,partenza/sparizione,3271
 V005,metanarrazione,1645
-V006,,
-V006,struttura,16861
 V006,struttura,413374
-V006,iniziativa/piano,2002
-V006,viaggio,1536
-V006,inseguimento/ricerca,866
-V006,rivelazione,810
-V006,incontro femminile,558
-V006,smarrimento/dubbio,2067
-V006,iniziativa/piano,840
-V006,fallimento,697
-V006,offerta,1611
-V006,iniziativa/piano,6646
-V006,fallimento,921
-V006,offerta,480
-V006,fallimento,403
-V006,offerta,557
-V006,fallimento,187
-V006,offerta,169
-V006,fallimento,398
-V006,offerta,652
-V006,pausa/sospensione,610
-V006,aggressione/scontro,648
-V006,successo,803
-V006,struttura,16625
-V006,incontro maschile,3324
-V006,offerta,837
-V006,rifiuto,2271
-V006,offerta,2526
-V006,rifiuto,474
-V006,offerta,1178
-V006,rifiuto,323
-V006,offerta,1365
-V006,rifiuto,344
-V006,offerta,523
-V006,rifiuto,48
-V006,offerta,643
-V006,rifiuto,56
-V006,offerta,140
-V006,rifiuto,44
-V006,aggressione/scontro,1266
-V006,offerta,107
-V006,rifiuto,48
-V006,aggressione/scontro,997
-V006,struttura,9906
-V006,iniziativa/piano,3810
-V006,iniziativa/piano,1289
-V006,incontro femminile,3195
-V006,incontro di gruppo,540
-V006,aggressione/scontro,762
-V006,fuga,755
-V006,aggressione/scontro,805
-V006,fuga,230
-V006,iniziativa/piano,540
-V006,struttura,8487
-V006,iniziativa/piano,590
-V006,fuga,1605
-V006,iniziativa/piano,1434
-V006,iniziativa/piano,548
-V006,iniziativa/piano,1171
-V006,iniziativa/piano,697
-V006,iniziativa/piano,522
-V006,incontro maschile,1470
-V006,fuga,187
-V006,iniziativa/piano,303
-V006,struttura,15006
-V006,incontro di gruppo,952
-V006,iniziativa/piano,1145
-V006,aggressione/scontro,910
-V006,viaggio,1357
-V006,pausa/sospensione,1992
-V006,aggressione/scontro,910
-V006,incontro di gruppo,879
-V006,pausa/sospensione,3287
-V006,aggressione/scontro,987
-V006,iniziativa/piano,823
-V006,successo,283
-V006,incontro maschile,932
-V006,inseguimento/ricerca,1244
-V006,incontro maschile,311
-V006,rivelazione,373
-V006,iniziativa/piano,758
-V006,fallimento,553
-V006,struttura,11940
-V006,iniziativa/piano,2920
-V006,incontro maschile,1123
-V006,aggressione/scontro,520
-V006,incontro maschile,1379
-V006,incontro di gruppo,1435
-V006,fuga,572
-V006,angoscia/delusione,3962
-V006,struttura,10457
-V006,viaggio,9920
-V006,smarrimento/dubbio,1416
-V006,riflessione,706
-V006,smarrimento/dubbio,1125
-V006,riflessione,607
-V006,smarrimento/dubbio,734
-V006,riflessione,502
-V006,smarrimento/dubbio,182
-V006,riflessione,2497
-V006,smarrimento/dubbio,859
-V006,riflessione,430
-V006,smarrimento/dubbio,650
-V006,morte,518
-V006,struttura,10809
-V006,incontro maschile,1346
-V006,riflessione,1349
-V006,compito/missione,114
-V006,viaggio,1304
-V006,iniziativa/piano,1092
-V006,successo,149
-V006,successo,234
-V006,successo,265
-V006,successo,197
-V006,incontro di gruppo,519
-V006,aggressione/scontro,1167
-V006,successo,98
-V006,inseguimento/ricerca,554
-V006,smarrimento/dubbio,415
-V006,pausa/sospensione,2695
-V006,successo,172
-V006,illusione/speranza,150
-V006,successo,93
-V006,angoscia/delusione,42
-V006,successo,57
-V006,iniziativa/piano,364
-V006,successo,263
-V006,angoscia/delusione,120
-V006,iniziativa/piano,295
-V006,successo,174
-V006,smarrimento/dubbio,539
-V006,morte,638
-V006,struttura,13175
-V006,viaggio,1101
-V006,riflessione,2133
-V006,compito/missione,707
-V006,smarrimento/dubbio,1064
-V006,angoscia/delusione,893
-V006,visione,5797
-V006,arrivo,673
-V006,successo,781
-V006,struttura,9702
-V006,incontro maschile,1183
-V006,smarrimento/dubbio,416
-V006,viaggio,7749
-V006,smarrimento/dubbio,993
-V006,visione,430
-V006,riflessione,619
-V006,rivelazione,432
-V006,angoscia/delusione,264
-V006,illusione/speranza,376
-V006,angoscia/delusione,817
-V006,iniziativa/piano,473
-V006,rivelazione,906
-V006,angoscia/delusione,1245
-V006,illusione/speranza,503
-V006,morte,337
-V006,struttura,14887
-V006,smarrimento/dubbio,1335
-V006,angoscia/delusione,984
-V006,aggressione/scontro,654
-V006,rivelazione,1407
-V006,aggressione/scontro,944
-V006,attesa,804
-V006,aggressione/scontro,-543
-V006,illusione/speranza,1202
-V006,aggressione/scontro,421
-V006,angoscia/delusione,609
-V006,aggressione/scontro,418
-V006,angoscia/delusione,705
-V006,viaggio,2420
-V006,illusione/speranza,776
-V006,struttura,15495
-V006,situazione,929
-V006,rivelazione,1492
-V006,fuga,879
-V006,illusione/speranza,1169
-V006,angoscia/delusione,1565
-V006,iniziativa/piano,766
-V006,angoscia/delusione,741
-V006,inseguimento/ricerca,858
-V006,ostacolo,718
-V006,smarrimento/dubbio,7259
-V006,incontro animale,554
-V006,ostacolo,552
-V006,incontro animale,481
-V006,ostacolo,435
-V006,incontro animale,638
-V006,ostacolo,432
-V006,incontro animale,836
-V006,ostacolo,394
-V006,incontro animale,492
-V006,ostacolo,614
-V006,incontro animale,1112
-V006,morte,385
-V006,successo,186
-V006,struttura,17761
-V006,smarrimento/dubbio,1228
-V006,iniziativa/piano,1503
-V006,angoscia/delusione,509
-V006,viaggio,10813
-V006,viaggio,690
-V006,incontro femminile,647
-V006,incontro maschile,843
-V006,incontro maschile,1442
-V006,smarrimento/dubbio,1141
-V006,rivelazione,613
-V006,incontro femminile,1616
-V006,incontro maschile,1999
-V006,incontro maschile,1304
-V006,smarrimento/dubbio,1244
-V006,rivelazione,328
-V006,fuga,523
-V006,incontro femminile,1488
-V006,fuga,614
-V006,struttura,14106
-V006,incontro di gruppo,1934
-V006,iniziativa/piano,439
-V006,rivelazione,1700
-V006,compito/missione,841
-V006,visione,993
-V006,compito/missione,998
-V006,illusione/speranza,1471
-V006,smarrimento/dubbio,1173
-V006,aggressione/scontro,1501
-V006,successo,210
-V006,fuga,664
-V006,iniziativa/piano,508
-V006,aggressione/scontro,406
-V006,fuga,880
-V006,successo,234
-V006,struttura,12910
-V006,angoscia/delusione,468
-V006,incontro di gruppo,0
-V006,illusione/speranza,3179
-V006,incontro di gruppo,638
-V006,illusione/speranza,766
-V006,angoscia/delusione,1305
-V006,incontro maschile,1592
-V006,angoscia/delusione,682
-V006,aggressione/scontro,530
-V006,iniziativa/piano,946
-V006,fallimento,219
-V006,illusione/speranza,942
-V006,iniziativa/piano,1183
-V006,successo,428
-V006,struttura,27454
-V006,illusione/speranza,1492
-V006,incontro maschile,2447
-V006,iniziativa/piano,921
-V006,incontro maschile,2159
-V006,smarrimento/dubbio,529
-V006,riflessione,648
-V006,iniziativa/piano,1076
-V006,riflessione,203
-V006,iniziativa/piano,225
-V006,riflessione,385
-V006,iniziativa/piano,907
-V006,riflessione,245
-V006,iniziativa/piano,850
-V006,riflessione,153
-V006,iniziativa/piano,92
-V006,riflessione,337
-V006,pausa/sospensione,2381
-V006,inseguimento/ricerca,3101
-V006,pausa/sospensione,1462
-V006,inseguimento/ricerca,753
-V006,pausa/sospensione,1830
-V006,inseguimento/ricerca,794
-V006,pausa/sospensione,223
-V006,aggressione/scontro,1389
-V006,pausa/sospensione,605
-V006,incontro di gruppo,927
-V006,fuga,330
-V006,aggressione/scontro,941
-V006,struttura,21698
-V006,iniziativa/piano,1507
-V006,incontro di gruppo,1330
-V006,smarrimento/dubbio,1189
-V006,angoscia/delusione,1685
-V006,iniziativa/piano,1670
-V006,incontro femminile,574
-V006,incontro femminile,320
-V006,fallimento,1867
-V006,innamoramento,774
-V006,angoscia/delusione,630
-V006,illusione/speranza,762
-V006,iniziativa/piano,1184
-V006,incontro di gruppo,2313
-V006,angoscia/delusione,3184
-V006,innamoramento,732
-V006,angoscia/delusione,529
-V006,fallimento,918
-V006,angoscia/delusione,1383
-V006,struttura,10616
-V006,fuga,1180
-V006,incontro maschile,2364
-V006,illusione/speranza,983
-V006,incontro femminile,983
-V006,fuga,773
-V006,incontro maschile,2112
-V006,iniziativa/piano,1567
-V006,incontro di gruppo,1273
-V006,partenza/sparizione,334
-V006,struttura,12933
-V006,angoscia/delusione,1776
-V006,compito/missione,1427
-V006,angoscia/delusione,768
-V006,incontro di gruppo,683
-V006,angoscia/delusione,820
-V006,smarrimento/dubbio,1615
-V006,incontro animale,489
-V006,incontro femminile,340
-V006,inseguimento/ricerca,5099
-V006,incontro maschile,577
-V006,incontro maschile,438
-V006,incontro maschile,385
-V006,incontro di gruppo,393
-V006,smarrimento/dubbio,1249
-V006,incontro femminile,1711
-V006,angoscia/delusione,223
-V006,struttura,6506
-V006,iniziativa/piano,1834
-V006,illusione/speranza,1479
-V006,incontro maschile,705
-V006,illusione/speranza,760
-V006,ostacolo,1191
-V006,fallimento,516
-V006,struttura,4278
-V006,illusione/speranza,795
-V006,incontro maschile,327
-V006,illusione/speranza,771
-V006,iniziativa/piano,466
-V006,illusione/speranza,270
-V006,missione dei bambini,315
-V006,fallimento,1305
-V006,struttura,7069
-V006,illusione/speranza,755
-V006,angoscia/delusione,627
-V006,illusione/speranza,840
-V006,angoscia/delusione,590
-V006,illusione/speranza,242
-V006,angoscia/delusione,1737
-V006,incontro maschile,772
-V006,iniziativa/piano,446
-V006,incontro femminile,510
-V006,fallimento,527
-V006,struttura,8053
-V006,incontro maschile,858
-V006,iniziativa/piano,1513
-V006,illusione/speranza,1063
-V006,incontro maschile,134
-V006,illusione/speranza,2011
-V006,missione dei bambini,147
-V006,fallimento,2300
-V006,struttura,5431
-V006,iniziativa/piano,1070
-V006,ostacolo,255
-V006,missione dei bambini,1584
-V006,illusione/speranza,483
-V006,incontro maschile,2010
-V006,terna,348
-V006,terna,279
-V006,tema,627
-V006,successo,218
-V006,struttura,7594
-V006,compito/missione,1154
-V006,illusione/speranza,2320
-V006,angoscia/delusione,639
-V006,incontro maschile,1692
-V006,fallimento,1773
-V006,struttura,16872
-V006,iniziativa/piano,4023
-V006,illusione/speranza,2025
-V006,compito/missione,857
-V006,rivelazione,653
-V006,missione dei bambini,2362
-V006,inseguimento/ricerca,738
-V006,angoscia/delusione,1789
-V006,illusione/speranza,538
-V006,angoscia/delusione,1638
-V006,rivelazione,423
-V006,angoscia/delusione,1105
-V006,iniziativa/piano,336
-V006,fallimento,351
-V006,struttura,8752
-V006,iniziativa/piano,2402
-V006,partenza/sparizione,2200
-V006,inseguimento/ricerca,722
-V006,incontro maschile,197
-V006,illusione/speranza,1556
-V006,angoscia/delusione,1645
-V006,struttura,14003
-V006,iniziativa/piano,1603
-V006,illusione/speranza,296
-V006,fallimento,2176
-V006,illusione/speranza,410
-V006,ostacolo,1811
-V006,incontro maschile,496
-V006,incontro maschile,969
-V006,illusione/speranza,112
-V006,ostacolo,1460
-V006,illusione/speranza,274
-V006,ostacolo,-1234
-V006,incontro maschile,239
-V006,illusione/speranza,258
-V006,ostacolo,344
-V006,incontro maschile,1204
-V006,incontro maschile,401
-V006,illusione/speranza,347
-V006,fallimento,792
-V006,struttura,10513
-V006,angoscia/delusione,2165
-V006,illusione/speranza,630
-V006,angoscia/delusione,1715
-V006,missione dei bambini,1177
-V006,illusione/speranza,2205
-V006,angoscia/delusione,1011
-V006,iniziativa/piano,1110
-V006,fallimento,480
-V006,struttura,17022
-V006,situazione,1113
-V006,iniziativa/piano,515
-V006,iniziativa/piano,756
-V006,riflessione,6809
-V006,fallimento,390
-V006,incontro maschile,2527
-V006,iniziativa/piano,1737
-V006,aggressione/scontro,447
-V006,angoscia/delusione,1343
-V006,morte,1354
-V006,struttura,21230
-V006,visione,2209
-V006,compito/missione,1934
-V006,compito/missione,1324
-V006,angoscia/delusione,3218
-V006,incontro di gruppo,2537
-V006,compito/missione,701
-V006,smarrimento/dubbio,897
-V006,rivelazione,502
-V006,partenza/sparizione,733
-V006,angoscia/delusione,626
-V006,incontro maschile,5795
-V006,angoscia/delusione,998
-V006,viaggio,902
-V006,rivelazione,2457
-V006,partenza/sparizione,564
-V006,telefonata,661
-V006,struttura,15161
-V006,città magica,1358
-V006,viaggio,3961
-V006,rivelazione,240
-V006,viaggio,2146
-V006,iniziativa/piano,1171
-V006,viaggio,1203
-V006,iniziativa/piano,437
-V006,rivelazione,241
-V006,viaggio,1364
-V006,aggressione/scontro,333
-V006,pausa/sospensione,367
-V006,aggressione/scontro,334
-V006,partenza/sparizione,332
-V006,angoscia/delusione,1641
-V006,struttura,9042
 V006,struttura,170394
-V006,viaggio,1287
-V006,compito/missione,210
-V006,pausa/sospensione,2615
-V006,incontro maschile,2049
-V006,fallimento,104
-V006,fallimento,-39755
-V006,fallimento,210
-V006,fallimento,456
-V006,fallimento,179
-V006,partenza/sparizione,548
-V006,incontro femminile,787
-V006,angoscia/delusione,292
-V006,incontro maschile,1880
-V006,angoscia/delusione,337
-V006,fallimento,477
-V006,fallimento,274
-V006,fallimento,292
-V006,fallimento,203
-V006,fallimento,191
-V006,struttura,9240
-V006,incontro maschile,1057
-V006,angoscia/delusione,1315
-V006,iniziativa/piano,735
-V006,aggressione/scontro,1412
-V006,aggressione/scontro,1243
-V006,aggressione/scontro,770
-V006,angoscia/delusione,632
-V006,aggressione/scontro,1617
-V006,angoscia/delusione,430
-V006,struttura,10063
-V006,compito/missione,1598
-V006,angoscia/delusione,676
-V006,incontro di gruppo,1578
-V006,angoscia/delusione,621
-V006,pausa/sospensione,619
-V006,angoscia/delusione,984
-V006,pausa/sospensione,438
-V006,angoscia/delusione,175
-V006,pausa/sospensione,736
-V006,angoscia/delusione,199
-V006,pausa/sospensione,1165
-V006,incontro femminile,889
-V006,angoscia/delusione,352
-V006,struttura,9860
-V006,incontro maschile,3830
-V006,compito/missione,1076
-V006,compito/missione,1236
-V006,compito/missione,129
-V006,partenza/sparizione,157
-V006,angoscia/delusione,814
-V006,incontro femminile,319
-V006,angoscia/delusione,1352
-V006,fallimento,811
-V006,fallimento,574
-V006,fallimento,869
-V006,fallimento,620
-V006,illusione/speranza,488
-V006,struttura,14313
-V006,angoscia/delusione,1015
-V006,incontro maschile,1264
-V006,angoscia/delusione,509
-V006,incontro femminile,593
-V006,angoscia/delusione,787
-V006,incontro femminile,928
-V006,angoscia/delusione,1209
-V006,rivelazione,1210
-V006,incontro maschile,839
-V006,angoscia/delusione,630
-V006,angoscia/delusione,972
-V006,angoscia/delusione,1617
-V006,angoscia/delusione,898
-V006,illusione/speranza,646
-V006,angoscia/delusione,1160
-V006,struttura,27190
-V006,attesa,466
-V006,incontro femminile,1836
-V006,guerra,237
-V006,incontro maschile,1629
-V006,guerra,1130
-V006,angoscia/delusione,858
-V006,pausa/sospensione,1628
-V006,compito/missione,1656
-V006,incontro di gruppo,1109
-V006,angoscia/delusione,475
-V006,smarrimento/dubbio,1135
-V006,incontro maschile,2390
-V006,attesa,1201
-V006,angoscia/delusione,1115
-V006,illusione/speranza,890
-V006,compito/missione,1112
-V006,incontro maschile,493
-V006,aggressione/scontro,2328
-V006,compito/missione,346
-V006,riflessione,669
-V006,illusione/speranza,1406
-V006,incontro maschile,1225
-V006,angoscia/delusione,647
-V006,visione,491
-V006,angoscia/delusione,674
-V006,struttura,51188
-V006,illusione/speranza,1243
-V006,iniziativa/piano,2398
-V006,inseguimento/ricerca,1342
-V006,incontro maschile,522
-V006,angoscia/delusione,2238
-V006,smarrimento/dubbio,1664
-V006,partenza/sparizione,241
-V006,pausa/sospensione,680
-V006,angoscia/delusione,2166
-V006,incontro maschile,805
-V006,viaggio,1353
-V006,arrivo,692
-V006,attesa,1365
-V006,smarrimento/dubbio,2907
-V006,incontro maschile,1039
-V006,angoscia/delusione,2332
-V006,incontro di gruppo,2656
-V006,angoscia/delusione,2295
-V006,incontro maschile,3036
-V006,inseguimento/ricerca,4252
-V006,iniziativa/piano,238
-V006,angoscia/delusione,705
-V006,inseguimento/ricerca,1882
-V006,partenza/sparizione,536
-V006,angoscia/delusione,2759
-V006,incontro maschile,1196
-V006,smarrimento/dubbio,829
-V006,compito/missione,1278
-V006,successo,400
-V006,incontro maschile,954
-V006,illusione/speranza,475
-V006,successo,857
-V006,smarrimento/dubbio,1898
-V006,incontro di gruppo,1123
-V006,angoscia/delusione,769
-V006,struttura,39484
-V006,compito/missione,411
-V006,illusione/speranza,1984
-V006,smarrimento/dubbio,1373
-V006,aggressione/scontro,864
-V006,incontro maschile,975
-V006,ostacolo,597
-V006,inseguimento/ricerca,1221
-V006,incontro femminile,3366
-V006,aggressione/scontro,680
-V006,ostacolo,1221
-V006,inseguimento/ricerca,479
-V006,attesa,2660
-V006,incontro maschile,2272
-V006,aggressione/scontro,677
-V006,compito/missione,1413
-V006,incontro maschile,1414
-V006,iniziativa/piano,2489
-V006,angoscia/delusione,1380
-V006,smarrimento/dubbio,90893
-V006,incontro di gruppo,1802
-V006,incontro maschile,1338
-V006,incontro femminile,1579
-V006,incontro maschile,735
-V006,incontro femminile,747
-V006,attesa,1630
-V006,incontro maschile,872
-V006,fuga,455
-V006,incontro femminile,735
-V006,partenza/sparizione,314
-V006,angoscia/delusione,1814
-V006,guerra,1076
-V006,incontro maschile,415
-V006,visione,1775
-V006,struttura,19767
 V006,struttura,159597
-V006,incontro femminile,1943
-V006,iniziativa/piano,1686
-V006,smarrimento/dubbio,293
-V006,iniziativa/piano,524
-V006,iniziativa/piano,696
-V006,iniziativa/piano,1143
-V006,iniziativa/piano,373
-V006,iniziativa/piano,976
-V006,iniziativa/piano,224
-V006,smarrimento/dubbio,1118
-V006,iniziativa/piano,1160
-V006,smarrimento/dubbio,173
-V006,iniziativa/piano,708
-V006,smarrimento/dubbio,687
-V006,angoscia/delusione,1011
-V006,illusione/speranza,846
-V006,iniziativa/piano,1287
-V006,smarrimento/dubbio,490
-V006,iniziativa/piano,590
-V006,angoscia/delusione,1179
-V006,smarrimento/dubbio,483
-V006,iniziativa/piano,585
-V006,scena erotica,1074
-V006,angoscia/delusione,469
-V006,struttura,21333
-V006,rivelazione,761
-V006,iniziativa/piano,604
-V006,angoscia/delusione,3166
-V006,illusione/speranza,253
-V006,angoscia/delusione,1217
-V006,smarrimento/dubbio,1349
-V006,incontro di gruppo,1903
-V006,visione,946
-V006,riflessione,1793
-V006,morte,839
-V006,incontro maschile,592
-V006,incontro maschile,476
-V006,smarrimento/dubbio,986
-V006,angoscia/delusione,1275
-V006,riflessione,1096
-V006,aiuto/salvataggio,1397
-V006,illusione/speranza,2326
-V006,angoscia/delusione,440
-V006,struttura,17132
-V006,successo,1450
-V006,iniziativa/piano,1419
-V006,illusione/speranza,344
-V006,incontro di gruppo,742
-V006,angoscia/delusione,407
-V006,illusione/speranza,597
-V006,incontro maschile,579
-V006,incontro femminile,453
-V006,incontro maschile,249
-V006,illusione/speranza,1446
-V006,angoscia/delusione,795
-V006,smarrimento/dubbio,1052
-V006,incontro maschile,2862
-V006,iniziativa/piano,808
-V006,fallimento,623
-V006,angoscia/delusione,376
-V006,angoscia/delusione,960
-V006,illusione/speranza,982
-V006,angoscia/delusione,749
-V006,innamoramento,259
-V006,incontro maschile,999
-V006,angoscia/delusione,501
-V006,telefonata,640
-V006,angoscia/delusione,639
-V006,struttura,18975
-V006,angoscia/delusione,1151
-V006,cambiamento,3882
-V006,terna,1204
-V006,terna,1505
-V006,terna,1002
-V006,angoscia/delusione,2312
-V006,illusione/speranza,742
-V006,ritorno,1342
-V006,illusione/speranza,1611
-V006,smarrimento/dubbio,2669
-V006,terna,564
-V006,terna,378
-V006,terna,254
-V006,smarrimento/dubbio,365
-V006,incontro femminile,353
-V006,rivelazione,655
-V006,iniziativa/piano,253
-V006,smarrimento/dubbio,1429
-V006,inseguimento/ricerca,1361
-V006,angoscia/delusione,813
-V006,struttura,29812
-V006,viaggio,3395
-V006,riflessione,1777
-V006,pausa/sospensione,2271
-V006,smarrimento/dubbio,589
-V006,riflessione,749
-V006,incontro femminile,1526
-V006,riflessione,567
-V006,iniziativa/piano,667
-V006,successo,900
-V006,riflessione,1935
-V006,iniziativa/piano,370
-V006,successo,1645
-V006,riflessione,680
-V006,iniziativa/piano,864
-V006,successo,724
-V006,riflessione,487
-V006,iniziativa/piano,765
-V006,successo,1261
-V006,riflessione,226
-V006,iniziativa/piano,315
-V006,successo,395
-V006,riflessione,413
-V006,iniziativa/piano,516
-V006,aggressione/scontro,1683
-V006,riflessione,529
-V006,iniziativa/piano,173
-V006,successo,301
-V006,riflessione,519
-V006,pausa/sospensione,565
-V006,smarrimento/dubbio,1614
-V006,scena erotica,1096
-V006,riflessione,238
-V006,struttura,14457
-V006,angoscia/delusione,694
-V006,smarrimento/dubbio,-498618
-V006,angoscia/delusione,408
-V006,illusione/speranza,579
-V006,smarrimento/dubbio,2524
-V006,illusione/speranza,816
-V006,incontro maschile,2408
-V006,partenza/sparizione,537
-V006,incontro maschile,2638
-V006,partenza/sparizione,291
-V006,incontro maschile,1205
-V006,partenza/sparizione,527
-V006,riflessione,410
-V006,struttura,30293
-V006,illusione/speranza,1724
-V006,iniziativa/piano,413
-V006,illusione/speranza,1177
-V006,iniziativa/piano,1137
-V006,illusione/speranza,408
-V006,angoscia/delusione,413
-V006,illusione/speranza,3117
-V006,incontro maschile,851
-V006,ostacolo,578
-V006,illusione/speranza,897
-V006,angoscia/delusione,641
-V006,illusione/speranza,1829
-V006,iniziativa/piano,3556
-V006,ostacolo,1118
-V006,illusione/speranza,476
-V006,ostacolo,744
-V006,illusione/speranza,1148
-V006,ostacolo,893
-V006,illusione/speranza,268
-V006,partenza/sparizione,112
-V006,incontro di gruppo,1261
-V006,ostacolo,661
-V006,illusione/speranza,1123
-V006,partenza/sparizione,196
-V006,ostacolo,1133
-V006,incontro maschile,206
-V006,partenza/sparizione,171
-V006,ostacolo,1159
-V006,illusione/speranza,337
-V006,incontro di gruppo,1398
-V006,pausa/sospensione,453
-V006,angoscia/delusione,634
-V006,struttura,7814
-V006,ritorno,358
-V006,incontro maschile,1915
-V006,iniziativa/piano,648
-V006,partenza/sparizione,569
-V006,illusione/speranza,1104
-V006,attesa,664
-V006,incontro femminile,481
-V006,iniziativa/piano,277
-V006,angoscia/delusione,992
-V006,partenza/sparizione,286
-V006,illusione/speranza,485
-V006,struttura,71852
 V006,struttura,341674
-V006,illusione/speranza,2217
-V006,angoscia/delusione,2530
-V006,illusione/speranza,1279
-V006,incontro di gruppo,1562
-V006,partenza/sparizione,224
-V006,rivelazione,1608
-V006,angoscia/delusione,4811
-V006,iniziativa/piano,541
-V006,angoscia/delusione,338
-V006,illusione/speranza,783
-V006,angoscia/delusione,2771
-V006,iniziativa/piano,491
-V006,incontro di gruppo,4466
-V006,illusione/speranza,1568
-V006,angoscia/delusione,2405
-V006,illusione/speranza,2013
-V006,angoscia/delusione,935
-V006,incontro maschile,559
-V006,iniziativa/piano,1045
-V006,illusione/speranza,5069
-V006,angoscia/delusione,2365
-V006,illusione/speranza,272
-V006,fallimento,590
-V006,angoscia/delusione,2372
-V006,smarrimento/dubbio,644
-V006,angoscia/delusione,1015
-V006,visione,1403
-V006,angoscia/delusione,1012
-V006,incontro di gruppo,1412
-V006,angoscia/delusione,654
-V006,incontro maschile,1444
-V006,angoscia/delusione,696
-V006,incontro di gruppo,2878
-V006,angoscia/delusione,1063
-V006,angoscia/delusione,871
-V006,incontro maschile,626
-V006,iniziativa/piano,1687
-V006,angoscia/delusione,2094
-V006,partenza/sparizione,666
-V006,iniziativa/piano,518
-V006,angoscia/delusione,1177
-V006,incontro femminile,4657
-V006,iniziativa/piano,1889
-V006,visione,795
-V006,partenza/sparizione,293
-V006,angoscia/delusione,2232
-V006,iniziativa/piano,475
-V006,partenza/sparizione,1298
-V006,aggressione/scontro,1284
-V006,angoscia/delusione,949
-V006,fuga,1105
-V006,angoscia/delusione,984
-V006,illusione/speranza,2713
-V006,struttura,168428
-V006,viaggio,2880
-V006,incontro femminile,3523
-V006,riflessione,1435
-V006,iniziativa/piano,4418
-V006,incontro femminile,575
-V006,iniziativa/piano,284
-V006,incontro maschile,7035
-V006,iniziativa/piano,82
-V006,incontro maschile,4967
-V006,viaggio,1188
-V006,incontro maschile,4789
-V006,iniziativa/piano,866
-V006,incontro maschile,4075
-V006,iniziativa/piano,794
-V006,incontro di gruppo,9120
-V006,iniziativa/piano,1013
-V006,iniziativa/piano,988
-V006,incontro maschile,4882
-V006,incontro femminile,914
-V006,inseguimento/ricerca,1206
-V006,incontro femminile,1442
-V006,inseguimento/ricerca,1093
-V006,incontro maschile,3917
-V006,incontro maschile,6261
-V006,incontro maschile,16457
-V006,inseguimento/ricerca,496
-V006,partenza/sparizione,163
-V006,inseguimento/ricerca,1622
-V006,incontro femminile,2304
-V006,incontro femminile,1441
-V006,incontro maschile,5984
-V006,incontro di gruppo,9471
-V006,partenza/sparizione,2353
-V006,aggressione/scontro,1720
-V006,attesa,4013
-V006,incontro maschile,1068
-V006,incontro maschile,929
-V006,incontro femminile,4117
-V006,scena erotica,1189
-V006,aggressione/scontro,2645
-V006,aggressione/scontro,1525
-V006,incontro maschile,6535
-V006,inseguimento/ricerca,1784
-V006,incontro maschile,1483
-V006,incontro femminile,471
-V006,rivelazione,697
-V006,iniziativa/piano,968
-V006,incontro maschile,7031
-V006,rivelazione,2136
-V006,attesa,1428
-V006,incontro di gruppo,2915
-V006,scena erotica,357
-V006,partenza/sparizione,1158
-V006,incontro maschile,2785
-V006,aggressione/scontro,6975
-V006,attesa,1200
-V006,aggressione/scontro,5155
-V006,viaggio,1482
-V006,attesa,1816
-V006,struttura,101390
-V006,arrivo,1410
-V006,incontro maschile,2637
-V006,incontro femminile,2209
-V006,rivelazione,316
-V006,attesa,666
-V006,angoscia/delusione,1102
-V006,aggressione/scontro,1451
-V006,smarrimento/dubbio,1880
-V006,incontro femminile,5270
-V006,angoscia/delusione,1636
-V006,incontro maschile,3510
-V006,rivelazione,1873
-V006,pausa/sospensione,2869
-V006,scena erotica,1388
-V006,incontro di gruppo,3971
-V006,angoscia/delusione,6005
-V006,incontro maschile,385
-V006,incontro maschile,2013
-V006,incontro maschile,1716
-V006,iniziativa/piano,115
-V006,incontro maschile,2069
-V006,angoscia/delusione,1669
-V006,incontro maschile,2383
-V006,rivelazione,713
-V006,fallimento,211
-V006,incontro femminile,2670
-V006,inseguimento/ricerca,1190
-V006,aggressione/scontro,525
-V006,rivelazione,483
-V006,compito/missione,1970
-V006,fallimento,3938
-V006,compito/missione,528
-V006,fallimento,1848
-V006,angoscia/delusione,679
-V006,compito/missione,34
-V006,successo,1061
-V006,angoscia/delusione,2597
-V006,telefonata,4655
-V006,illusione/speranza,281
-V006,ostacolo,729
-V006,aggressione/scontro,448
-V006,angoscia/delusione,596
-V006,angoscia/delusione,813
-V006,smarrimento/dubbio,2390
-V006,incontro maschile,1224
-V006,angoscia/delusione,1126
-V006,incontro di gruppo,1500
-V006,angoscia/delusione,1223
-V006,iniziativa/piano,620
-V006,fallimento,461
-V006,successo,994
-V006,incontro femminile,793
-V006,smarrimento/dubbio,3454
-V006,telefonata,235
-V006,incontro femminile,514
-V006,smarrimento/dubbio,437
-V006,iniziativa/piano,406
-V006,smarrimento/dubbio,1030
-V006,illusione/speranza,1703
-V006,rivelazione,1363
-V006,angoscia/delusione,1458
-V006,illusione/speranza,157
-V006,smarrimento/dubbio,894
-V006,scena erotica,1271
-V006,compito/missione,659
-V006,fallimento,1313
-V006,rivelazione,1200
-V006,incontro maschile,2530
-V006,riflessione,1329
-V006,viaggio,992
-V006,rivelazione,1957
-V006,angoscia/delusione,709
-V006,smarrimento/dubbio,272
-V006,riflessione,2129
-V006,incontro maschile,7199
-V006,smarrimento/dubbio,2384
-V006,riflessione,929
-V006,incontro di gruppo,1754
-V006,aggressione/scontro,961
-V006,incontro femminile,6043
-V006,angoscia/delusione,766
-V006,aggressione/scontro,575
-V006,angoscia/delusione,167
-V006,smarrimento/dubbio,1274
-V006,incontro maschile,1048
-V006,aggressione/scontro,690
-V006,smarrimento/dubbio,554
-V006,riflessione,2942
-V006,incontro maschile,4644
-V006,incontro di gruppo,324
-V006,smarrimento/dubbio,819
-V006,angoscia/delusione,556
-V006,aggressione/scontro,1841
-V006,iniziativa/piano,569
-V006,angoscia/delusione,2464
-V006,fallimento,722
-V006,smarrimento/dubbio,478
-V006,rivelazione,1564
-V006,illusione/speranza,1353
-V006,inseguimento/ricerca,628
-V006,viaggio,1036
-V006,illusione/speranza,1491
-V007,,
 V007,illusione/speranza,2217
 V007,angoscia/delusione,2530
 V007,illusione/speranza,1279
@@ -2069,16 +212,10 @@ V007,iniziativa/piano,541
 V007,angoscia/delusione,338
 V007,illusione/speranza,783
 V007,angoscia/delusione,2771
-V007,iniziativa/piano,491
 V007,incontro di gruppo,4466
-V007,illusione/speranza,1568
-V007,angoscia/delusione,2405
 V007,illusione/speranza,2013
 V007,angoscia/delusione,935
 V007,incontro maschile,559
-V007,iniziativa/piano,1045
-V007,illusione/speranza,5069
-V007,angoscia/delusione,2365
 V007,illusione/speranza,272
 V007,fallimento,590
 V007,angoscia/delusione,2372
@@ -2087,21 +224,14 @@ V007,angoscia/delusione,1015
 V007,visione,1403
 V007,angoscia/delusione,1012
 V007,incontro di gruppo,1412
-V007,angoscia/delusione,654
 V007,incontro maschile,1444
-V007,angoscia/delusione,696
 V007,incontro di gruppo,2878
-V007,angoscia/delusione,1063
 V007,angoscia/delusione,871
 V007,incontro maschile,626
-V007,iniziativa/piano,1687
-V007,angoscia/delusione,2094
 V007,partenza/sparizione,666
 V007,iniziativa/piano,518
 V007,angoscia/delusione,1177
 V007,incontro femminile,4657
-V007,iniziativa/piano,1889
-V007,visione,795
 V007,partenza/sparizione,293
 V007,angoscia/delusione,2232
 V007,iniziativa/piano,475
@@ -2111,112 +241,52 @@ V007,angoscia/delusione,949
 V007,fuga,1105
 V007,angoscia/delusione,984
 V007,illusione/speranza,2713
-V008,,
-V008,incontro maschile,493
 V008,incontro di gruppo,5013
-V008,incontro maschile,452
-V008,incontro maschile,393
-V008,incontro maschile,545
-V008,incontro maschile,2466
 V008,smarrimento/dubbio,9397
-V008,incontro maschile,370
-V008,incontro maschile,1171
-V008,incontro maschile,3157
 V008,smarrimento/dubbio,4100
 V008,smarrimento/dubbio,1499
 V008,smarrimento/dubbio,2184
 V008,incontro maschile,11339
-V008,smarrimento/dubbio,2030
-V008,smarrimento/dubbio,1594
-V008,smarrimento/dubbio,421
-V008,smarrimento/dubbio,2039
-V008,smarrimento/dubbio,1246
-V008,smarrimento/dubbio,873
-V008,smarrimento/dubbio,1756
-V008,partenza/sparizione,591
 V008,cornice,2652
 V008,smarrimento/dubbio,1316
 V008,aggressione/scontro,4497
-V008,inseguimento/ricerca,536
-V008,inseguimento/ricerca,821
-V008,inseguimento/ricerca,1937
 V008,smarrimento/dubbio,1636
 V008,aggressione/scontro,2294
-V008,incontro maschile,-59866
-V008,partenza/sparizione,355
-V008,inseguimento/ricerca,1934
-V008,rivelazione,2016
+V008,incontro maschile,6003
 V008,cornice,1855
 V008,compito/missione,5546
-V008,incontro maschile,2848
-V008,smarrimento/dubbio,1051
-V008,smarrimento/dubbio,772
 V008,compito/missione,5748
-V008,smarrimento/dubbio,819
-V008,smarrimento/dubbio,489
-V008,smarrimento/dubbio,861
-V008,smarrimento/dubbio,1398
 V008,compito/missione,2022
 V008,cornice,954
 V008,incontro femminile,2155
-V008,aggressione/scontro,1343
 V008,incontro maschile,3971
 V008,cornice,1984
 V008,incontro di gruppo,17795
-V008,rivelazione,608
-V008,rivelazione,406
-V008,rivelazione,6292
-V008,compito/missione,723
-V008,compito/missione,2171
 V008,partenza/sparizione,1032
 V008,partenza/sparizione,1140
 V008,partenza/sparizione,917
 V008,partenza/sparizione,462
 V008,cornice,1077
 V008,viaggio,3953
-V008,inseguimento/ricerca,949
-V008,inseguimento/ricerca,588
-V008,inseguimento/ricerca,326
 V008,incontro femminile,742
 V008,incontro maschile,1585
-V008,rivelazione,896
 V008,aggressione/scontro,480
 V008,incontro femminile,3798
 V008,smarrimento/dubbio,2225
-V008,incontro femminile,588
-V008,incontro femminile,150
-V008,incontro femminile,727
 V008,incontro femminile,7563
-V008,fuga,478
-V008,fuga,488
-V008,fuga,987
-V008,fuga,1427
-V008,fuga,877
-V008,fuga,429
-V008,fuga,701
 V008,partenza/sparizione,449
 V008,cornice,4343
 V008,viaggio,1797
-V008,incontro maschile,1102
-V008,partenza/sparizione,68
 V008,viaggio,1117
-V008,aggressione/scontro,757
-V008,viaggio,441
-V008,viaggio,1076
 V008,incontro di gruppo,2181
-V008,compito/missione,882
 V008,incontro femminile,1393
 V008,partenza/sparizione,572
 V008,viaggio,620
 V008,inseguimento/ricerca,1260
 V008,incontro di gruppo,13086
-V008,compito/missione,587
-V008,smarrimento/dubbio,5191
-V008,aggressione/scontro,3930
 V008,partenza/sparizione,210
 V008,smarrimento/dubbio,252
 V008,incontro femminile,1966
-V008,scena erotica,360
 V008,rivelazione,533
 V008,partenza/sparizione,132
 V008,partenza/sparizione,131
@@ -2224,29 +294,19 @@ V008,rivelazione,2573
 V008,inseguimento/ricerca,2183
 V008,aggressione/scontro,1343
 V008,incontro femminile,3509
-V008,scena erotica,2295
 V008,inseguimento/ricerca,367
 V008,inseguimento/ricerca,574
 V008,inseguimento/ricerca,351
 V008,incontro maschile,489
 V008,incontro di gruppo,2225
 V008,cornice,3155
-V008,incontro maschile,915
-V009,,
 V009,viaggio,564
-V009,riflessione,2482
 V009,riflessione,4620
-V009,riflessione,2133
 V009,arrivo,284
-V009,riflessione,2485
 V009,riflessione,5443
-V009,riflessione,2957
 V009,riflessione,4524
 V009,incontro di gruppo,621
-V009,riflessione,4360
 V009,riflessione,6509
-V009,riflessione,1145
-V009,riflessione,1002
 V009,incontro di gruppo,2031
 V009,riflessione,2131
 V009,incontro maschile,801
@@ -2254,67 +314,22 @@ V009,riflessione,1413
 V009,aggressione/scontro,1613
 V009,riflessione,1640
 V009,aggressione/scontro,5637
-V009,riflessione,425
-V009,riflessione,316
-V009,riflessione,197
-V009,riflessione,380
-V009,riflessione,310
-V009,riflessione,366
-V009,riflessione,244
-V009,riflessione,263
-V009,riflessione,378
-V009,riflessione,4414
 V009,riflessione,8188
-V009,riflessione,1164
-V009,riflessione,2608
 V009,compito/missione,890
-V009,riflessione,2250
-V009,incontro femminile,654
-V009,riflessione,468
 V009,riflessione,1675
 V009,aggressione/scontro,4632
-V009,riflessione,611
 V009,pausa/sospensione,940
-V009,riflessione,4897
 V009,incontro maschile,6571
-V009,riflessione,1182
-V009,incontro maschile,430
-V009,riflessione,844
-V009,riflessione,890
 V009,pausa/sospensione,20398
-V009,riflessione,2314
-V009,riflessione,1978
-V009,telefonata,2812
-V009,aggressione/scontro,895
-V009,riflessione,2166
-V009,telefonata,2913
-V009,aggressione/scontro,1449
-V009,riflessione,420
-V009,telefonata,4081
-V009,aggressione/scontro,2623
-V009,riflessione,1937
-V009,telefonata,1049
 V009,incontro maschile,5807
-V009,riflessione,1289
 V009,aggressione/scontro,6859
-V009,riflessione,1387
-V009,riflessione,520
 V009,incontro maschile,1696
-V009,riflessione,2304
 V009,incontro femminile,3964
-V009,riflessione,864
-V009,riflessione,2299
-V009,telefonata,2919
 V009,pausa/sospensione,2919
-V009,aggressione/scontro,1260
 V009,incontro femminile,2432
-V009,riflessione,1143
 V009,riflessione,1262
 V009,incontro maschile,2498
-V009,riflessione,356
-V009,riflessione,345
 V009,riflessione,1027
-V010,,
 V010,viaggio,2880
 V010,incontro femminile,3523
 V010,riflessione,1435
@@ -2333,41 +348,21 @@ V010,incontro di gruppo,9120
 V010,iniziativa/piano,1013
 V010,iniziativa/piano,988
 V010,incontro maschile,4882
-V010,incontro femminile,914
-V010,inseguimento/ricerca,1206
-V010,incontro femminile,1442
-V010,inseguimento/ricerca,1093
-V010,incontro maschile,3917
 V010,incontro maschile,6261
 V010,incontro maschile,16457
-V010,inseguimento/ricerca,496
-V010,partenza/sparizione,163
-V010,inseguimento/ricerca,1622
-V010,incontro femminile,2304
-V010,incontro femminile,1441
-V010,incontro maschile,5984
 V010,incontro di gruppo,9471
-V010,partenza/sparizione,2353
-V010,aggressione/scontro,1720
 V010,attesa,4013
 V010,incontro maschile,1068
 V010,incontro maschile,929
 V010,incontro femminile,4117
-V010,scena erotica,1189
 V010,aggressione/scontro,2645
 V010,aggressione/scontro,1525
 V010,incontro maschile,6535
-V010,inseguimento/ricerca,1784
-V010,incontro maschile,1483
-V010,incontro femminile,471
 V010,rivelazione,697
 V010,iniziativa/piano,968
 V010,incontro maschile,7031
-V010,rivelazione,2136
 V010,attesa,1428
 V010,incontro di gruppo,2915
-V010,scena erotica,357
-V010,partenza/sparizione,1158
 V010,incontro maschile,2785
 V010,aggressione/scontro,6975
 V010,attesa,1200
@@ -2375,1451 +370,75 @@ V010,aggressione/scontro,5155
 V010,viaggio,1482
 V010,attesa,1816
 V010,incontro maschile,2637
-V010,rivelazione,316
 V010,attesa,666
 V010,aggressione/scontro,1451
 V010,incontro femminile,5270
-V010,scena erotica,1388
 V010,incontro di gruppo,3971
 V010,incontro maschile,385
 V010,incontro maschile,2013
-V010,incontro maschile,1716
 V010,iniziativa/piano,115
 V010,incontro maschile,2069
 V010,angoscia/delusione,211
-V011,,
 V011,struttura,6505
-V011,iniziativa/piano,1834
-V011,illusione/speranza,1479
-V011,incontro maschile,705
-V011,illusione/speranza,760
-V011,ostacolo,1191
-V011,fallimento,516
 V011,struttura,14003
-V011,iniziativa/piano,1603
-V011,illusione/speranza,296
-V011,fallimento,2176
-V011,illusione/speranza,410
 V011,struttura,103087
-V011,ostacolo,1811
-V011,incontro maschile,496
-V011,incontro maschile,969
-V011,illusione/speranza,112
-V011,ostacolo,1460
-V011,illusione/speranza,274
-V011,ostacolo,-1234
-V011,incontro maschile,239
-V011,illusione/speranza,258
-V011,ostacolo,344
-V011,incontro maschile,1204
-V011,incontro maschile,401
-V011,illusione/speranza,347
-V011,fallimento,792
 V011,struttura,4278
-V011,illusione/speranza,795
-V011,incontro maschile,327
-V011,illusione/speranza,771
-V011,terna,294
-V011,iniziativa/piano,466
-V011,illusione/speranza,270
-V011,missione dei bambini,315
-V011,fallimento,1305
 V011,struttura,8741
-V011,illusione/speranza,2086
-V011,compito/missione,546
-V011,incontro maschile,1106
-V011,ostacolo,656
-V011,illusione/speranza,1329
-V011,incontro maschile,358
-V011,illusione/speranza,384
-V011,ostacolo,255
-V011,incontro maschile,771
-V011,terna,146
-V011,terna,180
-V011,fallimento,1212
 V011,struttura,8053
-V011,incontro maschile,858
-V011,iniziativa/piano,1513
-V011,illusione/speranza,1063
-V011,incontro maschile,134
-V011,illusione/speranza,2011
-V011,missione dei bambini,147
-V011,fallimento,2300
 V011,struttura,7838
-V011,compito/missione,222
-V011,ostacolo,1498
-V011,incontro maschile,524
-V011,illusione/speranza,648
-V011,missione dei bambini,953
-V011,fallimento,3954
 V011,struttura,7069
-V011,illusione/speranza,755
-V011,angoscia/delusione,627
-V011,illusione/speranza,840
-V011,angoscia/delusione,590
-V011,illusione/speranza,242
-V011,angoscia/delusione,1737
-V011,incontro maschile,772
-V011,iniziativa/piano,446
-V011,incontro femminile,510
-V011,fallimento,527
 V011,struttura,5431
-V011,iniziativa/piano,1070
-V011,ostacolo,255
-V011,missione dei bambini,1584
-V011,illusione/speranza,483
-V011,incontro maschile,2010
-V011,terna,348
-V011,terna,279
-V011,tema,627
-V011,successo,218
 V011,struttura,7594
-V011,compito/missione,1154
-V011,illusione/speranza,2320
-V011,angoscia/delusione,639
-V011,incontro maschile,1692
-V011,fallimento,1773
 V011,struttura,8752
-V011,iniziativa/piano,2402
-V011,partenza/sparizione,2200
-V011,inseguimento/ricerca,722
-V011,incontro maschile,197
-V011,illusione/speranza,1556
-V011,angoscia/delusione,1645
 V011,struttura,16872
-V011,iniziativa/piano,4023
-V011,illusione/speranza,2025
-V011,compito/missione,857
-V011,rivelazione,653
-V011,missione dei bambini,2362
-V011,inseguimento/ricerca,738
-V011,angoscia/delusione,1789
-V011,illusione/speranza,538
-V011,angoscia/delusione,1638
-V011,rivelazione,423
-V011,angoscia/delusione,1105
-V011,iniziativa/piano,336
-V011,fallimento,351
 V011,struttura,13030
-V011,illusione/speranza,2527
-V011,smarrimento/dubbio,2435
-V011,incontro maschile,994
-V011,smarrimento/dubbio,2571
-V011,angoscia/delusione,1162
-V011,illusione/speranza,576
-V011,angoscia/delusione,129
-V011,incontro maschile,580
-V011,illusione/speranza,1434
-V011,rivelazione,592
-V011,angoscia/delusione,1273
-V011,iniziativa/piano,535
-V011,illusione/speranza,2257
-V011,incontro maschile,1544
-V011,fallimento,147
 V011,struttura,10513
-V011,angoscia/delusione,2165
-V011,illusione/speranza,630
-V011,angoscia/delusione,1715
-V011,missione dei bambini,1177
-V011,illusione/speranza,2205
-V011,angoscia/delusione,1011
-V011,iniziativa/piano,1110
-V011,fallimento,480
 V011,struttura,12518
-V011,compito/missione,411
-V011,angoscia/delusione,1987
-V011,illusione/speranza,912
-V011,iniziativa/piano,143
-V011,incontro maschile,553
-V011,illusione/speranza,2612
-V011,incontro maschile,571
-V011,angoscia/delusione,407
-V011,incontro maschile,303
-V011,illusione/speranza,1211
-V011,incontro maschile,562
-V011,compito/missione,138
-V011,angoscia/delusione,538
-V011,fallimento,2134
 V011,struttura,10606
-V011,angoscia/delusione,3280
-V011,illusione/speranza,1490
-V011,smarrimento/dubbio,821
-V011,angoscia/delusione,864
-V011,fuga,1538
-V011,angoscia/delusione,816
-V011,fuga,1765
 V011,struttura,12414
-V011,missione dei bambini,3606
-V011,illusione/speranza,665
-V011,iniziativa/piano,1424
-V011,ostacolo,880
-V011,aggressione/scontro,675
-V011,incontro maschile,138
-V011,fuga,1095
-V011,smarrimento/dubbio,3894
 V011,struttura,6089
-V011,smarrimento/dubbio,1685
-V011,visione,1878
-V011,incontro maschile,1322
-V011,compito/missione,1007
-V011,angoscia/delusione,170
 V011,struttura,20899
-V011,incontro maschile,4140
-V011,rivelazione,1979
-V011,iniziativa/piano,1590
-V011,partenza/sparizione,638
-V011,inseguimento/ricerca,1504
-V011,rivelazione,563
-V011,aggressione/scontro,957
-V011,incontro di gruppo,4826
-V011,incontro femminile,3104
-V011,mistero/assurdità,1558
 V011,struttura,15228
-V011,iniziativa/piano,2825
-V011,illusione/speranza,702
-V011,compito/missione,593
-V011,illusione/speranza,190
-V011,angoscia/delusione,2536
-V011,iniziativa/piano,405
-V011,angoscia/delusione,3015
-V011,partenza/sparizione,295
-V011,missione dei bambini,1501
-V011,terna,242
-V011,terna,214
-V011,terna,344
-V011,angoscia/delusione,474
-V011,visione,2658
-V012,,
 V012,struttura,101372
-V012,arrivo,1410
-V012,incontro femminile,2209
-V012,angoscia/delusione,1102
-V012,smarrimento/dubbio,1880
-V012,incontro maschile,3510
-V012,angoscia/delusione,1636
-V012,rivelazione,1873
-V012,pausa/sospensione,2869
-V012,angoscia/delusione,6005
-V012,incontro maschile,2383
-V012,angoscia/delusione,1669
-V012,rivelazione,713
-V012,incontro femminile,2670
-V012,inseguimento/ricerca,1190
-V012,aggressione/scontro,525
-V012,rivelazione,483
-V012,compito/missione,1970
-V012,fallimento,3938
-V012,compito/missione,528
-V012,fallimento,1848
-V012,angoscia/delusione,679
-V012,compito/missione,34
-V012,successo,1061
-V012,telefonata,4655
-V012,angoscia/delusione,2597
-V012,illusione/speranza,281
-V012,ostacolo,729
-V012,aggressione/scontro,448
-V012,angoscia/delusione,596
-V012,angoscia/delusione,813
-V012,smarrimento/dubbio,2390
-V012,incontro maschile,1224
-V012,angoscia/delusione,1126
-V012,incontro di gruppo,1500
-V012,angoscia/delusione,1223
-V012,iniziativa/piano,620
-V012,fallimento,461
-V012,successo,994
-V012,incontro femminile,793
-V012,smarrimento/dubbio,3454
-V012,telefonata,235
-V012,incontro femminile,514
-V012,smarrimento/dubbio,437
-V012,iniziativa/piano,406
-V012,smarrimento/dubbio,1030
-V012,illusione/speranza,1703
-V012,rivelazione,1363
-V012,angoscia/delusione,1458
-V012,illusione/speranza,157
-V012,smarrimento/dubbio,894
-V012,scena erotica,1271
-V012,compito/missione,659
-V012,fallimento,1313
-V012,incontro maschile,2530
-V012,rivelazione,1200
-V012,riflessione,1329
-V012,viaggio,992
-V012,rivelazione,1957
-V012,angoscia/delusione,709
-V012,smarrimento/dubbio,272
-V012,incontro maschile,7199
-V012,riflessione,2129
-V012,smarrimento/dubbio,2384
-V012,riflessione,929
-V012,incontro di gruppo,1754
-V012,incontro femminile,6043
-V012,aggressione/scontro,961
-V012,angoscia/delusione,766
-V012,aggressione/scontro,575
-V012,angoscia/delusione,167
-V012,smarrimento/dubbio,1274
-V012,incontro maschile,1048
-V012,aggressione/scontro,690
-V012,smarrimento/dubbio,554
-V012,incontro maschile,4644
-V012,riflessione,2942
-V012,incontro di gruppo,324
-V012,smarrimento/dubbio,819
-V012,angoscia/delusione,556
-V012,aggressione/scontro,1841
-V012,iniziativa/piano,569
-V012,angoscia/delusione,2464
-V012,fallimento,722
-V012,smarrimento/dubbio,478
-V012,rivelazione,1564
-V012,illusione/speranza,1353
-V012,inseguimento/ricerca,628
-V012,viaggio,1036
-V012,illusione/speranza,1491
-V012,illusione/speranza,2217
 V012,struttura,71831
-V012,angoscia/delusione,2530
-V012,illusione/speranza,1279
-V012,incontro di gruppo,1562
-V012,partenza/sparizione,224
-V012,rivelazione,1608
-V012,angoscia/delusione,4811
-V012,iniziativa/piano,541
-V012,angoscia/delusione,338
-V012,illusione/speranza,783
-V012,angoscia/delusione,2771
-V012,incontro di gruppo,4466
-V012,iniziativa/piano,491
-V012,illusione/speranza,1568
-V012,angoscia/delusione,2405
-V012,illusione/speranza,2013
-V012,angoscia/delusione,935
-V012,incontro maschile,559
-V012,iniziativa/piano,1045
-V012,illusione/speranza,5069
-V012,angoscia/delusione,2365
-V012,illusione/speranza,272
-V012,fallimento,590
-V012,angoscia/delusione,2372
-V012,smarrimento/dubbio,644
-V012,angoscia/delusione,1015
-V012,visione,1403
-V012,angoscia/delusione,1012
-V012,incontro di gruppo,1412
-V012,angoscia/delusione,654
-V012,incontro maschile,1444
-V012,angoscia/delusione,696
-V012,incontro di gruppo,2878
-V012,angoscia/delusione,1063
-V012,angoscia/delusione,871
-V012,incontro maschile,626
-V012,iniziativa/piano,1687
-V012,angoscia/delusione,2094
-V012,partenza/sparizione,666
-V012,iniziativa/piano,518
-V012,angoscia/delusione,1177
-V012,incontro femminile,4657
-V012,iniziativa/piano,1889
-V012,visione,795
-V012,partenza/sparizione,293
-V012,angoscia/delusione,2232
-V012,iniziativa/piano,475
-V012,partenza/sparizione,1298
-V012,aggressione/scontro,1284
-V012,angoscia/delusione,949
-V012,fuga,1105
-V012,angoscia/delusione,984
-V012,illusione/speranza,2713
-V013,,
-V013,cornice,228
 V013,struttura,29710
-V013,racconto incastonato,29481
-V013,situazione,5432
-V013,compito/missione,1898
-V013,incontro maschile,1906
-V013,incontro femminile,638
-V013,partenza/sparizione,2479
-V013,angoscia/delusione,3097
-V013,inseguimento/ricerca,2625
-V013,rivelazione,591
-V013,inseguimento/ricerca,3592
-V013,attesa,2737
-V013,partenza/sparizione,4474
-V013,cornice,373
 V013,struttura,19444
-V013,racconto incastonato,19069
-V013,situazione,2231
-V013,rivelazione,4739
-V013,inseguimento/ricerca,4069
-V013,partenza/sparizione,2795
-V013,cambiamento,1691
-V013,partenza/sparizione,2053
-V013,mistero/assurdità,392
-V013,cambiamento,1092
-V013,cornice,137
 V013,struttura,19215
-V013,racconto incastonato,19075
-V013,situazione,3089
-V013,attesa,1056
-V013,angoscia/delusione,4169
-V013,rivelazione,729
-V013,incontro maschile,1123
-V013,compito/missione,1191
-V013,angoscia/delusione,2542
-V013,iniziativa/piano,641
-V013,illusione/speranza,827
-V013,cambiamento,976
-V013,angoscia/delusione,2722
-V013,cornice,363
 V013,struttura,9472
-V013,racconto incastonato,9106
-V013,situazione,2978
-V013,illusione/speranza,2560
-V013,innamoramento,1311
-V013,cambiamento,2254
-V013,cornice,461
 V013,struttura,18933
-V013,racconto incastonato,18469
-V013,situazione,2267
-V013,inseguimento/ricerca,1088
-V013,incontro femminile,2690
-V013,cambiamento,1603
-V013,partenza/sparizione,1021
-V013,inseguimento/ricerca,1169
-V013,incontro femminile,618
-V013,cambiamento,2810
-V013,partenza/sparizione,594
-V013,inseguimento/ricerca,1536
-V013,incontro femminile,1400
-V013,partenza/sparizione,1662
-V013,cornice,488
 V013,struttura,11673
-V013,racconto incastonato,11182
-V013,situazione,2047
-V013,cambiamento,849
-V013,rivelazione,1204
-V013,iniziativa/piano,1756
-V013,cambiamento,1722
-V013,inseguimento/ricerca,3599
-V013,cornice,211
 V013,struttura,21379
-V013,racconto incastonato,21165
-V013,situazione,1924
-V013,incontro maschile,4476
-V013,incontro femminile,1910
-V013,incontro di gruppo,3774
-V013,angoscia/delusione,1203
-V013,incontro di gruppo,3854
-V013,partenza/sparizione,100
-V013,inseguimento/ricerca,393
-V013,angoscia/delusione,1517
-V013,partenza/sparizione,2005
-V013,cornice,571
 V013,struttura,16942
-V013,racconto incastonato,16368
-V013,situazione,2548
-V013,cambiamento,225
-V013,scommessa,2276
-V013,cambiamento,226
-V013,scommessa,1202
-V013,cambiamento,256
-V013,scommessa,1227
-V013,angoscia/delusione,5765
-V013,mistero/assurdità,1086
-V013,angoscia/delusione,1549
-V013,cornice,379
 V013,struttura,32526
-V013,racconto incastonato,32144
-V013,situazione,1518
-V013,cambiamento,192
-V013,incontro di gruppo,1011
-V013,incontro femminile,1075
-V013,angoscia/delusione,514
-V013,incontro di gruppo,764
-V013,angoscia/delusione,2837
-V013,incontro femminile,1105
-V013,incontro maschile,2121
-V013,aggressione/scontro,1490
-V013,cambiamento,1103
-V013,angoscia/delusione,1093
-V013,incontro femminile,1263
-V013,rivelazione,1431
-V013,angoscia/delusione,1885
-V013,rivelazione,1052
-V013,cambiamento,629
-V013,incontro femminile,1034
-V013,rivelazione,1082
-V013,angoscia/delusione,2115
-V013,cambiamento,812
-V013,incontro femminile,876
-V013,incontro femminile,881
-V013,incontro femminile,987
-V013,cambiamento,319
-V013,incontro femminile,551
-V013,partenza/sparizione,1291
-V013,incontro maschile,1086
-V013,mistero/assurdità,90
-V013,cornice,174
 V013,struttura,20385
-V013,racconto incastonato,20210
-V013,situazione,1191
-V013,incontro femminile,652
-V013,incontro maschile,1061
-V013,illusione/speranza,1863
-V013,angoscia/delusione,1315
-V013,attesa,658
-V013,aggressione/scontro,1466
-V013,angoscia/delusione,4029
-V013,rivelazione,4458
-V013,aggressione/scontro,1586
-V013,mistero/assurdità,1921
-V013,cornice,313
 V013,struttura,26646
-V013,racconto incastonato,26330
-V013,rivelazione,448
-V013,angoscia/delusione,2687
-V013,iniziativa/piano,1137
-V013,illusione/speranza,1207
-V013,angoscia/delusione,4506
-V013,illusione/speranza,3970
-V013,angoscia/delusione,2441
-V013,illusione/speranza,679
-V013,angoscia/delusione,1560
-V013,illusione/speranza,463
-V013,angoscia/delusione,2215
-V013,iniziativa/piano,3709
-V013,angoscia/delusione,763
-V013,illusione/speranza,535
-V013,cornice,440
 V013,struttura,27744
-V013,racconto incastonato,14327
-V013,terna,14327
-V013,situazione,4605
-V013,rivelazione,504
-V013,incontro femminile,1424
-V013,innamoramento,1860
-V013,angoscia/delusione,1730
-V013,cambiamento,4197
-V013,pausa/sospensione,4844
-V013,terna,4844
-V013,iniziativa/piano,2445
-V013,terna,8121
-V013,illusione/speranza,1804
-V013,incontro di gruppo,1564
-V013,cambiamento,2305
-V014,,
-V014,cornice,931
 V014,struttura,16589
-V014,racconto incastonato,15656
-V014,cambiamento,2065
-V014,incontro femminile,476
-V014,rivelazione,878
-V014,angoscia/delusione,3924
-V014,cambiamento,1964
-V014,angoscia/delusione,978
-V014,cambiamento,903
-V014,angoscia/delusione,2076
-V014,cambiamento,855
-V014,struttura,1528
-V014,cornice,513
 V014,struttura,21352
-V014,racconto incastonato,20837
-V014,situazione,327
-V014,rivelazione,604
-V014,metanarrazione,4242
-V014,partenza/sparizione,334
-V014,inseguimento/ricerca,1532
-V014,angoscia/delusione,2641
-V014,incontro femminile,1702
-V014,fuga,888
-V014,partenza/sparizione,1039
-V014,cambiamento,1071
-V014,angoscia/delusione,455
-V014,attesa,984
-V014,metanarrazione,679
-V014,incontro femminile,1477
-V014,rivelazione,1565
-V014,partenza/sparizione,733
-V014,metanarrazione,548
-V014,cornice,270
 V014,struttura,15759
-V014,racconto incastonato,15487
-V014,situazione,2463
-V014,metanarrazione,783
-V014,incontro femminile,383
-V014,cambiamento,939
-V014,angoscia/delusione,573
-V014,metanarrazione,765
-V014,inseguimento/ricerca,791
-V014,illusione/speranza,737
-V014,metanarrazione,763
-V014,aggressione/scontro,1767
-V014,metanarrazione,1106
-V014,aggressione/scontro,1630
-V014,metanarrazione,2776
-V014,cornice,1058
 V014,struttura,21024
-V014,racconto incastonato,2504
-V014,racconto incastonato,1698
-V014,incontro femminile,1698
-V014,struttura,1350
-V014,racconto incastonato,777
-V014,struttura,1247
-V014,racconto incastonato,1262
-V014,aggressione/scontro,1262
-V014,struttura,1977
-V014,racconto incastonato,2305
-V014,iniziativa/piano,2305
-V014,struttura,1072
-V014,aggressione/scontro,2324
-V014,incontro femminile,1739
-V014,aggressione/scontro,1390
-V014,morte,1379
-V014,struttura,4714
 V014,struttura,27471
-V014,racconto incastonato,1875
-V014,situazione,3395
-V014,struttura,519
-V014,racconto incastonato,6784
-V014,cambiamento,5515
-V014,iniziativa/piano,1268
-V014,struttura,2054
-V014,racconto incastonato,2669
-V014,cambiamento,2669
-V014,struttura,2042
-V014,racconto incastonato,5287
-V014,cambiamento,1604
-V014,rivelazione,756
-V014,visione,2925
-V014,struttura,18942
 V014,struttura,18942
 V014,struttura,9287
-V014,struttura,9287
-V014,situazione,1018
 V014,struttura,27715
-V014,rivelazione,381
-V014,smarrimento/dubbio,1570
-V014,ipotesi,397
-V014,ipotesi,298
-V014,ipotesi,873
-V014,rivelazione,2731
-V014,smarrimento/dubbio,2579
-V014,rivelazione,1548
-V014,smarrimento/dubbio,10165
-V014,ipotesi,4105
-V014,ipotesi,2628
-V014,metanarrazione,653
-V014,iniziativa/piano,3796
-V014,smarrimento/dubbio,2248
-V014,rivelazione,1016
-V014,situazione,2116
 V014,struttura,26498
-V014,metanarrazione,2065
-V014,smarrimento/dubbio,8761
-V014,ipotesi,2167
-V014,ipotesi,2547
-V014,ipotesi,4045
-V014,illusione/speranza,1547
-V014,smarrimento/dubbio,999
-V014,rivelazione,5633
-V014,cambiamento,1622
-V014,smarrimento/dubbio,2345
-V014,ipotesi,1352
-V014,ipotesi,992
-V014,rivelazione,888
-V014,morte,513
-V014,situazione,1201
 V014,struttura,14556
-V014,iniziativa/piano,952
-V014,smarrimento/dubbio,2241
-V014,illusione/speranza,2655
-V014,rivelazione,3105
-V014,smarrimento/dubbio,2541
-V014,illusione/speranza,1855
-V014,situazione,3054
 V014,struttura,22351
-V014,iniziativa/piano,2865
-V014,incontro maschile,2260
-V014,ipotesi,2873
-V014,rivelazione,1961
-V014,smarrimento/dubbio,1823
-V014,iniziativa/piano,2171
-V014,mistero/assurdità,4532
-V014,rivelazione,799
-V015,,
-V015,struttura,29732
 V015,struttura,86718
-V015,cornice,228
-V015,racconto incastonato,29481
-V015,situazione,5432
-V015,compito/missione,1898
-V015,incontro maschile,1906
-V015,incontro femminile,638
-V015,partenza/sparizione,2479
-V015,angoscia/delusione,3097
-V015,inseguimento/ricerca,2625
-V015,rivelazione,591
-V015,inseguimento/ricerca,3592
-V015,attesa,2737
-V015,partenza/sparizione,4474
-V015,struttura,16925
-V015,cornice,603
-V015,situazione,2399
-V015,racconto incastonato,16298
-V015,cambiamento,2137
-V015,angoscia/delusione,910
-V015,illusione/speranza,1261
-V015,angoscia/delusione,192
-V015,incontro maschile,1194
-V015,incontro femminile,408
-V015,incontro maschile,967
-V015,illusione/speranza,437
-V015,aggressione/scontro,1365
-V015,angoscia/delusione,1130
-V015,iniziativa/piano,620
-V015,fuga,515
-V015,cambiamento,2425
-V015,riflessione,324
-V015,struttura,16603
-V015,cornice,931
-V015,cambiamento,2065
-V015,racconto incastonato,15656
-V015,incontro femminile,476
-V015,rivelazione,878
-V015,angoscia/delusione,3924
-V015,cambiamento,1964
-V015,angoscia/delusione,978
-V015,cambiamento,903
-V015,angoscia/delusione,2076
-V015,cambiamento,855
-V015,metanarrazione,1528
-V015,struttura,23452
-V015,cornice,502
-V015,situazione,1843
-V015,racconto incastonato,22927
-V015,angoscia/delusione,1849
-V015,incontro femminile,3228
-V015,inseguimento/ricerca,3187
-V015,pausa/sospensione,1777
-V015,smarrimento/dubbio,380
-V015,aggressione/scontro,1088
-V015,angoscia/delusione,468
-V015,morte,1043
-V015,incontro di gruppo,1322
-V015,viaggio,2556
-V015,mistero/assurdità,1146
-V015,partenza/sparizione,822
-V015,cambiamento,761
-V015,partenza/sparizione,941
-V015,mistero/assurdità,501
-V015,struttura,18946
 V015,struttura,66376
-V015,cornice,461
-V015,situazione,2267
-V015,racconto incastonato,18469
-V015,inseguimento/ricerca,1088
-V015,incontro femminile,2690
-V015,cambiamento,1603
-V015,partenza/sparizione,1021
-V015,inseguimento/ricerca,1169
-V015,incontro femminile,618
-V015,cambiamento,2810
-V015,partenza/sparizione,594
-V015,inseguimento/ricerca,1536
-V015,incontro femminile,1400
-V015,partenza/sparizione,1662
-V015,struttura,17758
-V015,cornice,165
-V015,situazione,1798
-V015,racconto incastonato,17579
-V015,incontro femminile,1216
-V015,compito/missione,1909
-V015,riflessione,1667
-V015,illusione/speranza,1419
-V015,incontro femminile,2744
-V015,innamoramento,1730
-V015,smarrimento/dubbio,1222
-V015,cambiamento,2352
-V015,illusione/speranza,1513
-V015,struttura,15771
-V015,cornice,270
-V015,situazione,2463
-V015,racconto incastonato,15487
-V015,metanarrazione,783
-V015,incontro femminile,383
-V015,cambiamento,939
-V015,angoscia/delusione,573
-V015,metanarrazione,765
-V015,inseguimento/ricerca,791
-V015,illusione/speranza,737
-V015,metanarrazione,763
-V015,aggressione/scontro,1767
-V015,metanarrazione,1106
-V015,aggressione/scontro,1630
-V015,metanarrazione,2776
-V015,struttura,13895
-V015,cornice,204
-V015,situazione,1677
-V015,racconto incastonato,13670
-V015,illusione/speranza,658
-V015,ostacolo,618
-V015,compito/missione,969
-V015,angoscia/delusione,1887
-V015,inseguimento/ricerca,612
-V015,rivelazione,1497
-V015,partenza/sparizione,654
-V015,angoscia/delusione,848
-V015,attesa,354
-V015,iniziativa/piano,428
-V015,inseguimento/ricerca,2694
-V015,ostacolo,132
-V015,angoscia/delusione,629
-V015,struttura,19463
 V015,struttura,64455
-V015,cornice,372
-V015,racconto incastonato,19070
-V015,situazione,2231
-V015,rivelazione,4739
-V015,inseguimento/ricerca,4069
-V015,partenza/sparizione,2795
-V015,cambiamento,1691
-V015,partenza/sparizione,2053
-V015,mistero/assurdità,392
-V015,cambiamento,1092
-V015,struttura,14692
-V015,cornice,853
-V015,situazione,2194
-V015,racconto incastonato,13813
-V015,angoscia/delusione,1888
-V015,illusione/speranza,2316
-V015,ostacolo,1367
-V015,illusione/speranza,744
-V015,ostacolo,756
-V015,angoscia/delusione,1687
-V015,iniziativa/piano,1721
-V015,riflessione,848
-V015,struttura,18603
-V015,cornice,459
-V015,riflessione,1401
-V015,racconto incastonato,18126
-V015,situazione,786
-V015,cambiamento,1590
-V015,riflessione,482
-V015,incontro femminile,1784
-V015,incontro maschile,427
-V015,inseguimento/ricerca,1302
-V015,fallimento,1838
-V015,situazione,785
-V015,angoscia/delusione,882
-V015,incontro maschile,-178708
-V015,rivelazione,1405
-V015,aggressione/scontro,529
-V015,partenza/sparizione,840
-V015,angoscia/delusione,1769
-V015,struttura,11691
-V015,cornice,488
-V015,situazione,2047
-V015,racconto incastonato,11182
-V015,cambiamento,849
-V015,rivelazione,1204
-V015,iniziativa/piano,1756
-V015,cambiamento,1722
-V015,inseguimento/ricerca,3599
-V015,struttura,21396
 V015,struttura,83147
-V015,cornice,211
-V015,situazione,1924
-V015,racconto incastonato,21165
-V015,incontro maschile,4476
-V015,incontro femminile,1910
-V015,incontro di gruppo,3774
-V015,angoscia/delusione,1203
-V015,incontro di gruppo,3854
-V015,partenza/sparizione,100
-V015,inseguimento/ricerca,393
-V015,angoscia/delusione,1517
-V015,partenza/sparizione,2005
-V015,struttura,32538
-V015,cornice,379
-V015,situazione,1518
-V015,racconto incastonato,32144
-V015,cambiamento,192
-V015,incontro di gruppo,1011
-V015,incontro femminile,1075
-V015,angoscia/delusione,514
-V015,incontro di gruppo,764
-V015,angoscia/delusione,2837
-V015,incontro femminile,1105
-V015,incontro maschile,2121
-V015,aggressione/scontro,1490
-V015,cambiamento,1103
-V015,angoscia/delusione,1093
-V015,incontro femminile,1263
-V015,rivelazione,1431
-V015,angoscia/delusione,1885
-V015,rivelazione,1052
-V015,cambiamento,629
-V015,incontro femminile,1034
-V015,rivelazione,1082
-V015,angoscia/delusione,2115
-V015,cambiamento,812
-V015,incontro femminile,876
-V015,incontro femminile,881
-V015,incontro femminile,987
-V015,cambiamento,319
-V015,incontro femminile,551
-V015,partenza/sparizione,1291
-V015,incontro maschile,1086
-V015,mistero/assurdità,90
-V015,struttura,21376
-V015,cornice,513
-V015,situazione,327
-V015,racconto incastonato,20837
-V015,rivelazione,604
-V015,metanarrazione,4242
-V015,partenza/sparizione,334
-V015,inseguimento/ricerca,1532
-V015,angoscia/delusione,2641
-V015,incontro femminile,1702
-V015,fuga,888
-V015,partenza/sparizione,1039
-V015,cambiamento,1071
-V015,angoscia/delusione,455
-V015,attesa,984
-V015,metanarrazione,679
-V015,incontro femminile,1477
-V015,rivelazione,1565
-V015,partenza/sparizione,733
-V015,metanarrazione,548
-V015,struttura,7831
-V015,cornice,324
-V015,situazione,1566
-V015,racconto incastonato,7480
-V015,iniziativa/piano,713
-V015,ostacolo,1195
-V015,fallimento,766
-V015,riflessione,3236
-V015,struttura,13732
 V015,struttura,-300705
-V015,situazione,2827
-V015,rivelazione,1332
-V015,compito/missione,2622
-V015,smarrimento/dubbio,807
-V015,compito/missione,1602
-V015,situazione,1384
-V015,angoscia/delusione,1116
-V015,rivelazione,1082
-V015,morte,931
-V015,struttura,26513
-V015,situazione,2116
-V015,metanarrazione,2065
-V015,ipotesi,2167
-V015,smarrimento/dubbio,8761
-V015,ipotesi,2547
-V015,ipotesi,4045
-V015,illusione/speranza,1547
-V015,smarrimento/dubbio,999
-V015,rivelazione,5633
-V015,cambiamento,1622
-V015,ipotesi,1352
-V015,smarrimento/dubbio,2345
-V015,ipotesi,992
-V015,rivelazione,888
-V015,morte,513
-V015,struttura,14578
-V015,situazione,1201
-V015,iniziativa/piano,952
-V015,smarrimento/dubbio,2241
-V015,illusione/speranza,2655
-V015,rivelazione,3105
-V015,smarrimento/dubbio,2541
-V015,illusione/speranza,1855
-V015,struttura,22370
-V015,situazione,3054
-V015,iniziativa/piano,2865
-V015,incontro maschile,2260
-V015,ipotesi,2873
-V015,rivelazione,1961
-V015,smarrimento/dubbio,1823
-V015,iniziativa/piano,2171
-V015,mistero/assurdità,4532
-V015,rivelazione,799
-V016,,
-V016,arrivo,2549
 V016,cornice,5655
-V016,rivelazione,596
 V016,racconto incastonato,11155
-V016,viaggio,1224
-V016,incontro maschile,842
-V016,aggressione/scontro,842
-V016,incontro femminile,1400
-V016,scena erotica,610
-V016,viaggio,482
-V016,matrimonio,1023
-V016,viaggio,579
-V016,incontro femminile,2110
-V016,aggressione/scontro,526
-V016,incontro femminile,1267
-V016,morte,234
 V016,racconto incastonato,8423
-V016,incontro femminile,441
-V016,incontro maschile,2747
-V016,città magica,1401
-V016,incontro femminile,1180
 V016,racconto incastonato,5076
-V016,incontro femminile,2302
-V016,scena erotica,776
-V016,incontro maschile,1489
-V016,rivelazione,1082
-V016,incontro maschile,465
 V016,racconto incastonato,4142
-V016,viaggio,517
-V016,città magica,940
-V016,incontro maschile,343
-V016,aggressione/scontro,343
 V016,racconto incastonato,8674
-V016,guerra,866
-V016,incontro femminile,327
-V016,viaggio,1565
-V016,rivelazione,929
-V016,incontro femminile,369
 V016,racconto incastonato,6818
-V016,incontro maschile,2474
-V016,incontro maschile,1086
-V016,viaggio,563
-V016,città magica,455
-V016,incontro maschile,1020
 V016,racconto incastonato,8198
-V016,racconto incastonato,3258
-V016,incontro maschile,567
-V016,incontro maschile,298
-V016,città magica,766
-V016,aggressione/scontro,343
-V016,incontro femminile,343
-V016,racconto incastonato,1655
-V016,aggressione/scontro,261
-V016,incontro maschile,261
-V016,rivelazione,281
-V016,città magica,429
-V016,incontro maschile,290
-V016,racconto incastonato,2354
-V016,incontro maschile,1161
-V016,aggressione/scontro,410
-V016,incontro femminile,872
-V016,racconto incastonato,2182
-V016,incontro maschile,1286
-V016,viaggio,452
-V016,incontro femminile,442
-V016,racconto incastonato,1977
-V016,incontro maschile,773
-V016,aggressione/scontro,591
-V016,incontro maschile,591
-V017,,
-V017,struttura,19766
 V017,struttura,236791
-V017,incontro femminile,1943
-V017,iniziativa/piano,1686
-V017,smarrimento/dubbio,293
-V017,iniziativa/piano,524
-V017,iniziativa/piano,696
-V017,iniziativa/piano,1143
-V017,iniziativa/piano,373
-V017,iniziativa/piano,976
-V017,iniziativa/piano,224
-V017,smarrimento/dubbio,1118
-V017,iniziativa/piano,1160
-V017,smarrimento/dubbio,173
-V017,iniziativa/piano,708
-V017,smarrimento/dubbio,687
-V017,angoscia/delusione,1011
-V017,illusione/speranza,846
-V017,iniziativa/piano,1287
-V017,smarrimento/dubbio,490
-V017,iniziativa/piano,590
-V017,angoscia/delusione,1179
-V017,smarrimento/dubbio,483
-V017,iniziativa/piano,585
-V017,scena erotica,1074
-V017,angoscia/delusione,469
-V017,struttura,10616
-V017,fuga,1180
-V017,incontro maschile,2364
-V017,illusione/speranza,983
-V017,incontro femminile,983
-V017,fuga,773
-V017,incontro maschile,2112
-V017,iniziativa/piano,1567
-V017,incontro di gruppo,1273
-V017,partenza/sparizione,334
-V017,struttura,21333
-V017,rivelazione,761
-V017,iniziativa/piano,604
-V017,angoscia/delusione,3166
-V017,illusione/speranza,253
-V017,angoscia/delusione,1217
-V017,smarrimento/dubbio,1349
-V017,incontro di gruppo,1903
-V017,visione,946
-V017,riflessione,1793
-V017,morte,839
-V017,incontro maschile,592
-V017,incontro maschile,476
-V017,smarrimento/dubbio,986
-V017,angoscia/delusione,1275
-V017,riflessione,1096
-V017,aiuto/salvataggio,1397
-V017,illusione/speranza,2326
-V017,angoscia/delusione,440
-V017,struttura,17132
-V017,successo,1450
-V017,iniziativa/piano,1419
-V017,illusione/speranza,344
-V017,incontro di gruppo,742
-V017,angoscia/delusione,407
-V017,illusione/speranza,597
-V017,incontro maschile,579
-V017,incontro femminile,453
-V017,incontro maschile,249
-V017,illusione/speranza,1446
-V017,angoscia/delusione,795
-V017,smarrimento/dubbio,1052
-V017,incontro maschile,2862
-V017,iniziativa/piano,808
-V017,fallimento,623
-V017,angoscia/delusione,376
-V017,angoscia/delusione,960
-V017,illusione/speranza,982
-V017,angoscia/delusione,749
-V017,innamoramento,259
-V017,incontro maschile,999
-V017,angoscia/delusione,501
-V017,telefonata,640
-V017,angoscia/delusione,639
-V017,struttura,26301
-V017,angoscia/delusione,1209
-V017,riflessione,2902
-V017,compito/missione,1287
-V017,fallimento,470
-V017,successo,342
-V017,riflessione,2045
-V017,compito/missione,303
-V017,riflessione,1351
-V017,successo,219
-V017,iniziativa/piano,2265
-V017,iniziativa/piano,1132
-V017,incontro femminile,8123
-V017,smarrimento/dubbio,767
-V017,iniziativa/piano,1549
-V017,smarrimento/dubbio,398
-V017,aggressione/scontro,956
-V017,riflessione,396
-V017,smarrimento/dubbio,580
-V017,iniziativa/piano,691
-V017,scena erotica,1646
-V017,innamoramento,613
-V017,illusione/speranza,1337
-V017,angoscia/delusione,1460
-V017,smarrimento/dubbio,1236
-V017,iniziativa/piano,704
-V017,rivelazione,391
-V017,struttura,30293
-V017,illusione/speranza,1724
-V017,iniziativa/piano,413
-V017,illusione/speranza,1177
-V017,iniziativa/piano,1137
-V017,illusione/speranza,408
-V017,angoscia/delusione,413
-V017,illusione/speranza,3117
-V017,incontro maschile,851
-V017,ostacolo,578
-V017,illusione/speranza,897
-V017,angoscia/delusione,641
-V017,illusione/speranza,1829
-V017,iniziativa/piano,3556
-V017,ostacolo,1118
-V017,illusione/speranza,476
-V017,ostacolo,744
-V017,illusione/speranza,1148
-V017,ostacolo,893
-V017,illusione/speranza,268
-V017,partenza/sparizione,112
-V017,incontro di gruppo,1261
-V017,ostacolo,661
-V017,illusione/speranza,1123
-V017,partenza/sparizione,196
-V017,ostacolo,1133
-V017,incontro maschile,206
-V017,partenza/sparizione,171
-V017,ostacolo,1159
-V017,illusione/speranza,337
-V017,incontro di gruppo,1398
-V017,pausa/sospensione,453
-V017,angoscia/delusione,634
-V017,struttura,29812
-V017,viaggio,3395
-V017,riflessione,1777
-V017,pausa/sospensione,2271
-V017,smarrimento/dubbio,589
-V017,riflessione,749
-V017,incontro femminile,1526
-V017,riflessione,567
-V017,iniziativa/piano,667
-V017,successo,900
-V017,riflessione,1935
-V017,iniziativa/piano,370
-V017,successo,1645
-V017,riflessione,680
-V017,iniziativa/piano,864
-V017,successo,724
-V017,riflessione,487
-V017,iniziativa/piano,765
-V017,successo,1261
-V017,riflessione,226
-V017,iniziativa/piano,315
-V017,successo,395
-V017,riflessione,413
-V017,iniziativa/piano,516
-V017,aggressione/scontro,1683
-V017,riflessione,529
-V017,iniziativa/piano,173
-V017,successo,301
-V017,riflessione,519
-V017,pausa/sospensione,565
-V017,smarrimento/dubbio,1614
-V017,scena erotica,1096
-V017,riflessione,238
-V017,struttura,18975
-V017,angoscia/delusione,1151
-V017,cambiamento,3882
-V017,terna,1204
-V017,terna,1505
-V017,terna,1002
-V017,angoscia/delusione,2312
-V017,illusione/speranza,742
-V017,ritorno,1342
-V017,illusione/speranza,1611
-V017,smarrimento/dubbio,2669
-V017,terna,564
-V017,terna,378
-V017,terna,254
-V017,smarrimento/dubbio,365
-V017,incontro femminile,353
-V017,rivelazione,655
-V017,iniziativa/piano,253
-V017,smarrimento/dubbio,1429
-V017,inseguimento/ricerca,1361
-V017,angoscia/delusione,813
-V017,struttura,14457
-V017,angoscia/delusione,694
-V017,smarrimento/dubbio,-498618
-V017,angoscia/delusione,408
-V017,illusione/speranza,579
-V017,smarrimento/dubbio,2524
-V017,illusione/speranza,816
-V017,incontro maschile,2408
-V017,partenza/sparizione,537
-V017,incontro maschile,2638
-V017,partenza/sparizione,291
-V017,incontro maschile,1205
-V017,partenza/sparizione,527
-V017,riflessione,410
-V017,struttura,7814
-V017,ritorno,358
-V017,incontro maschile,1915
-V017,iniziativa/piano,648
-V017,partenza/sparizione,569
-V017,illusione/speranza,1104
-V017,attesa,664
-V017,incontro femminile,481
-V017,iniziativa/piano,277
-V017,angoscia/delusione,992
-V017,partenza/sparizione,286
-V017,illusione/speranza,485
-V017,struttura,11830
-V017,viaggio,8045
-V017,aggressione/scontro,591
-V017,riflessione,1575
-V017,smarrimento/dubbio,192
-V017,pausa/sospensione,1140
-V017,scena erotica,2502
-V017,incontro di gruppo,1003
-V017,ritorno,714
-V017,angoscia/delusione,3045
-V017,struttura,13850
-V017,attesa,1795
-V017,incontro femminile,1276
-V017,partenza/sparizione,238
-V017,incontro femminile,795
-V017,partenza/sparizione,192
-V017,incontro femminile,722
-V017,partenza/sparizione,139
-V017,incontro femminile,1716
-V017,inseguimento/ricerca,967
-V017,smarrimento/dubbio,629
-V017,incontro femminile,825
-V017,smarrimento/dubbio,815
-V017,iniziativa/piano,1243
-V017,inseguimento/ricerca,678
-V017,smarrimento/dubbio,414
-V017,visione,379
-V017,partenza/sparizione,983
-V017,struttura,14588
-V017,situazione,1201
-V017,iniziativa/piano,952
-V017,smarrimento/dubbio,2241
-V017,illusione/speranza,2655
-V017,rivelazione,3105
-V017,smarrimento/dubbio,2541
-V017,illusione/speranza,1855
-V017,struttura,71852
 V017,struttura,173243
-V017,illusione/speranza,2217
-V017,angoscia/delusione,2530
-V017,illusione/speranza,1279
-V017,incontro di gruppo,1562
-V017,partenza/sparizione,224
-V017,rivelazione,1608
-V017,angoscia/delusione,4811
-V017,iniziativa/piano,541
-V017,angoscia/delusione,338
-V017,illusione/speranza,783
-V017,angoscia/delusione,2771
-V017,iniziativa/piano,491
-V017,incontro di gruppo,4466
-V017,illusione/speranza,1568
-V017,angoscia/delusione,2405
-V017,illusione/speranza,2013
-V017,angoscia/delusione,935
-V017,incontro maschile,559
-V017,iniziativa/piano,1045
-V017,illusione/speranza,5069
-V017,angoscia/delusione,2365
-V017,illusione/speranza,272
-V017,fallimento,590
-V017,angoscia/delusione,2372
-V017,smarrimento/dubbio,644
-V017,angoscia/delusione,1015
-V017,visione,1403
-V017,angoscia/delusione,1012
-V017,incontro di gruppo,1412
-V017,angoscia/delusione,654
-V017,incontro maschile,1444
-V017,angoscia/delusione,696
-V017,incontro di gruppo,2878
-V017,angoscia/delusione,1063
-V017,angoscia/delusione,871
-V017,incontro maschile,626
-V017,iniziativa/piano,1687
-V017,angoscia/delusione,2094
-V017,partenza/sparizione,666
-V017,iniziativa/piano,518
-V017,angoscia/delusione,1177
-V017,incontro femminile,4657
-V017,iniziativa/piano,1889
-V017,visione,795
-V017,partenza/sparizione,293
-V017,angoscia/delusione,2232
-V017,iniziativa/piano,475
-V017,partenza/sparizione,1298
-V017,aggressione/scontro,1284
-V017,angoscia/delusione,949
-V017,fuga,1105
-V017,angoscia/delusione,984
-V017,illusione/speranza,2713
-V017,struttura,101389
-V017,arrivo,1410
-V017,incontro femminile,2209
-V017,angoscia/delusione,1102
-V017,smarrimento/dubbio,1880
-V017,angoscia/delusione,1636
-V017,incontro maschile,3510
-V017,rivelazione,1873
-V017,pausa/sospensione,2869
-V017,angoscia/delusione,6005
-V017,angoscia/delusione,1669
-V017,incontro maschile,2383
-V017,rivelazione,713
-V017,incontro femminile,2670
-V017,inseguimento/ricerca,1190
-V017,aggressione/scontro,525
-V017,rivelazione,483
-V017,compito/missione,1970
-V017,fallimento,3938
-V017,compito/missione,528
-V017,fallimento,1848
-V017,angoscia/delusione,679
-V017,compito/missione,34
-V017,successo,1061
-V017,angoscia/delusione,2597
-V017,telefonata,4655
-V017,illusione/speranza,281
-V017,ostacolo,729
-V017,aggressione/scontro,448
-V017,angoscia/delusione,596
-V017,angoscia/delusione,813
-V017,smarrimento/dubbio,2390
-V017,incontro maschile,1224
-V017,angoscia/delusione,1126
-V017,incontro di gruppo,1500
-V017,angoscia/delusione,1223
-V017,iniziativa/piano,620
-V017,fallimento,461
-V017,successo,994
-V017,incontro femminile,793
-V017,smarrimento/dubbio,3454
-V017,telefonata,235
-V017,incontro femminile,514
-V017,smarrimento/dubbio,437
-V017,iniziativa/piano,406
-V017,smarrimento/dubbio,1030
-V017,illusione/speranza,1703
-V017,rivelazione,1363
-V017,angoscia/delusione,1458
-V017,illusione/speranza,157
-V017,smarrimento/dubbio,894
-V017,scena erotica,1271
-V017,compito/missione,659
-V017,fallimento,1313
-V017,rivelazione,1200
-V017,incontro maschile,2530
-V017,riflessione,1329
-V017,viaggio,992
-V017,rivelazione,1957
-V017,angoscia/delusione,709
-V017,smarrimento/dubbio,272
-V017,riflessione,2129
-V017,incontro maschile,7199
-V017,smarrimento/dubbio,2384
-V017,riflessione,929
-V017,incontro di gruppo,1754
-V017,aggressione/scontro,961
-V017,incontro femminile,6043
-V017,angoscia/delusione,766
-V017,aggressione/scontro,575
-V017,angoscia/delusione,167
-V017,smarrimento/dubbio,1274
-V017,incontro maschile,1048
-V017,aggressione/scontro,690
-V017,smarrimento/dubbio,554
-V017,riflessione,2942
-V017,incontro maschile,4644
-V017,incontro di gruppo,324
-V017,smarrimento/dubbio,819
-V017,angoscia/delusione,556
-V017,aggressione/scontro,1841
-V017,iniziativa/piano,569
-V017,angoscia/delusione,2464
-V017,fallimento,722
-V017,smarrimento/dubbio,478
-V017,rivelazione,1564
-V017,illusione/speranza,1353
-V017,inseguimento/ricerca,628
-V017,viaggio,1036
-V017,illusione/speranza,1491
 V018,cornice,1584
 V018,racconto incastonato,731
 V018,racconto incastonato,765
@@ -3896,922 +515,2782 @@ V018,racconto incastonato,2262
 V018,racconto incastonato,3178
 V018,cornice,1945
 V019,struttura,62830
-V019,cornice,5655
-V019,incontro di gruppo,3312
-V019,rivelazione,596
-V019,iniziativa/piano,1745
-V019,racconto incastonato,11146
-V019,viaggio,2009
-V019,incontro maschile,842
-V019,aggressione/scontro,597
-V019,incontro femminile,1400
-V019,scena erotica,610
-V019,partenza/sparizione,482
-V019,matrimonio,1023
-V019,partenza/sparizione,579
-V019,inseguimento/ricerca,1398
-V019,incontro femminile,2110
-V019,rivelazione,454
-V019,aggressione/scontro,617
-V019,incontro femminile,1267
-V019,morte,234
-V019,racconto incastonato,8414
-V019,incontro femminile,2890
-V019,incontro maschile,2895
-V019,città magica,1401
-V019,incontro femminile,1180
-V019,racconto incastonato,5067
-V019,incontro femminile,3083
-V019,scena erotica,501
-V019,incontro maschile,406
-V019,rivelazione,1082
-V019,incontro maschile,465
-V019,racconto incastonato,4133
-V019,iniziativa/piano,1517
-V019,viaggio,1299
-V019,città magica,940
-V019,incontro maschile,343
-V019,morte,192
-V019,racconto incastonato,8665
-V019,guerra,1390
-V019,incontro femminile,327
-V019,inseguimento/ricerca,1565
-V019,città magica,855
-V019,rivelazione,929
-V019,smarrimento/dubbio,3367
-V019,rivelazione,1045
-V019,incontro maschile,3469
-V019,racconto incastonato,6763
-V019,compito/missione,1001
-V019,incontro maschile,1086
-V019,compito/missione,495
-V019,viaggio,563
-V019,città magica,455
-V019,incontro maschile,1202
-V019,racconto incastonato,12892
-V019,smarrimento/dubbio,896
-V019,racconto incastonato,4155
-V019,città magica,936
-V019,racconto incastonato,936
-V019,incontro maschile,496
-V019,racconto incastonato,496
-V019,racconto incastonato,1824
-V019,città magica,766
-V019,incontro femminile,321
-V019,incontro maschile,934
-V019,racconto incastonato,1655
-V019,aggressione/scontro,415
-V019,città magica,429
-V019,incontro maschile,290
-V019,incontro maschile,1481
-V019,racconto incastonato,2354
-V019,aggressione/scontro,410
-V019,incontro femminile,872
-V019,metanarrazione,540
-V019,incontro maschile,1286
-V019,racconto incastonato,2182
-V019,viaggio,452
-V019,incontro femminile,442
-V019,incontro maschile,962
-V019,racconto incastonato,1977
-V019,matrimonio,460
-V019,incontro maschile,402
-V019,aggressione/scontro,221
-V019,fuga,611
 V019,struttura,98778
-V019,cornice,3231
-V019,arrivo,313
-V019,rivelazione,1335
-V019,iniziativa/piano,1569
-V019,racconto incastonato,14131
-V019,incontro femminile,2074
-V019,viaggio,1692
-V019,incontro maschile,914
-V019,città magica,1160
-V019,incontro maschile,914
-V019,incontro femminile,1232
-V019,smarrimento/dubbio,1485
-V019,rivelazione,1342
-V019,angoscia/delusione,2271
-V019,morte,535
-V019,rivelazione,481
-V019,incontro maschile,481
-V019,racconto incastonato,7653
-V019,metanarrazione,2937
-V019,incontro maschile,1871
-V019,scena erotica,609
-V019,partenza/sparizione,472
-V019,iniziativa/piano,471
-V019,incontro maschile,236
-V019,rivelazione,133
-V019,angoscia/delusione,1078
-V019,morte,545
-V019,racconto incastonato,10854
-V019,metanarrazione,1716
-V019,incontro maschile,1985
-V019,aggressione/scontro,858
-V019,inseguimento/ricerca,776
-V019,rivelazione,2152
-V019,incontro maschile,716
-V019,incontro maschile,1494
-V019,rivelazione,903
-V019,iniziativa/piano,689
-V019,aggressione/scontro,740
-V019,incontro femminile,740
-V019,incontro maschile,1260
-V019,rivelazione,1083
-V019,racconto incastonato,15626
-V019,inseguimento/ricerca,1767
-V019,illusione/speranza,855
-V019,angoscia/delusione,2300
-V019,incontro maschile,614
-V019,incontro femminile,2412
-V019,rivelazione,1497
-V019,rivelazione,3176
-V019,iniziativa/piano,2262
-V019,angoscia/delusione,1399
-V019,morte,803
-V019,racconto incastonato,13787
-V019,smarrimento/dubbio,415
-V019,inseguimento/ricerca,1877
-V019,inseguimento/ricerca,798
-V019,metanarrazione,2446
-V019,incontro maschile,3566
-V019,angoscia/delusione,1108
-V019,viaggio,1104
-V019,incontro maschile,1293
-V019,metanarrazione,1129
-V019,racconto incastonato,20943
-V019,cornice,3789
-V019,racconto incastonato,1019
-V019,racconto incastonato,3016
-V019,racconto incastonato,1376
-V019,metanarrazione,1002
-V019,racconto incastonato,4633
-V019,racconto incastonato,4057
-V019,metanarrazione,2013
-V019,racconto incastonato,12504
-V019,cornice,506
-V019,racconto incastonato,1134
-V019,incontro maschile,466
-V019,racconto incastonato,1181
-V019,incontro femminile,632
-V019,racconto incastonato,1655
-V019,iniziativa/piano,1346
-V019,racconto incastonato,2358
-V019,aggressione/scontro,1011
-V019,racconto incastonato,979
-V019,angoscia/delusione,597
-V019,racconto incastonato,817
-V019,inseguimento/ricerca,211
-V019,angoscia/delusione,359
-V019,racconto incastonato,359
-V019,partenza/sparizione,1309
-V019,racconto incastonato,2341
-V019,angoscia/delusione,662
-V019,aggressione/scontro,1031
-V019,racconto incastonato,713
-V019,partenza/sparizione,264
-V019,angoscia/delusione,415
-V019,racconto incastonato,415
 V021,racconto incastonato,26102
-V021,incontro femminile,19252
 V021,incontro femminile,5179
 V021,racconto incastonato,13648
-V021,incontro femminile,430
-V021,incontro femminile,1348
 V021,incontro femminile,2304
 V021,incontro femminile,2076
 V021,incontro maschile,2946
 V021,incontro maschile,45030
-V021,racconto incastonato,25769
-V021,incontro femminile,2980
-V021,incontro femminile,575
-V021,incontro femminile,894
-V021,incontro maschile,905
 V021,incontro di gruppo,27985
-V021,racconto incastonato,24369
-V021,incontro femminile,5732
-V021,incontro femminile,2252
-V021,incontro femminile,4533
 V021,incontro femminile,3891
-V021,incontro maschile,-158356
-V021,racconto incastonato,609
-V021,racconto incastonato,23022
-V021,incontro femminile,229
-V021,incontro femminile,2725
-V021,racconto incastonato,30413
-V021,incontro femminile,4082
-V021,incontro femminile,852
-V021,incontro femminile,1499
-V021,incontro femminile,945
-V021,incontro femminile,1285
+V021,incontro maschile,65027
 V021,racconto incastonato,13597
-V021,incontro femminile,741
-V021,incontro femminile,122
 V021,incontro femminile,10811
 V021,incontro maschile,8322
 V021,incontro femminile,28544
-V021,racconto incastonato,14921
-V021,incontro femminile,405
-V021,incontro femminile,1043
 V021,racconto incastonato,53561
-V021,incontro femminile,636
-V021,racconto incastonato,5811
-V021,racconto incastonato,1372
-V021,incontro maschile,3809
-V021,incontro di gruppo,1654
-V021,incontro femminile,1868
-V021,incontro femminile,4324
-V021,incontro femminile,5574
-V021,incontro femminile,1255
-V021,incontro femminile,982
-V021,incontro di gruppo,932
-V021,incontro maschile,4974
 V021,racconto incastonato,21550
-V021,incontro femminile,1022
-V021,incontro femminile,3599
-V021,incontro femminile,1502
-V021,incontro femminile,8245
 V021,incontro femminile,8323
 V021,incontro femminile,6485
-V021,racconto incastonato,21926
-V021,incontro maschile,1776
-V021,incontro femminile,2943
-V021,incontro femminile,923
-V021,incontro femminile,2658
-V021,incontro femminile,694
-V021,incontro maschile,689
 V021,incontro maschile,15064
-V021,racconto incastonato,4398
 V021,incontro maschile,1047
 V021,racconto incastonato,15434
-V021,incontro maschile,5715
-V021,incontro femminile,957
 V021,incontro di gruppo,10821
-V021,racconto incastonato,1513
 V021,incontro femminile,347
-V022,struttura,22824
-V022,struttura,8418
 V022,struttura,65001
-V022,situazione,763
-V022,riflessione,1712
-V022,ostacolo,1537
-V022,iniziativa/piano,1368
-V022,angoscia/delusione,2836
-V022,metanarrazione,1179
-V022,struttura,5136
-V022,situazione,647
-V022,riflessione,285
-V022,ostacolo,616
-V022,iniziativa/piano,428
-V022,ostacolo,603
-V022,iniziativa/piano,637
-V022,ostacolo,1001
-V022,iniziativa/piano,431
-V022,metanarrazione,467
-V022,struttura,9266
-V022,situazione,1154
-V022,riflessione,1931
-V022,smarrimento/dubbio,3203
-V022,angoscia/delusione,2711
-V022,metanarrazione,245
-V022,struttura,20761
-V022,struttura,3997
-V022,situazione,2166
-V022,riflessione,1170
-V022,ipotesi,223
-V022,metanarrazione,408
-V022,struttura,9783
-V022,situazione,1074
-V022,riflessione,2443
-V022,ipotesi,1556
-V022,incontro femminile,3053
-V022,iniziativa/piano,524
-V022,angoscia/delusione,626
-V022,metanarrazione,480
-V022,struttura,6977
-V022,situazione,2615
-V022,riflessione,883
-V022,iniziativa/piano,509
-V022,ostacolo,1156
-V022,smarrimento/dubbio,1319
-V022,metanarrazione,472
-V022,struttura,21412
-V022,struttura,4614
-V022,situazione,822
-V022,riflessione,3199
-V022,cambiamento,1135
-V022,metanarrazione,189
-V022,struttura,8183
-V022,situazione,1067
-V022,iniziativa/piano,423
-V022,riflessione,766
-V022,angoscia/delusione,426
-V022,riflessione,1321
-V022,angoscia/delusione,1704
-V022,riflessione,916
-V022,angoscia/delusione,832
-V022,metanarrazione,698
-V022,struttura,8611
-V022,situazione,384
-V022,ostacolo,251
-V022,ostacolo,518
-V022,ostacolo,926
-V022,ostacolo,751
-V022,smarrimento/dubbio,775
-V022,riflessione,762
-V022,angoscia/delusione,383
-V022,smarrimento/dubbio,1753
-V022,riflessione,1466
-V022,metanarrazione,601
-V022,struttura,23060
-V022,struttura,7604
 V022,struttura,52483
-V022,situazione,1645
-V022,riflessione,5116
-V022,angoscia/delusione,574
-V022,metanarrazione,253
-V022,struttura,6399
-V022,situazione,854
-V022,iniziativa/piano,616
-V022,riflessione,1685
-V022,angoscia/delusione,984
-V022,smarrimento/dubbio,1892
-V022,metanarrazione,344
-V022,struttura,9053
-V022,situazione,580
-V022,iniziativa/piano,789
-V022,angoscia/delusione,704
-V022,riflessione,4297
-V022,telefonata,1914
-V022,metanarrazione,739
-V022,struttura,15320
-V022,struttura,4951
-V022,situazione,899
-V022,riflessione,1765
-V022,ostacolo,494
-V022,angoscia/delusione,1563
-V022,metanarrazione,193
-V022,struttura,6228
-V022,situazione,1644
-V022,riflessione,1092
-V022,ostacolo,478
-V022,riflessione,1778
-V022,iniziativa/piano,517
-V022,metanarrazione,692
-V022,struttura,4137
-V022,situazione,695
-V022,iniziativa/piano,291
-V022,riflessione,2845
-V022,metanarrazione,282
-V022,struttura,14099
-V022,struttura,2779
-V022,situazione,1237
-V022,riflessione,890
-V022,metanarrazione,627
-V022,struttura,4683
-V022,situazione,1499
-V022,riflessione,716
-V022,ipotesi,564
-V022,riflessione,1286
-V022,metanarrazione,596
-V022,struttura,6633
-V022,situazione,315
-V022,riflessione,1591
-V022,smarrimento/dubbio,2704
-V022,angoscia/delusione,1809
-V022,metanarrazione,186
-V022,struttura,13802
-V022,struttura,5036
 V022,struttura,47075
-V022,situazione,1165
-V022,iniziativa/piano,258
-V022,ostacolo,1028
-V022,riflessione,971
-V022,ipotesi,312
-V022,iniziativa/piano,371
-V022,metanarrazione,907
-V022,struttura,5771
-V022,situazione,434
-V022,riflessione,1391
-V022,ostacolo,737
-V022,riflessione,398
-V022,ostacolo,110
-V022,riflessione,1509
-V022,ostacolo,134
-V022,aggressione/scontro,239
-V022,smarrimento/dubbio,609
-V022,metanarrazione,183
-V022,struttura,2991
-V022,situazione,548
-V022,riflessione,1738
-V022,ipotesi,392
-V022,metanarrazione,289
-V022,struttura,13033
-V022,struttura,3123
-V022,situazione,358
-V022,riflessione,2209
-V022,metanarrazione,531
-V022,struttura,3071
-V022,situazione,571
-V022,iniziativa/piano,648
-V022,ipotesi,339
-V022,ipotesi,503
-V022,metanarrazione,978
-V022,struttura,6835
-V022,situazione,960
-V022,iniziativa/piano,1477
-V022,ostacolo,620
-V022,riflessione,501
-V022,iniziativa/piano,327
-V022,ostacolo,404
-V022,riflessione,1060
-V022,iniziativa/piano,544
-V022,ostacolo,546
-V022,metanarrazione,364
-V022,struttura,20236
-V022,struttura,3937
-V022,situazione,664
-V022,iniziativa/piano,242
-V022,ostacolo,620
-V022,smarrimento/dubbio,1039
-V022,iniziativa/piano,359
-V022,ostacolo,56
-V022,iniziativa/piano,169
-V022,metanarrazione,351
-V022,struttura,7001
-V022,situazione,623
-V022,riflessione,750
-V022,iniziativa/piano,1534
-V022,smarrimento/dubbio,920
-V022,riflessione,1714
-V022,iniziativa/piano,527
-V022,ipotesi,468
-V022,metanarrazione,433
-V022,struttura,9294
-V022,iniziativa/piano,109
-V022,situazione,311
-V022,ostacolo,307
-V022,riflessione,1120
-V022,ipotesi,1041
-V022,situazione,1143
-V022,ostacolo,961
-V022,riflessione,2212
-V022,iniziativa/piano,179
-V022,situazione,828
-V022,riflessione,718
-V022,iniziativa/piano,300
-V022,morte,22
-V023,struttura,75313
-V023,struttura,21395
 V023,struttura,281176
-V023,cornice,211
-V023,situazione,1924
-V023,racconto incastonato,21165
-V023,incontro maschile,4476
-V023,incontro femminile,1910
-V023,incontro di gruppo,3774
-V023,angoscia/delusione,1203
-V023,incontro di gruppo,3854
-V023,partenza/sparizione,100
-V023,inseguimento/ricerca,393
-V023,angoscia/delusione,1517
-V023,partenza/sparizione,2005
-V023,struttura,32538
-V023,cornice,379
-V023,situazione,1518
-V023,racconto incastonato,32144
-V023,cambiamento,192
-V023,incontro di gruppo,1011
-V023,incontro femminile,1075
-V023,angoscia/delusione,514
-V023,incontro di gruppo,764
-V023,angoscia/delusione,2837
-V023,incontro femminile,1105
-V023,incontro maschile,2121
-V023,aggressione/scontro,1490
-V023,cambiamento,1103
-V023,angoscia/delusione,1093
-V023,incontro femminile,1263
-V023,rivelazione,1431
-V023,angoscia/delusione,1885
-V023,rivelazione,1052
-V023,cambiamento,629
-V023,incontro femminile,1034
-V023,rivelazione,1082
-V023,angoscia/delusione,2115
-V023,cambiamento,812
-V023,incontro femminile,876
-V023,incontro femminile,881
-V023,incontro femminile,987
-V023,cambiamento,319
-V023,incontro femminile,551
-V023,partenza/sparizione,1291
-V023,incontro maschile,1086
-V023,mistero/assurdità,90
-V023,struttura,21376
-V023,cornice,513
-V023,situazione,327
-V023,racconto incastonato,20837
-V023,rivelazione,604
-V023,metanarrazione,4242
-V023,incontro femminile,386573
-V023,partenza/sparizione,334
-V023,inseguimento/ricerca,1532
-V023,angoscia/delusione,2641
-V023,aggressione/scontro,386137
-V023,incontro femminile,1702
-V023,iniziativa/piano,387180
-V023,fuga,888
-V023,partenza/sparizione,1039
-V023,cambiamento,1071
-V023,aggressione/scontro,387199
-V023,angoscia/delusione,455
-V023,attesa,984
-V023,incontro femminile,386614
-V023,metanarrazione,679
-V023,incontro femminile,1477
-V023,aggressione/scontro,386265
-V023,rivelazione,1565
-V023,morte,386254
-V023,partenza/sparizione,733
-V023,metanarrazione,548
-V023,struttura,66376
-V023,struttura,18946
-V023,cornice,461
-V023,situazione,2267
-V023,racconto incastonato,18469
-V023,inseguimento/ricerca,1088
-V023,incontro femminile,2690
-V023,cambiamento,1603
-V023,partenza/sparizione,1021
-V023,inseguimento/ricerca,1169
-V023,incontro femminile,618
-V023,cambiamento,2810
-V023,partenza/sparizione,594
-V023,inseguimento/ricerca,1536
-V023,incontro femminile,1400
-V023,partenza/sparizione,1662
-V023,struttura,13895
-V023,cornice,204
-V023,situazione,1677
-V023,racconto incastonato,13670
-V023,illusione/speranza,658
-V023,ostacolo,618
-V023,compito/missione,969
-V023,angoscia/delusione,1887
-V023,inseguimento/ricerca,612
-V023,rivelazione,1497
-V023,partenza/sparizione,654
-V023,angoscia/delusione,848
-V023,attesa,354
-V023,iniziativa/piano,428
-V023,inseguimento/ricerca,2694
-V023,ostacolo,132
-V023,angoscia/delusione,629
-V023,struttura,17758
-V023,cornice,165
-V023,situazione,1798
-V023,racconto incastonato,17579
-V023,incontro femminile,1216
-V023,compito/missione,1909
-V023,riflessione,1667
-V023,illusione/speranza,1419
-V023,incontro femminile,2744
-V023,innamoramento,1730
-V023,smarrimento/dubbio,1222
-V023,cambiamento,2352
-V023,illusione/speranza,1513
-V023,struttura,15771
-V023,cornice,270
-V023,situazione,2463
-V023,racconto incastonato,15487
-V023,metanarrazione,783
-V023,incontro femminile,383
-V023,cambiamento,939
-V023,angoscia/delusione,573
-V023,metanarrazione,765
-V023,inseguimento/ricerca,791
-V023,illusione/speranza,737
-V023,metanarrazione,763
-V023,aggressione/scontro,1767
-V023,metanarrazione,1106
-V023,aggressione/scontro,1630
-V023,metanarrazione,2776
-V023,struttura,86719
-V023,struttura,16603
-V023,cornice,931
-V023,cambiamento,2065
-V023,racconto incastonato,15656
-V023,incontro femminile,476
-V023,rivelazione,878
-V023,angoscia/delusione,3924
-V023,cambiamento,1964
-V023,angoscia/delusione,978
-V023,cambiamento,903
-V023,angoscia/delusione,2076
-V023,cambiamento,855
-V023,metanarrazione,1528
-V023,struttura,23452
-V023,cornice,502
-V023,situazione,1843
-V023,racconto incastonato,22927
-V023,angoscia/delusione,1849
-V023,incontro femminile,3228
-V023,inseguimento/ricerca,3187
-V023,pausa/sospensione,1777
-V023,smarrimento/dubbio,380
-V023,aggressione/scontro,1088
-V023,angoscia/delusione,468
-V023,morte,1043
-V023,incontro di gruppo,1322
-V023,viaggio,2556
-V023,mistero/assurdità,1146
-V023,partenza/sparizione,822
-V023,cambiamento,761
-V023,partenza/sparizione,941
-V023,mistero/assurdità,501
-V023,struttura,29733
-V023,cornice,228
-V023,racconto incastonato,29481
-V023,situazione,5432
-V023,compito/missione,1898
-V023,incontro maschile,1906
-V023,incontro femminile,638
-V023,partenza/sparizione,2479
-V023,angoscia/delusione,3097
-V023,inseguimento/ricerca,2625
-V023,rivelazione,591
-V023,inseguimento/ricerca,3592
-V023,attesa,2737
-V023,partenza/sparizione,4474
-V023,struttura,16925
-V023,cornice,603
-V023,situazione,2399
-V023,racconto incastonato,16298
-V023,cambiamento,2137
-V023,angoscia/delusione,910
-V023,illusione/speranza,1261
-V023,angoscia/delusione,192
-V023,incontro maschile,1194
-V023,incontro femminile,408
-V023,incontro maschile,967
-V023,illusione/speranza,437
-V023,aggressione/scontro,1365
-V023,angoscia/delusione,1130
-V023,iniziativa/piano,620
-V023,fuga,515
-V023,cambiamento,2425
-V023,riflessione,324
-V023,struttura,52762
-V023,struttura,19463
-V023,cornice,373
-V023,situazione,2231
-V023,racconto incastonato,19069
-V023,rivelazione,4739
-V023,inseguimento/ricerca,4069
-V023,partenza/sparizione,2795
-V023,cambiamento,1691
-V023,partenza/sparizione,2053
-V023,mistero/assurdità,392
-V023,cambiamento,1092
-V023,struttura,14692
-V023,cornice,853
-V023,situazione,2194
-V023,racconto incastonato,13813
-V023,angoscia/delusione,1888
-V023,illusione/speranza,2316
-V023,ostacolo,1367
-V023,illusione/speranza,744
-V023,ostacolo,756
-V023,angoscia/delusione,1687
-V023,iniziativa/piano,1721
-V023,riflessione,848
-V023,struttura,18603
-V023,cornice,459
-V023,riflessione,1401
-V023,racconto incastonato,18126
-V023,situazione,786
-V023,cambiamento,1590
-V023,riflessione,482
-V023,incontro femminile,1784
-V023,incontro maschile,427
-V023,inseguimento/ricerca,1302
-V023,fallimento,1838
-V023,situazione,785
-V023,angoscia/delusione,882
-V023,incontro maschile,-178708
-V023,rivelazione,1405
-V023,aggressione/scontro,529
-V023,partenza/sparizione,840
-V023,angoscia/delusione,1769
-V023,struttura,9490
 V023,struttura,129693
-V023,cornice,363
-V023,situazione,2978
-V023,racconto incastonato,9106
-V023,illusione/speranza,2560
-V023,innamoramento,1311
-V023,cambiamento,2254
-V023,struttura,11691
-V023,cornice,488
-V023,situazione,2047
-V023,racconto incastonato,11182
-V023,cambiamento,849
-V023,rivelazione,1204
-V023,iniziativa/piano,1756
-V023,cambiamento,1722
-V023,inseguimento/ricerca,3599
-V023,struttura,16962
-V023,cornice,571
-V023,situazione,2548
-V023,racconto incastonato,16368
-V023,cambiamento,225
-V023,scommessa,2276
-V023,cambiamento,226
-V023,scommessa,1202
-V023,cambiamento,256
-V023,scommessa,1227
-V023,angoscia/delusione,5765
-V023,mistero/assurdità,1086
-V023,angoscia/delusione,1549
-V023,struttura,19237
-V023,cornice,137
-V023,situazione,3089
-V023,racconto incastonato,19075
-V023,attesa,1056
-V023,angoscia/delusione,4169
-V023,rivelazione,729
-V023,incontro maschile,1123
-V023,compito/missione,1191
-V023,angoscia/delusione,2542
-V023,iniziativa/piano,641
-V023,illusione/speranza,827
-V023,cambiamento,976
-V023,angoscia/delusione,2722
-V023,struttura,26660
-V023,cornice,313
-V023,rivelazione,448
-V023,racconto incastonato,26330
-V023,angoscia/delusione,2687
-V023,iniziativa/piano,1137
-V023,illusione/speranza,1207
-V023,angoscia/delusione,4506
-V023,illusione/speranza,3970
-V023,angoscia/delusione,2441
-V023,illusione/speranza,679
-V023,angoscia/delusione,1560
-V023,illusione/speranza,463
-V023,angoscia/delusione,2215
-V023,iniziativa/piano,3709
-V023,angoscia/delusione,763
-V023,illusione/speranza,535
-V023,struttura,20408
-V023,cornice,174
-V023,situazione,1191
-V023,racconto incastonato,20210
-V023,incontro femminile,652
-V023,incontro maschile,1061
-V023,illusione/speranza,1863
-V023,angoscia/delusione,1315
-V023,attesa,658
-V023,aggressione/scontro,1466
-V023,angoscia/delusione,4029
-V023,rivelazione,4458
-V023,aggressione/scontro,1586
-V023,mistero/assurdità,1921
-V023,struttura,15867
-V023,situazione,2423
-V023,cambiamento,872
-V023,illusione/speranza,1113
-V023,angoscia/delusione,1915
-V023,incontro femminile,8263
-V023,iniziativa/piano,627
-V023,fallimento,1091
-V023,iniziativa/piano,350
-V023,fallimento,154
-V023,rivelazione,495
-V023,smarrimento/dubbio,1077
-V023,iniziativa/piano,367
-V023,fallimento,197
-V023,smarrimento/dubbio,1531
-V023,iniziativa/piano,377
-V023,fallimento,1120
-V023,rivelazione,592
-V023,angoscia/delusione,1255
-V023,struttura,9364
-V023,cornice,1351
-V023,riflessione,6130
-V023,racconto incastonato,7997
-V023,visione,320
-V023,angoscia/delusione,1545
-V023,struttura,27755
 V023,struttura,104541
-V023,cornice,440
-V023,terna,14327
-V023,racconto incastonato,14327
-V023,situazione,4605
-V023,rivelazione,504
-V023,incontro femminile,1424
-V023,innamoramento,1860
-V023,angoscia/delusione,1730
-V023,cambiamento,4197
-V023,pausa/sospensione,4844
-V023,terna,4844
-V023,iniziativa/piano,2445
-V023,terna,8121
-V023,illusione/speranza,1804
-V023,incontro di gruppo,1564
-V023,cambiamento,2305
-V023,struttura,21043
-V023,cornice,1058
-V023,riflessione,2504
-V023,racconto incastonato,2504
-V023,racconto incastonato,1698
-V023,riflessione,1350
-V023,racconto incastonato,777
-V023,riflessione,1247
-V023,racconto incastonato,1262
-V023,riflessione,1977
-V023,racconto incastonato,2305
-V023,riflessione,1072
-V023,struttura,55739
-V023,struttura,27482
-V023,riflessione,4714
-V023,situazione,3395
-V023,racconto incastonato,1875
-V023,riflessione,519
-V023,cambiamento,5515
-V023,racconto incastonato,6784
-V023,iniziativa/piano,1268
-V023,riflessione,2054
-V023,cambiamento,2669
-V023,racconto incastonato,2669
-V023,riflessione,2042
-V023,cambiamento,1604
-V023,racconto incastonato,5287
-V023,rivelazione,756
-V023,visione,2925
-V023,struttura,18954
-V023,riflessione,18942
-V023,struttura,9299
-V023,riflessione,9287
-V023,struttura,27727
 V023,struttura,91199
-V023,situazione,1018
-V023,rivelazione,381
-V023,ipotesi,397
-V023,smarrimento/dubbio,1036
-V023,ipotesi,298
-V023,ipotesi,339
-V023,ñ,533
-V023,rivelazione,2731
-V023,smarrimento/dubbio,2579
-V023,rivelazione,1548
-V023,smarrimento/dubbio,10165
-V023,ipotesi,4105
-V023,ipotesi,2628
-V023,metanarrazione,653
-V023,iniziativa/piano,3796
-V023,smarrimento/dubbio,2248
-V023,rivelazione,1016
-V023,struttura,26513
-V023,situazione,2116
-V023,metanarrazione,2065
-V023,ipotesi,2167
-V023,smarrimento/dubbio,8761
-V023,ipotesi,2547
-V023,ipotesi,4045
-V023,illusione/speranza,1547
-V023,smarrimento/dubbio,999
-V023,rivelazione,5633
-V023,cambiamento,1622
-V023,ipotesi,1352
-V023,smarrimento/dubbio,2345
-V023,ipotesi,992
-V023,rivelazione,888
-V023,morte,513
-V023,struttura,14578
-V023,situazione,1201
-V023,iniziativa/piano,952
-V023,smarrimento/dubbio,2241
-V023,illusione/speranza,2655
-V023,rivelazione,3105
-V023,smarrimento/dubbio,2541
-V023,illusione/speranza,1855
-V023,struttura,22375
-V023,situazione,3054
-V023,iniziativa/piano,2865
-V023,incontro maschile,2260
-V023,ipotesi,2873
-V023,rivelazione,1961
-V023,smarrimento/dubbio,1823
-V023,iniziativa/piano,2171
-V023,mistero/assurdità,4532
-V023,rivelazione,799
 V018,,
 V019,,
 V021,,
 V022,,
 V023,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,interiore,
+,,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,interiore,
+,interiore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,forma,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,forma,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,forma,
+,esteriore/interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore/interiore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,forma,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore/interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,,
+,forma,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,interiore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,forma,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,forma,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,forma,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore/interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,forma,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,forma,
+,interiore,
+,interiore,
+,forma,
+,forma,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,forma,
+,esteriore,
+,forma,
+,interiore,
+,esteriore,
+,esteriore,
+,forma,
+,forma,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,forma,
+,forma,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,interiore,
+,forma,
+,interiore,
+,forma,
+,forma,
+,esteriore,
+,esteriore/interiore,
+,interiore,
+,interiore,
+,interiore,
+,ñ,
+,esteriore/interiore,
+,esteriore/interiore,
+,interiore,
+,interiore,
+,esteriore,
+,esteriore/interiore,
+,forma,
+,esteriore,
+,interiore,
+,interiore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,interiore,
+,esteriore/interiore,
+,esteriore/interiore,
+,forma,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,interiore,
+,forma,
+,esteriore,
+,esteriore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
+,esteriore,
+,interiore,
+,esteriore/interiore,
