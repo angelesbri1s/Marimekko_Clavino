@@ -1,548 +1,553 @@
 volume,tipo,caratteri
-V001,2_interazione,3199
-V001,3_interazione,688
-V001,4_interazione,1162
-V001,5_angoscia/delusione,2879
-V001,6_interazione,1529
-V001,7_spostamento,113
-V001,8_angoscia/delusione,2208
-V001,9_interazione,4563
-V001,10_spostamento,671
-V001,11_angoscia/delusione,136
-V001,12_interazione,1137
-V001,13_smarrimento/dubbio,1048
-V001,14_intenzione,773
-V001,15_angoscia/delusione,2080
-V001,16_intenzione,1549
-V001,17_spostamento,232
-V001,18_smarrimento/dubbio,3010
-V001,19_smarrimento/dubbio,10789
-V001,20_intenzione,928
-V001,21_interazione,3792
-V001,22_spostamento,81
-V001,23_intenzione,1042
-V001,24_spostamento,877
-V001,25_illusione/speranza,482
-V001,26_interazione,965
-V001,27_smarrimento/dubbio,1188
-V001,28_pausa/sospensione,203
-V001,29_morte,0
-V001,30_spostamento,909
-V001,31_interazione,1224
-V001,32_angoscia/delusione,935
-V001,33_racconto incastonato,2275
-V001,34_interazione,1462
-V001,35_smarrimento/dubbio,451
-V001,36_intenzione,717
-V001,37_angoscia/delusione,1587
-V001,38_interazione,1519
-V001,39_smarrimento/dubbio,1219
-V001,40_interazione,8661
-V001,41_spostamento,738
-V001,42_interazione,5226
-V001,43_spostamento,333
-V001,44_interazione,13350
-V001,45_spostamento,792
-V001,46_attesa,1959
-V001,47_spostamento,2210
-V001,48_illusione/speranza,661
-V001,49_angoscia/delusione,479
-V001,50_interazione,12557
-V001,51_spostamento,353
-V001,52_interazione,2671
-V001,53_illusione/speranza,1922
-V001,54_interazione,1664
-V001,55_interazione,93097
-V001,56_pausa/sospensione,13078
-V001,57_situazione,1982
-V001,58_interazione,21330
-V001,59_spostamento,1096
-V001,60_angoscia/delusione,772
-V001,61_illusione/speranza,1245
-V001,62_angoscia/delusione,708
-V001,63_interazione,313
-V001,64_spostamento,226
-V001,65_interazione,405
-V001,66_spostamento,423
-V001,67_illusione/speranza,503
-V001,68_rivelazione,674
-V001,69_angoscia/delusione,563
-V001,70_interazione,1904
-V001,71_rivelazione,830
-V001,72_spostamento,149
-V001,73_smarrimento/dubbio,433
-V001,74_interazione,5563
-V002,76_struttura,16624
-V002,77_struttura,9906
-V002,78_struttura,8487
-V002,79_struttura,13871
-V002,80_struttura,8291
-V002,81_struttura,9042
-V002,82_struttura,10063
-V002,83_struttura,9860
-V002,84_struttura,14313
-V002,85_struttura,9240
-V002,86_struttura,7418
-V002,87_struttura,12987
-V002,88_struttura,15582
-V002,89_struttura,19473
-V002,90_struttura,13175
-V002,91_struttura,11391
-V002,92_struttura,10457
-V002,93_struttura,10809
-V002,94_struttura,14887
-V002,95_struttura,15495
-V002,96_struttura,9702
-V002,97_struttura,8658
-V002,98_struttura,14106
-V002,99_struttura,21698
-V002,100_struttura,19767
-V002,101_struttura,12910
-V002,102_struttura,14101
-V002,103_struttura,15971
-V002,104_struttura,12933
-V002,105_struttura,10472
-V003,107_angoscia/delusione,8658
-V003,108_situazione,6822
-V003,109_spostamento,5643
-V003,110_interazione,664
-V003,111_interazione,1761
-V003,112_spostamento,2689
-V003,113_interazione,1052
-V003,114_interazione,1664
-V003,115_interazione,1127
-V003,116_interazione,3855
-V003,117_interazione,2127
-V003,118_interazione,4751
-V003,119_interazione,4350
-V003,120_interazione,2352
-V003,121_interazione,2659
-V003,122_interazione,14264
-V003,123_interazione,2069
-V003,124_interazione,10828
-V003,125_smarrimento/dubbio,1171
-V003,126_interazione,4046
-V003,127_interazione,1974
-V003,128_interazione,3563
-V003,129_interazione,1493
-V003,130_interazione,970
-V003,131_mistero/assurdità,2970
-V003,132_interazione,5856
-V003,133_interazione,2186
-V003,134_interazione,680
-V003,135_interazione,3247
-V003,136_interazione,7057
-V003,137_interazione,2251
-V003,138_interazione,2926
-V003,139_interazione,1690
-V003,140_angoscia/delusione,2354
-V003,141_intenzione,7648
-V003,142_interazione,4748
-V003,143_metanarrazione,2448
-V004,145_struttura,51187
-V004,146_struttura,27190
-V004,147_struttura,39484
-V005,149_interazione,682
-V005,150_racconto incastonato,18159
-V005,151_spostamento,3297
-V005,152_spostamento,5988
-V005,153_interazione,23428
-V005,154_interazione,19359
-V005,155_pausa/sospensione,5977
-V005,156_interazione,6200
-V005,157_spostamento,98
-V005,158_interazione,16383
-V005,159_spostamento,2721
-V005,160_pausa/sospensione,37423
-V005,161_interazione,8192
-V005,162_pausa/sospensione,3907
-V005,163_interazione,76905
-V005,164_interazione,21258
-V005,165_spostamento,2308
-V005,166_interazione,5116
-V005,167_spostamento,3301
-V005,168_interazione,13727
-V005,169_interazione,16064
-V005,170_spostamento,1966
-V005,171_spostamento,2680
-V005,172_angoscia/delusione,7268
-V005,173_interazione,10079
-V005,174_spostamento,2705
-V005,175_pausa/sospensione,12467
-V005,176_spostamento,3350
-V005,177_angoscia/delusione,1635
-V005,178_spostamento,7390
-V005,179_interazione,35287
-V005,180_interazione,12081
-V005,181_spostamento,657
-V005,182_spostamento,2414
-V005,183_angoscia/delusione,2257
-V005,184_smarrimento/dubbio,6129
-V005,185_interazione,5860
-V005,186_interazione,1654
-V005,187_interazione,5772
-V005,188_spostamento,1317
-V005,189_interazione,10146
-V005,190_spostamento,1743
-V005,191_racconto incastonato,12318
-V005,192_interazione,2859
-V005,193_angoscia/delusione,2055
-V005,194_interazione,0
-V005,195_spostamento,3036
-V005,196_interazione,4693
-V005,197_interazione,1302
-V005,198_interazione,1058
-V005,199_spostamento,398
-V005,200_spostamento,825
-V005,201_angoscia/delusione,3570
-V005,202_spostamento,3271
-V005,203_metanarrazione,1645
-V006,205_struttura,413374
-V006,206_struttura,170394
-V006,207_struttura,159597
-V006,208_struttura,341674
-V007,210_illusione/speranza,2217
-V007,211_angoscia/delusione,2530
-V007,212_illusione/speranza,1279
-V007,213_interazione,1562
-V007,214_spostamento,224
-V007,215_rivelazione,1608
-V007,216_angoscia/delusione,4811
-V007,217_intenzione,541
-V007,218_angoscia/delusione,338
-V007,219_illusione/speranza,783
-V007,220_angoscia/delusione,2771
-V007,221_interazione,4466
-V007,222_illusione/speranza,2013
-V007,223_angoscia/delusione,935
-V007,224_interazione,559
-V007,225_illusione/speranza,272
-V007,226_intenzione,590
-V007,227_angoscia/delusione,2372
-V007,228_smarrimento/dubbio,644
-V007,229_angoscia/delusione,1015
-V007,230_visione,1403
-V007,231_angoscia/delusione,1012
-V007,232_interazione,1412
-V007,233_interazione,1444
-V007,234_interazione,2878
-V007,235_angoscia/delusione,871
-V007,236_interazione,626
-V007,237_spostamento,666
-V007,238_intenzione,518
-V007,239_angoscia/delusione,1177
-V007,240_interazione,4657
-V007,241_spostamento,293
-V007,242_angoscia/delusione,2232
-V007,243_intenzione,475
-V007,244_spostamento,1298
-V007,245_interazione,1284
-V007,246_angoscia/delusione,949
-V007,247_spostamento,1105
-V007,248_angoscia/delusione,984
-V007,249_illusione/speranza,2713
-V008,251_interazione,5013
-V008,252_smarrimento/dubbio,9397
-V008,253_smarrimento/dubbio,4100
-V008,254_smarrimento/dubbio,1499
-V008,255_smarrimento/dubbio,2184
-V008,256_interazione,11339
-V008,257_cornice,2652
-V008,258_smarrimento/dubbio,1316
-V008,259_interazione,4497
-V008,260_smarrimento/dubbio,1636
-V008,261_interazione,2294
-V008,262_interazione,6003
-V008,263_cornice,1855
-V008,264_interazione,5546
-V008,265_interazione,5748
-V008,266_interazione,2022
-V008,267_cornice,954
-V008,268_interazione,2155
-V008,269_interazione,3971
-V008,270_cornice,1984
-V008,271_interazione,17795
-V008,272_spostamento,1032
-V008,273_spostamento,1140
-V008,274_spostamento,917
-V008,275_spostamento,462
-V008,276_cornice,1077
-V008,277_spostamento,3953
-V008,278_interazione,742
-V008,279_interazione,1585
-V008,280_interazione,480
-V008,281_interazione,3798
-V008,282_smarrimento/dubbio,2225
-V008,283_interazione,7563
-V008,284_spostamento,449
-V008,285_cornice,4343
-V008,286_spostamento,1797
-V008,287_spostamento,1117
-V008,288_interazione,2181
-V008,289_interazione,1393
-V008,290_spostamento,572
-V008,291_spostamento,620
-V008,292_spostamento,1260
-V008,293_interazione,13086
-V008,294_spostamento,210
-V008,295_smarrimento/dubbio,252
-V008,296_interazione,1966
-V008,297_rivelazione,533
-V008,298_spostamento,132
-V008,299_spostamento,131
-V008,300_rivelazione,2573
-V008,301_spostamento,2183
-V008,302_interazione,1343
-V008,303_interazione,3509
-V008,304_spostamento,367
-V008,305_spostamento,574
-V008,306_spostamento,351
-V008,307_interazione,489
-V008,308_interazione,2225
-V008,309_cornice,3155
-V009,311_spostamento,564
-V009,312_riflessione,4620
-V009,313_spostamento,284
-V009,314_riflessione,5443
-V009,315_riflessione,4524
-V009,316_interazione,621
-V009,317_riflessione,6509
-V009,318_interazione,2031
-V009,319_riflessione,2131
-V009,320_interazione,801
-V009,321_riflessione,1413
-V009,322_interazione,1613
-V009,323_riflessione,1640
-V009,324_interazione,5637
-V009,325_riflessione,8188
-V009,326_interazione,890
-V009,327_riflessione,1675
-V009,328_interazione,4632
-V009,329_pausa/sospensione,940
-V009,330_interazione,6571
-V009,331_pausa/sospensione,20398
-V009,332_interazione,5807
-V009,333_interazione,6859
-V009,334_interazione,1696
-V009,335_interazione,3964
-V009,336_pausa/sospensione,2919
-V009,337_interazione,2432
-V009,338_riflessione,1262
-V009,339_interazione,2498
-V009,340_riflessione,1027
-V010,342_spostamento,2880
-V010,343_interazione,3523
-V010,344_riflessione,1435
-V010,345_intenzione,4418
-V010,346_interazione,575
-V010,347_intenzione,284
-V010,348_interazione,7035
-V010,349_intenzione,82
-V010,350_interazione,4967
-V010,351_spostamento,1188
-V010,352_interazione,4789
-V010,353_intenzione,866
-V010,354_interazione,4075
-V010,355_intenzione,794
-V010,356_interazione,9120
-V010,357_intenzione,1013
-V010,358_intenzione,988
-V010,359_interazione,4882
-V010,360_interazione,6261
-V010,361_interazione,16457
-V010,362_interazione,9471
-V010,363_attesa,4013
-V010,364_interazione,1068
-V010,365_interazione,929
-V010,366_interazione,4117
-V010,367_interazione,2645
-V010,368_interazione,1525
-V010,369_interazione,6535
-V010,370_rivelazione,697
-V010,371_intenzione,968
-V010,372_interazione,7031
-V010,373_attesa,1428
-V010,374_interazione,2915
-V010,375_interazione,2785
-V010,376_interazione,6975
-V010,377_attesa,1200
-V010,378_interazione,5155
-V010,379_spostamento,1482
-V010,380_attesa,1816
-V010,381_interazione,2637
-V010,382_attesa,666
-V010,383_interazione,1451
-V010,384_interazione,5270
-V010,385_interazione,3971
-V010,386_interazione,385
-V010,387_interazione,2013
-V010,388_intenzione,115
-V010,389_interazione,2069
-V010,390_angoscia/delusione,211
-V011,392_struttura,6505
-V011,393_struttura,14003
-V011,394_struttura,103087
-V011,395_struttura,4278
-V011,396_struttura,8741
-V011,397_struttura,8053
-V011,398_struttura,7838
-V011,399_struttura,7069
-V011,400_struttura,5431
-V011,401_struttura,7594
-V011,402_struttura,8752
-V011,403_struttura,16872
-V011,404_struttura,13030
-V011,405_struttura,10513
-V011,406_struttura,12518
-V011,407_struttura,10606
-V011,408_struttura,12414
-V011,409_struttura,6089
-V011,410_struttura,20899
-V011,411_struttura,15228
-V012,413_struttura,101372
-V012,414_struttura,71831
-V013,416_struttura,29710
-V013,417_struttura,19444
-V013,418_struttura,19215
-V013,419_struttura,9472
-V013,420_struttura,18933
-V013,421_struttura,11673
-V013,422_struttura,21379
-V013,423_struttura,16942
-V013,424_struttura,32526
-V013,425_struttura,20385
-V013,426_struttura,26646
-V013,427_struttura,27744
-V014,429_struttura,16589
-V014,430_struttura,21352
-V014,431_struttura,15759
-V014,432_struttura,21024
-V014,433_struttura,27471
-V014,434_struttura,18942
-V014,435_struttura,9287
-V014,436_struttura,27715
-V014,437_struttura,26498
-V014,438_struttura,14556
-V014,439_struttura,22351
-V015,441_struttura,86718
-V015,442_struttura,66376
-V015,443_struttura,64455
-V015,444_struttura,83147
-V015,445_struttura,2292
-V016,447_cornice,5655
-V016,448_racconto incastonato,11155
-V016,449_racconto incastonato,8423
-V016,450_racconto incastonato,5076
-V016,451_racconto incastonato,4142
-V016,452_racconto incastonato,8674
-V016,453_racconto incastonato,6818
-V016,454_racconto incastonato,8198
-V017,456_struttura,236791
-V017,457_struttura,173243
-V018,458_cornice,1584
-V018,459_racconto incastonato,731
-V018,460_racconto incastonato,765
-V018,461_racconto incastonato,1436
-V018,462_racconto incastonato,1647
-V018,463_racconto incastonato,1398
-V018,464_racconto incastonato,2397
-V018,465_racconto incastonato,1732
-V018,466_racconto incastonato,1590
-V018,467_racconto incastonato,1161
-V018,468_racconto incastonato,1268
-V018,469_cornice,3114
-V018,470_cornice,3881
-V018,471_racconto incastonato,1844
-V018,472_racconto incastonato,1499
-V018,473_racconto incastonato,1466
-V018,474_racconto incastonato,1480
-V018,475_racconto incastonato,1599
-V018,476_cornice,2736
-V018,477_cornice,2194
-V018,478_racconto incastonato,1587
-V018,479_racconto incastonato,2471
-V018,480_racconto incastonato,1971
-V018,481_racconto incastonato,1690
-V018,482_racconto incastonato,1786
-V018,483_cornice,1314
-V018,484_cornice,2300
-V018,485_racconto incastonato,1933
-V018,486_racconto incastonato,1192
-V018,487_racconto incastonato,1740
-V018,488_racconto incastonato,1034
-V018,489_racconto incastonato,1874
-V018,490_cornice,1172
-V018,491_cornice,2095
-V018,492_racconto incastonato,1010
-V018,493_racconto incastonato,1050
-V018,494_racconto incastonato,906
-V018,495_racconto incastonato,2613
-V018,496_racconto incastonato,2145
-V018,497_cornice,397
-V018,498_cornice,2815
-V018,499_racconto incastonato,2163
-V018,500_racconto incastonato,2043
-V018,501_racconto incastonato,1608
-V018,502_racconto incastonato,2544
-V018,503_racconto incastonato,2301
-V018,504_cornice,1966
-V018,505_cornice,1920
-V018,506_racconto incastonato,1068
-V018,507_racconto incastonato,3697
-V018,508_racconto incastonato,2631
-V018,509_racconto incastonato,2941
-V018,510_racconto incastonato,3485
-V018,511_cornice,1271
-V018,512_cornice,3856
-V018,513_cornice,1826
-V018,514_racconto incastonato,763
-V018,515_racconto incastonato,1222
-V018,516_racconto incastonato,1052
-V018,517_racconto incastonato,1708
-V018,518_cornice,1692
-V018,519_cornice,1610
-V018,520_cornice,2549
-V018,521_cornice,2228
-V018,522_racconto incastonato,4205
-V018,523_racconto incastonato,1530
-V018,524_racconto incastonato,2631
-V018,525_racconto incastonato,1837
-V018,526_racconto incastonato,2386
-V018,527_racconto incastonato,2302
-V018,528_racconto incastonato,2470
-V018,529_racconto incastonato,2772
-V018,530_racconto incastonato,2262
-V018,531_racconto incastonato,3178
-V018,532_cornice,1945
-V019,533_struttura,62830
-V019,534_struttura,98778
-V021,535_racconto incastonato,26102
-V021,536_interazione,5179
-V021,537_racconto incastonato,13648
-V021,538_interazione,2304
-V021,539_interazione,2076
-V021,540_interazione,2946
-V021,541_interazione,45030
-V021,542_interazione,27985
-V021,543_interazione,3891
-V021,544_interazione,65027
-V021,545_racconto incastonato,13597
-V021,546_interazione,10811
-V021,547_interazione,8322
-V021,548_interazione,28544
-V021,549_racconto incastonato,53561
-V021,550_racconto incastonato,21550
-V021,551_interazione,8323
-V021,552_interazione,6485
-V021,553_interazione,15064
-V021,554_interazione,1047
-V021,555_racconto incastonato,15434
-V021,556_interazione,10821
-V021,557_interazione,347
-V022,558_struttura,65001
-V022,559_struttura,52483
-V022,560_struttura,47075
-V023,561_struttura,281176
-V023,562_struttura,129693
-V023,563_struttura,104541
-V023,564_struttura,91199
+V001,1_interazione,3199
+V001,2_interazione,688
+V001,3_interazione,1162
+V001,4_angoscia/delusione,2879
+V001,5_interazione,1529
+V001,6_spostamento,113
+V001,7_angoscia/delusione,2208
+V001,8_interazione,4563
+V001,9_spostamento,671
+V001,10_angoscia/delusione,136
+V001,11_interazione,1137
+V001,12_smarrimento/dubbio,1048
+V001,13_intenzione,773
+V001,14_angoscia/delusione,2080
+V001,15_intenzione,1549
+V001,16_spostamento,232
+V001,17_smarrimento/dubbio,3010
+V001,18_smarrimento/dubbio,10789
+V001,19_intenzione,928
+V001,20_interazione,3792
+V001,21_spostamento,81
+V001,22_intenzione,1042
+V001,23_spostamento,877
+V001,24_illusione/speranza,482
+V001,25_interazione,965
+V001,26_smarrimento/dubbio,1188
+V001,27_pausa/sospensione,203
+V001,28_morte,0
+V001,29_spostamento,909
+V001,30_interazione,1224
+V001,31_angoscia/delusione,935
+V001,32_racconto incastonato,2275
+V001,33_interazione,1462
+V001,34_smarrimento/dubbio,451
+V001,35_intenzione,717
+V001,36_angoscia/delusione,1587
+V001,37_interazione,1519
+V001,38_smarrimento/dubbio,1219
+V001,39_interazione,8661
+V001,40_spostamento,738
+V001,41_interazione,5226
+V001,42_spostamento,333
+V001,43_interazione,13350
+V001,44_spostamento,792
+V001,45_attesa,1959
+V001,46_spostamento,2210
+V001,47_illusione/speranza,661
+V001,48_angoscia/delusione,479
+V001,49_interazione,12557
+V001,50_spostamento,353
+V001,51_interazione,2671
+V001,52_illusione/speranza,1922
+V001,53_interazione,1664
+V001,54_interazione,93097
+V001,55_pausa/sospensione,13078
+V001,56_situazione,1982
+V001,57_interazione,21330
+V001,58_spostamento,1096
+V001,59_angoscia/delusione,772
+V001,60_illusione/speranza,1245
+V001,61_angoscia/delusione,708
+V001,62_interazione,313
+V001,63_spostamento,226
+V001,64_interazione,405
+V001,65_spostamento,423
+V001,66_illusione/speranza,503
+V001,67_rivelazione,674
+V001,68_angoscia/delusione,563
+V001,69_interazione,1904
+V001,70_rivelazione,830
+V001,71_spostamento,149
+V001,72_smarrimento/dubbio,433
+V001,73_interazione,5563
+V002,74_struttura,16624
+V002,75_struttura,9906
+V002,76_struttura,8487
+V002,77_struttura,13871
+V002,78_struttura,8291
+V002,79_struttura,9042
+V002,80_struttura,10063
+V002,81_struttura,9860
+V002,82_struttura,14313
+V002,83_struttura,9240
+V002,84_struttura,7418
+V002,85_struttura,12987
+V002,86_struttura,15582
+V002,87_struttura,19473
+V002,88_struttura,13175
+V002,89_struttura,11391
+V002,90_struttura,10457
+V002,91_struttura,10809
+V002,92_struttura,14887
+V002,93_struttura,15495
+V002,94_struttura,9702
+V002,95_struttura,8658
+V002,96_struttura,14106
+V002,97_struttura,21698
+V002,98_struttura,19767
+V002,99_struttura,12910
+V002,100_struttura,14101
+V002,101_struttura,15971
+V002,102_struttura,12933
+V002,103_struttura,10472
+V003,104_angoscia/delusione,8658
+V003,105_situazione,6822
+V003,106_spostamento,5643
+V003,107_interazione,664
+V003,108_interazione,1761
+V003,109_spostamento,2689
+V003,110_interazione,1052
+V003,111_interazione,1664
+V003,112_interazione,1127
+V003,113_interazione,3855
+V003,114_interazione,2127
+V003,115_interazione,4751
+V003,116_interazione,4350
+V003,117_interazione,2352
+V003,118_interazione,2659
+V003,119_interazione,14264
+V003,120_interazione,2069
+V003,121_interazione,10828
+V003,122_smarrimento/dubbio,1171
+V003,123_interazione,4046
+V003,124_interazione,1974
+V003,125_interazione,3563
+V003,126_interazione,1493
+V003,127_interazione,970
+V003,128_mistero/assurdità,2970
+V003,129_interazione,5856
+V003,130_interazione,2186
+V003,131_interazione,680
+V003,132_interazione,3247
+V003,133_interazione,7057
+V003,134_interazione,2251
+V003,135_interazione,2926
+V003,136_interazione,1690
+V003,137_angoscia/delusione,2354
+V003,138_intenzione,7648
+V003,139_interazione,4748
+V003,140_metanarrazione,2448
+V004,141_struttura,51187
+V004,142_struttura,27190
+V004,143_struttura,39484
+V005,144_interazione,682
+V005,145_racconto incastonato,18159
+V005,146_spostamento,3297
+V005,147_spostamento,5988
+V005,148_interazione,23428
+V005,149_interazione,19359
+V005,150_pausa/sospensione,5977
+V005,151_interazione,6200
+V005,152_spostamento,98
+V005,153_interazione,16383
+V005,154_spostamento,2721
+V005,155_pausa/sospensione,37423
+V005,156_interazione,8192
+V005,157_pausa/sospensione,3907
+V005,158_interazione,76905
+V005,159_interazione,21258
+V005,160_spostamento,2308
+V005,161_interazione,5116
+V005,162_spostamento,3301
+V005,163_interazione,13727
+V005,164_interazione,16064
+V005,165_spostamento,1966
+V005,166_spostamento,2680
+V005,167_angoscia/delusione,7268
+V005,168_interazione,10079
+V005,169_spostamento,2705
+V005,170_pausa/sospensione,12467
+V005,171_spostamento,3350
+V005,172_angoscia/delusione,1635
+V005,173_spostamento,7390
+V005,174_interazione,35287
+V005,175_interazione,12081
+V005,176_spostamento,657
+V005,177_spostamento,2414
+V005,178_angoscia/delusione,2257
+V005,179_smarrimento/dubbio,6129
+V005,180_interazione,5860
+V005,181_interazione,1654
+V005,182_interazione,5772
+V005,183_spostamento,1317
+V005,184_interazione,10146
+V005,185_spostamento,1743
+V005,186_racconto incastonato,12318
+V005,187_interazione,2859
+V005,188_angoscia/delusione,2055
+V005,189_interazione,0
+V005,190_spostamento,3036
+V005,191_interazione,4693
+V005,192_interazione,1302
+V005,193_interazione,1058
+V005,194_spostamento,398
+V005,195_spostamento,825
+V005,196_angoscia/delusione,3570
+V005,197_spostamento,3271
+V005,198_metanarrazione,1645
+V006,199_struttura,413374
+V006,200_struttura,170394
+V006,201_struttura,159597
+V006,202_struttura,341674
+V007,203_illusione/speranza,2217
+V007,204_angoscia/delusione,2530
+V007,205_illusione/speranza,1279
+V007,206_interazione,1562
+V007,207_spostamento,224
+V007,208_rivelazione,1608
+V007,209_angoscia/delusione,4811
+V007,210_intenzione,541
+V007,211_angoscia/delusione,338
+V007,212_illusione/speranza,783
+V007,213_angoscia/delusione,2771
+V007,214_interazione,4466
+V007,215_illusione/speranza,2013
+V007,216_angoscia/delusione,935
+V007,217_interazione,559
+V007,218_illusione/speranza,272
+V007,219_intenzione,590
+V007,220_angoscia/delusione,2372
+V007,221_smarrimento/dubbio,644
+V007,222_angoscia/delusione,1015
+V007,223_visione,1403
+V007,224_angoscia/delusione,1012
+V007,225_interazione,1412
+V007,226_interazione,1444
+V007,227_interazione,2878
+V007,228_angoscia/delusione,871
+V007,229_interazione,626
+V007,230_spostamento,666
+V007,231_intenzione,518
+V007,232_angoscia/delusione,1177
+V007,233_interazione,4657
+V007,234_spostamento,293
+V007,235_angoscia/delusione,2232
+V007,236_intenzione,475
+V007,237_spostamento,1298
+V007,238_interazione,1284
+V007,239_angoscia/delusione,949
+V007,240_spostamento,1105
+V007,241_angoscia/delusione,984
+V007,242_illusione/speranza,2713
+V008,243_interazione,5013
+V008,244_smarrimento/dubbio,9397
+V008,245_smarrimento/dubbio,4100
+V008,246_smarrimento/dubbio,1499
+V008,247_smarrimento/dubbio,2184
+V008,248_interazione,11339
+V008,249_cornice,2652
+V008,250_smarrimento/dubbio,1316
+V008,251_interazione,4497
+V008,252_smarrimento/dubbio,1636
+V008,253_interazione,2294
+V008,254_interazione,6003
+V008,255_cornice,1855
+V008,256_interazione,5546
+V008,257_interazione,5748
+V008,258_interazione,2022
+V008,259_cornice,954
+V008,260_interazione,2155
+V008,261_interazione,3971
+V008,262_cornice,1984
+V008,263_interazione,17795
+V008,264_spostamento,1032
+V008,265_spostamento,1140
+V008,266_spostamento,917
+V008,267_spostamento,462
+V008,268_cornice,1077
+V008,269_spostamento,3953
+V008,270_interazione,742
+V008,271_interazione,1585
+V008,272_interazione,480
+V008,273_interazione,3798
+V008,274_smarrimento/dubbio,2225
+V008,275_interazione,7563
+V008,276_spostamento,449
+V008,277_cornice,4343
+V008,278_spostamento,1797
+V008,279_spostamento,1117
+V008,280_interazione,2181
+V008,281_interazione,1393
+V008,282_spostamento,572
+V008,283_spostamento,620
+V008,284_spostamento,1260
+V008,285_interazione,13086
+V008,286_spostamento,210
+V008,287_smarrimento/dubbio,252
+V008,288_interazione,1966
+V008,289_rivelazione,533
+V008,290_spostamento,132
+V008,291_spostamento,131
+V008,292_rivelazione,2573
+V008,293_spostamento,2183
+V008,294_interazione,1343
+V008,295_interazione,3509
+V008,296_spostamento,367
+V008,297_spostamento,574
+V008,298_spostamento,351
+V008,299_interazione,489
+V008,300_interazione,2225
+V008,301_cornice,3155
+V009,302_spostamento,564
+V009,303_riflessione,4620
+V009,304_spostamento,284
+V009,305_riflessione,5443
+V009,306_riflessione,4524
+V009,307_interazione,621
+V009,308_riflessione,6509
+V009,309_interazione,2031
+V009,310_riflessione,2131
+V009,311_interazione,801
+V009,312_riflessione,1413
+V009,313_interazione,1613
+V009,314_riflessione,1640
+V009,315_interazione,5637
+V009,316_riflessione,8188
+V009,317_interazione,890
+V009,318_riflessione,1675
+V009,319_interazione,4632
+V009,320_pausa/sospensione,940
+V009,321_interazione,6571
+V009,322_pausa/sospensione,20398
+V009,323_interazione,5807
+V009,324_interazione,6859
+V009,325_interazione,1696
+V009,326_interazione,3964
+V009,327_pausa/sospensione,2919
+V009,328_interazione,2432
+V009,329_riflessione,1262
+V009,330_interazione,2498
+V009,331_riflessione,1027
+V010,332_spostamento,2880
+V010,333_interazione,3523
+V010,334_riflessione,1435
+V010,335_intenzione,4418
+V010,336_interazione,575
+V010,337_intenzione,284
+V010,338_interazione,7035
+V010,339_intenzione,82
+V010,340_interazione,4967
+V010,341_spostamento,1188
+V010,342_interazione,4789
+V010,343_intenzione,866
+V010,344_interazione,4075
+V010,345_intenzione,794
+V010,346_interazione,9120
+V010,347_intenzione,1013
+V010,348_intenzione,988
+V010,349_interazione,4882
+V010,350_interazione,6261
+V010,351_interazione,16457
+V010,352_interazione,9471
+V010,353_attesa,4013
+V010,354_interazione,1068
+V010,355_interazione,929
+V010,356_interazione,4117
+V010,357_interazione,2645
+V010,358_interazione,1525
+V010,359_interazione,6535
+V010,360_rivelazione,697
+V010,361_intenzione,968
+V010,362_interazione,7031
+V010,363_attesa,1428
+V010,364_interazione,2915
+V010,365_interazione,2785
+V010,366_interazione,6975
+V010,367_attesa,1200
+V010,368_interazione,5155
+V010,369_spostamento,1482
+V010,370_attesa,1816
+V010,371_interazione,2637
+V010,372_attesa,666
+V010,373_interazione,1451
+V010,374_interazione,5270
+V010,375_interazione,3971
+V010,376_interazione,385
+V010,377_interazione,2013
+V010,378_intenzione,115
+V010,379_interazione,2069
+V010,380_angoscia/delusione,211
+V011,381_struttura,6505
+V011,382_struttura,14003
+V011,383_struttura,103087
+V011,384_struttura,4278
+V011,385_struttura,8741
+V011,386_struttura,8053
+V011,387_struttura,7838
+V011,388_struttura,7069
+V011,389_struttura,5431
+V011,390_struttura,7594
+V011,391_struttura,8752
+V011,392_struttura,16872
+V011,393_struttura,13030
+V011,394_struttura,10513
+V011,395_struttura,12518
+V011,396_struttura,10606
+V011,397_struttura,12414
+V011,398_struttura,6089
+V011,399_struttura,20899
+V011,400_struttura,15228
+V012,401_struttura,101372
+V012,402_struttura,71831
+V013,403_struttura,29710
+V013,404_struttura,19444
+V013,405_struttura,19215
+V013,406_struttura,9472
+V013,407_struttura,18933
+V013,408_struttura,11673
+V013,409_struttura,21379
+V013,410_struttura,16942
+V013,411_struttura,32526
+V013,412_struttura,20385
+V013,413_struttura,26646
+V013,414_struttura,27744
+V014,415_struttura,16589
+V014,416_struttura,21352
+V014,417_struttura,15759
+V014,418_struttura,21024
+V014,419_struttura,27471
+V014,420_struttura,18942
+V014,421_struttura,9287
+V014,422_struttura,27715
+V014,423_struttura,26498
+V014,424_struttura,14556
+V014,425_struttura,22351
+V015,426_struttura,86718
+V015,427_struttura,66376
+V015,428_struttura,64455
+V015,429_struttura,83147
+V015,430_struttura,-300705
+V016,431_cornice,5655
+V016,432_racconto incastonato,11155
+V016,433_racconto incastonato,8423
+V016,434_racconto incastonato,5076
+V016,435_racconto incastonato,4142
+V016,436_racconto incastonato,8674
+V016,437_racconto incastonato,6818
+V016,438_racconto incastonato,8198
+V017,439_struttura,236791
+V017,440_struttura,173243
+V018,441_cornice,1584
+V018,442_racconto incastonato,731
+V018,443_racconto incastonato,765
+V018,444_racconto incastonato,1436
+V018,445_racconto incastonato,1647
+V018,446_racconto incastonato,1398
+V018,447_racconto incastonato,2397
+V018,448_racconto incastonato,1732
+V018,449_racconto incastonato,1590
+V018,450_racconto incastonato,1161
+V018,451_racconto incastonato,1268
+V018,452_cornice,3114
+V018,453_cornice,3881
+V018,454_racconto incastonato,1844
+V018,455_racconto incastonato,1499
+V018,456_racconto incastonato,1466
+V018,457_racconto incastonato,1480
+V018,458_racconto incastonato,1599
+V018,459_cornice,2736
+V018,460_cornice,2194
+V018,461_racconto incastonato,1587
+V018,462_racconto incastonato,2471
+V018,463_racconto incastonato,1971
+V018,464_racconto incastonato,1690
+V018,465_racconto incastonato,1786
+V018,466_cornice,1314
+V018,467_cornice,2300
+V018,468_racconto incastonato,1933
+V018,469_racconto incastonato,1192
+V018,470_racconto incastonato,1740
+V018,471_racconto incastonato,1034
+V018,472_racconto incastonato,1874
+V018,473_cornice,1172
+V018,474_cornice,2095
+V018,475_racconto incastonato,1010
+V018,476_racconto incastonato,1050
+V018,477_racconto incastonato,906
+V018,478_racconto incastonato,2613
+V018,479_racconto incastonato,2145
+V018,480_cornice,397
+V018,481_cornice,2815
+V018,482_racconto incastonato,2163
+V018,483_racconto incastonato,2043
+V018,484_racconto incastonato,1608
+V018,485_racconto incastonato,2544
+V018,486_racconto incastonato,2301
+V018,487_cornice,1966
+V018,488_cornice,1920
+V018,489_racconto incastonato,1068
+V018,490_racconto incastonato,3697
+V018,491_racconto incastonato,2631
+V018,492_racconto incastonato,2941
+V018,493_racconto incastonato,3485
+V018,494_cornice,1271
+V018,495_cornice,3856
+V018,496_cornice,1826
+V018,497_racconto incastonato,763
+V018,498_racconto incastonato,1222
+V018,499_racconto incastonato,1052
+V018,500_racconto incastonato,1708
+V018,501_cornice,1692
+V018,502_cornice,1610
+V018,503_cornice,2549
+V018,504_cornice,2228
+V018,505_racconto incastonato,4205
+V018,506_racconto incastonato,1530
+V018,507_racconto incastonato,2631
+V018,508_racconto incastonato,1837
+V018,509_racconto incastonato,2386
+V018,510_racconto incastonato,2302
+V018,511_racconto incastonato,2470
+V018,512_racconto incastonato,2772
+V018,513_racconto incastonato,2262
+V018,514_racconto incastonato,3178
+V018,515_cornice,1945
+V019,516_struttura,62830
+V019,517_struttura,98778
+V021,518_racconto incastonato,26102
+V021,519_interazione,5179
+V021,520_racconto incastonato,13648
+V021,521_interazione,2304
+V021,522_interazione,2076
+V021,523_interazione,2946
+V021,524_interazione,45030
+V021,525_interazione,27985
+V021,526_interazione,3891
+V021,527_interazione,65027
+V021,528_racconto incastonato,13597
+V021,529_interazione,10811
+V021,530_interazione,8322
+V021,531_interazione,28544
+V021,532_racconto incastonato,53561
+V021,533_racconto incastonato,21550
+V021,534_interazione,8323
+V021,535_interazione,6485
+V021,536_interazione,15064
+V021,537_interazione,1047
+V021,538_racconto incastonato,15434
+V021,539_interazione,10821
+V021,540_interazione,347
+V022,541_struttura,65001
+V022,542_struttura,52483
+V022,543_struttura,47075
+V023,544_struttura,281176
+V023,545_struttura,129693
+V023,546_struttura,104541
+V023,547_struttura,91199
+V018,,
+V019,,
+V021,,
+V022,,
+V023,,
